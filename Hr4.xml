@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Hr4</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Crescentia</p>
+         </publicationStmt>
+         <sourceDesc>
+          
+            <bibl>
+            <title type="main">Hr4</title>
+               <idno type="Transkribus">18062018</idno>
+            </bibl>
+         </sourceDesc>
+         
+      </fileDesc>
+      <encodingDesc>
+      <tagsDecl>
+         <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
+         <rendition xml:id="strikethrough" scheme="css">text-decoration: line-through;</rendition>
+         <rendition xml:id="highlight" scheme="css">
+            background-color: yellow;
+         </rendition>
+         <rendition xml:id="blackening" scheme="css">
+            text-decoration: line-through;
+         </rendition>
+      </tagsDecl>
+         </encodingDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <ab>
+               <lb facs="#facs_5_r_1_tl_1" n="N001"/><hi rend="highlight">E</hi>s was cʒu einen cʒeiten gar
+               <lb facs="#facs_5_r_1_tl_2" n="N002"/>ein gewaltiger criſtenlicher
+               <lb facs="#facs_5_r_1_tl_3" n="N003"/><persName key="Vater_Crescentia">keiſer</persName> cʒu <placeName ref="https://www.wikidata.org/entity/Q220"><hi rend="underline">Rom</hi></placeName> der het keyne̅
+               <lb facs="#facs_5_r_1_tl_4" n="N004"/>erben dann ein einige <persName key="Crescentia">tohter</persName>
+               <lb facs="#facs_5_r_1_tl_5" n="N005"/>die hies mit dem namen <persName key="Crescentia"><hi rend="underline">Cre</hi></persName>
+               <lb facs="#facs_5_r_1_tl_6" n="N006"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName> der was ir <persName key="Mutter_Crescentia">muter</persName> ge
+               <lb facs="#facs_5_r_1_tl_7" n="N007"/>ſtorben <unclear>N</unclear>u gepurt es ſich dʒ
+               <lb facs="#facs_5_r_1_tl_8" n="N008"/>der <persName key="Vater_Crescentia">keiſer</persName> cranck wart das
+               <lb facs="#facs_5_r_1_tl_9" n="N009"/>er wol erkannt an ſeiner kr
+               <lb facs="#facs_5_r_1_tl_10" n="N010"/>ankheit das er wurd ſter
+               <lb facs="#facs_5_r_1_tl_11" n="N011"/>ben Darvmb ſo ſant er nach
+               <lb facs="#facs_5_r_1_tl_12" n="N012"/>den <persName ref="https://www.wikidata.org/wiki/Q2747456">furſten</persName> vnd nach dem ſo
+               <lb facs="#facs_5_r_1_tl_13" n="N013"/><hi rend="underline">nat</hi> cʒu<hi rend="underline"><placeName ref="https://www.wikidata.org/wiki/Q220"> Rom</placeName></hi> vnd enpſalhe
+               <lb facs="#facs_5_r_1_tl_14" n="N014"/>den ſein einige <persName key="Crescentia">tochter <hi rend="underline">Cres</hi></persName>
+               <lb facs="#facs_5_r_1_tl_15" n="N015"/><persName key="Crescentia"><hi rend="underline">ſentia</hi> </persName> wenn er geſturb das
+               <lb facs="#facs_5_r_1_tl_16" n="N016"/>ſie die wolten verſorgen mit
+               <lb facs="#facs_5_r_1_tl_17" n="N017"/>einem elichen <persName key="Kaiser_Dietrich">gemahel</persName> der
+               <lb facs="#facs_5_r_1_tl_18" n="N018"/>ir moht genoſſen das ſie bei
+               <lb facs="#facs_5_r_1_tl_19" n="N019"/>dem <placeName ref="https://www.wikidata.org/wiki/Q220">Romischen reich</placeName> moh be
+               <lb facs="#facs_5_r_1_tl_20" n="N020"/>leiben das gelobten ſie dem
+               <lb facs="#facs_5_r_1_tl_21" n="N021"/><persName key="Vater_Crescentia">keiſer</persName> cʒu thun vnd kurtʒlich
+               <lb facs="#facs_5_r_1_tl_22" n="N022"/>en darnach do ſtarb der <persName key="Vater_Crescentia">keiſer</persName>
+               <lb facs="#facs_5_r_1_tl_23" n="N023"/>vnd die <persName key="Crescentia">edel Iungkfraw </persName>
+               <lb facs="#facs_5_r_1_tl_24" n="N024"/><persName key="Crescentia"><hi rend="underline">Creſentia</hi></persName> die nam cʒu an allen
+               <lb facs="#facs_5_r_1_tl_25" n="N025"/>tugenden vnd an weiſʒheit
+               <lb facs="#facs_5_r_1_tl_26" n="N026"/>vnd an der ſchon das man irs
+               <lb facs="#facs_5_r_1_tl_27" n="N027"/>geleichen in allen <placeName ref="https://www.wikidata.org/wiki/Q220">Romiſchen
+                  <lb facs="#facs_5_r_1_tl_28" n="N028"/>landen </placeName>nicht enfant Do nu̅
+               <lb facs="#facs_5_r_1_tl_29" n="N029"/>die <persName key="Crescentia">edel Iunckfraw </persName><hi rend="underline"></hi>
+               <lb facs="#facs_5_r_1_tl_30" n="N030"/>gewachſen vnd maniger was
+               <lb facs="#facs_5_r_1_tl_31" n="N031"/>worden do waren cʒwen <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">Edel</persName>
+               <lb facs="#facs_5_r_1_tl_32" n="N032"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">furſten</persName> cʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rome</hi></placeName> die hieſen bei
+               <lb facs="#facs_5_r_1_tl_33" n="N033"/>de mit dem namen <persName key="Kaiser_Dietrich_und_Herzog_Dietrich"><hi rend="underline"><unclear>Dietriais</unclear></hi> </persName>
+               <lb facs="#facs_5_r_1_tl_34" n="N034"/>Die waren <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">cʒwen leiplich bru</persName>
+               <lb facs="#facs_5_r_1_tl_35" n="N035"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">der</persName> vnd die wurben beid vm̅
+               <lb facs="#facs_5_r_1_tl_36" n="N036"/>die <persName key="Crescentia">edeln Ivnckfrawen</persName>
+                  <lb facs="#facs_5_r_1_tl_37" n="N037"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> vnd <unclear>itlicher</unclear> het ſie gern
+               <lb facs="#facs_5_r_1_tl_38" n="N038"/>gehabt cʒu einem Elichen ge
+               <lb facs="#facs_5_r_1_tl_39" n="N039"/>mahel Do das die turften vn̅
+               <lb facs="#facs_5_r_1_tl_40" n="N040"/>der ſonat cʒu <placeName ref="https://www.wikidata.org/entity/Q220">Rom</placeName> horten do
+               <lb facs="#facs_5_r_1_tl_41" n="N041"/>gingen ſie cʒu der <persName key="Crescentia">edeln Iuͦnck</persName>
+            </ab>
+            
+            <ab>
+               <lb facs="#facs_5_r_2_tl_1" n="N001"/>XXII
+            </ab>
+            <ab facs="#facs_5_r_3">
+               <lb facs="#facs_5_r_3_tl_1" n="N001"/><persName key="Crescentia">frawen <hi rend="underline">Creſſentia</hi></persName>vnd paten
+               <lb facs="#facs_5_r_3_tl_2" n="N002"/>ſie das ſie iren willen dar cʒu
+               <lb facs="#facs_5_r_3_tl_3" n="N003"/>wolt geben vnd welcher furſt
+               <lb facs="#facs_5_r_3_tl_4" n="N004"/>vnd hercʒog vnter den <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">cʒwei</persName>
+               <lb facs="#facs_5_r_3_tl_5" n="N005"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">en brudern</persName> ir an dem genem
+               <lb facs="#facs_5_r_3_tl_6" n="N006"/>ſten wer vnd ir aller baſt ge
+               <lb facs="#facs_5_r_3_tl_7" n="N007"/>vil den wolten ſie ir geben cʒu
+               <lb facs="#facs_5_r_3_tl_8" n="N008"/>einem gemahel vnd wolten
+               <lb facs="#facs_5_r_3_tl_9" n="N009"/>dem hulden vnd wolten im
+               <lb facs="#facs_5_r_3_tl_10" n="N010"/>das <placeName ref="https://www.wikidata.org/wiki/Q220">Romiſch reich</placeName> vnterteinig
+               <lb facs="#facs_5_r_3_tl_11" n="N011"/>machen vmb ſullich ſach nam
+               <lb facs="#facs_5_r_3_tl_12" n="N012"/>ir die <persName key="Crescentia">edel Iunckfraw <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_5_r_3_tl_13" n="N013"/><persName key="Crescentia"><hi rend="underline">tia</hi> </persName> ein <persName ref="https://www.wikidata.org/wiki/Q15978655">berat</persName> cʒu <unclear>ir</unclear>er antwür
+               <lb facs="#facs_5_r_3_tl_14" n="N014"/>ten Darnach do kamen die <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">he</persName>
+               <lb facs="#facs_5_r_3_tl_15" n="N015"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">ren</persName> wider cʒu Ir vnd begerte̅
+               <lb facs="#facs_5_r_3_tl_16" n="N016"/>einer antwurt Nu het die
+               <lb facs="#facs_5_r_3_tl_17" n="N017"/><persName key="Crescentia">edel <hi rend="underline">Creſſentia</hi></persName> einen guten
+               <lb facs="#facs_5_r_3_tl_18" n="N018"/>willen cʒu pleiben in ir Rey
+               <lb facs="#facs_5_r_3_tl_19" n="N019"/>nigkeit das gab ſie den <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">her</persName>
+               <lb facs="#facs_5_r_3_tl_20" n="N020"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">ren</persName> cʒu erkennen Do antwur
+                  <lb facs="#facs_5_r_3_tl_21" n="N021"/>ten ir die <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">herren</persName> vnd ſprach
+               <lb facs="#facs_5_r_3_tl_22" n="N022"/>en alſo <persName key="Crescentia">Edeln Iunckfrawen</persName> wir
+               <lb facs="#facs_5_r_3_tl_23" n="N023"/>haben <persName key="Vater_Crescentia">ewerm vater </persName>müſen
+               <lb facs="#facs_5_r_3_tl_24" n="N024"/>verloben euch cʒu behalten
+               <lb facs="#facs_5_r_3_tl_25" n="N025"/>ber dem <placeName ref="https://www.wikidata.org/wiki/Q220">Romiſchen Reich</placeName> des
+               <lb facs="#facs_5_r_3_tl_26" n="N026"/>kunn wir nicht getun vnd ge
+               <lb facs="#facs_5_r_3_tl_27" n="N027"/>purt vns auch nicht cʒu thun
+               <lb facs="#facs_5_r_3_tl_28" n="N028"/>ir habt dann einen edeln ge
+               <lb facs="#facs_5_r_3_tl_29" n="N029"/>mahel der ewer adel vnd
+               <lb facs="#facs_5_r_3_tl_30" n="N030"/>wirdickeit wol fuget darvm̅
+               <lb facs="#facs_5_r_3_tl_31" n="N031"/>ſo ſult ir <persName key="Vater_Crescentia">ewers vater</persName> geſcheft
+               <lb facs="#facs_5_r_3_tl_32" n="N032"/>das er mit vns verlaſen vnd
+               <lb facs="#facs_5_r_3_tl_33" n="N033"/>gemacht hat nicht <unclear>verſine</unclear>
+               <lb facs="#facs_5_r_3_tl_34" n="N034"/><unclear>hen</unclear> vnſerm rat volgen vn̅
+               <lb facs="#facs_5_r_3_tl_35" n="N035"/>ſult nemen ein elichen gema
+               <lb facs="#facs_5_r_3_tl_36" n="N036"/>hel Do die <persName key="Crescentia">Edel <hi rend="underline">Creſtentia </hi></persName>
+               <lb facs="#facs_5_r_3_tl_37" n="N037"/>iren ernſt hort do nam ſie ir
+               <lb facs="#facs_5_r_3_tl_38" n="N038"/>aber ein berat welchen <persName key="Kaiser_Dietrich_und_Herzog_Dietrich">er</persName>
+               <lb facs="#facs_5_r_3_tl_39" n="N039"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">cʒogen vnter den cʒweien pru</persName>
+               <lb facs="#facs_5_r_3_tl_40" n="N040"/><persName key="Kaiser_Dietrich_und_Herzog_Dietrich">der̅ </persName>ſie wolt nemen cʒu eine̅
+               <lb facs="#facs_5_r_3_tl_41" n="N041"/>gemahel vnd ſie vorſchet mit
+            </ab>
+            <ab facs="#facs_5_r_4" >
+               <lb facs="#facs_5_r_4_tl_1" n="N001"/>fleiſʒ nach Irem leben vnd wan
+               <lb facs="#facs_5_r_4_tl_2" n="N002"/>del do wart ir geſagt von dem
+               <lb facs="#facs_5_r_4_tl_3" n="N003"/><persName key="Kaiser_Dietrich">eltern pruder </persName>das der ein got
+               <lb facs="#facs_5_r_4_tl_4" n="N004"/>forchtiger herr wer vnd wer
+               <lb facs="#facs_5_r_4_tl_5" n="N005"/>weiſʒ vnd tugentlichen gen
+               <lb facs="#facs_5_r_4_tl_6" n="N006"/>allen menſchen vnd wer da
+               <lb facs="#facs_5_r_4_tl_7" n="N007"/>ber ernſthaft gen ſeinen ſein
+               <lb facs="#facs_5_r_4_tl_8" n="N008"/>den aber der <persName key="Herzog_Dietrich">Iunger hercʒog</persName>
+               <lb facs="#facs_5_r_4_tl_9" n="N009"/><persName key="Herzog_Dietrich"> ſein bruder</persName> der was ſchoner
+               <lb facs="#facs_5_r_4_tl_10" n="N010"/>von leib vnd von angeſiht nah
+               <lb facs="#facs_5_r_4_tl_11" n="N011"/>wertlichem geuallen dann d͛
+               <lb facs="#facs_5_r_4_tl_12" n="N012"/><persName key="Kaiser_Dietrich">elter bruder</persName> das ſah die <persName key="Crescentia">edel tu</persName>
+               <lb facs="#facs_5_r_4_tl_13" n="N013"/><persName key="Crescentia">genthafft <hi rend="underline">Creſſentia</hi></persName> nicht an
+               <lb facs="#facs_5_r_4_tl_14" n="N014"/>ſunder ſie erwelt ir den <persName key="Kaiser_Dietrich">eltern</persName>
+               <lb facs="#facs_5_r_4_tl_15" n="N015"/><persName key="Kaiser_Dietrich">bruder</persName> cʒu einem gemahel d͛
+               <lb facs="#facs_5_r_4_tl_16" n="N016"/>was von angeſiht ein praw
+               <lb facs="#facs_5_r_4_tl_17" n="N017"/>ner herr vnd ſie ſant nach iren
+               <lb facs="#facs_5_r_4_tl_18" n="N018"/><persName key="Gefolgschaft">furſten vnd heren</persName> vnd nach de̅
+               <lb facs="#facs_5_r_4_tl_19" n="N019"/><persName ref="https://www.wikidata.org/wiki/Q2570643"><hi rend="underline">Senaten</hi> des Rates</persName> cʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName>
+               <lb facs="#facs_5_r_4_tl_20" n="N020"/>vnd ſaget In das ſie dem geſch
+               <lb facs="#facs_5_r_4_tl_21" n="N021"/>efft vnd ſchickung <persName key="Vater_Crescentia">irs vaters</persName>
+               <lb facs="#facs_5_r_4_tl_22" n="N022"/>ſeligen wolt nach ku̅men vnd
+               <lb facs="#facs_5_r_4_tl_23" n="N023"/>wolt irem Rat vervolgen vnd
+               <lb facs="#facs_5_r_4_tl_24" n="N024"/>wolt den <persName key="Kaiser_Dietrich">eltern bruder hercʒog</persName>
+               <lb facs="#facs_5_r_4_tl_25" n="N025"/><hi rend="underline"><persName key="Kaiser_Dietrich">Dietrich</persName> </hi>nemen cʒu einem e
+               <lb facs="#facs_5_r_4_tl_26" n="N026"/>lichen gemahel Do die <persName key="Gefolgschaft">fürſten</persName>
+               <lb facs="#facs_5_r_4_tl_27" n="N027"/><persName ref="https://www.wikidata.org/wiki/Q15978655" key="Berater">vnd die her᷎en des rats</persName> cʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName>
+               <lb facs="#facs_5_r_4_tl_28" n="N028"/>horten das die <persName key="Crescentia">edel Iunckfraw</persName>
+               <lb facs="#facs_5_r_4_tl_29" n="N029"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> irem Rat wolt vol
+               <lb facs="#facs_5_r_4_tl_30" n="N030"/>gen da wurden ſie gar fro vn̅
+               <lb facs="#facs_5_r_4_tl_31" n="N031"/>das <placeName ref="https://www.wikidata.org/wiki/Q220">volck gemeinglichen der
+               <lb facs="#facs_5_r_4_tl_32" n="N032"/>Stat vnd des lanndes cʒu <hi rend="underline">Rom</hi></placeName>
+               <lb facs="#facs_5_r_4_tl_33" n="N033"/>vnd ſie vermehelten ſie dem <persName key="Kaiser_Dietrich">her</persName>
+               <lb facs="#facs_5_r_4_tl_34" n="N034"/><persName key="Kaiser_Dietrich">cʒog</persName> mit groſʒen frewden vnd
+               <lb facs="#facs_5_r_4_tl_35" n="N035"/>ſie lobten darnach ſo tar tug
+               <lb facs="#facs_5_r_4_tl_36" n="N036"/>entlich vnd gar frewntlichen
+               <lb facs="#facs_5_r_4_tl_37" n="N037"/>ym der ee mit einander das
+               <lb facs="#facs_5_r_4_tl_38" n="N038"/>alle menſchen ein frewd vnd
+               <lb facs="#facs_5_r_4_tl_39" n="N039"/>ein groſʒ wolgeuallen an Ine
+               <lb facs="#facs_5_r_4_tl_40" n="N040"/>heten Do nu̅ der <persName key="Kaiser_Dietrich">herʒog</persName> cʒu dem
+               <lb facs="#facs_5_r_4_tl_41" n="N041"/><placeName ref="https://www.wikidata.org/wiki/Q220">Romiſche̅ reich</placeName> gecronet wart
+            </ab>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <ab facs="#facs_6_r" >
+               <lb facs="#facs_6_r_tl_1" n="N001"/>vnd er die groſen weiſʒheit
+               <lb facs="#facs_6_r_tl_2" n="N002"/>vnd furſchtikeit ſeiner <persName key="Crescentia">lie</persName>
+               <lb facs="#facs_6_r_tl_3" n="N003"/><persName key="Crescentia">ben frawen <hi rend="underline">Creſſentia</hi></persName> ercka̅t
+               <lb facs="#facs_6_r_tl_4" n="N004"/>do det er vnd handelt nichtʒ
+               <lb facs="#facs_6_r_tl_5" n="N005"/>an Iren Rat <hi rend="highlight">¶ </hi>Vnd do ſie nu̅
+               <lb facs="#facs_6_r_tl_6" n="N006"/><unclear>etwie</unclear> lang bei ein ander wa
+               <lb facs="#facs_6_r_tl_7" n="N007"/>ren geweſen vnd ir ee gehal
+               <lb facs="#facs_6_r_tl_8" n="N008"/>ten heten nach gotlicher or
+               <lb facs="#facs_6_r_tl_9" n="N009"/>denu̅g vnd <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> da bei mit flei
+               <lb facs="#facs_6_r_tl_10" n="N010"/>ſiger an acht gedint heten vn̄
+               <lb facs="#facs_6_r_tl_11" n="N011"/>eins das ander mit worten nÿ
+               <lb facs="#facs_6_r_tl_12" n="N012"/>betrubt hetten Do füget es ſich
+               <lb facs="#facs_6_r_tl_13" n="N013"/>das der <persName key="Kaiser_Dietrich">keiſer</persName> mueſt auſʒ reiten
+               <lb facs="#facs_6_r_tl_14" n="N014"/>von des <placeName ref="https://www.wikidata.org/wiki/Q220">reichs</placeName> nutʒ vnd notdu
+               <lb facs="#facs_6_r_tl_15" n="N015"/>rfft wegen das er beſorget das
+               <lb facs="#facs_6_r_tl_16" n="N016"/>er in treien oder in virn jarn
+               <lb facs="#facs_6_r_tl_17" n="N017"/>nicht moht wider heim <del rend="blackening" ><hi rend="strikethrough">wider</hi></del>
+               <lb facs="#facs_6_r_tl_18" n="N018"/><del rend="blackening"><hi rend="strikethrough">heim</hi></del> <placeName ref="https://www.wikidata.org/wiki/Q220">cʒu lande</placeName> kumen Darvmb
+               <lb facs="#facs_6_r_tl_19" n="N019"/>ſo beſtellet er das <placeName ref="https://www.wikidata.org/wiki/Q220">Reich</placeName> mit ſei
+               <lb facs="#facs_6_r_tl_20" n="N020"/>nem lieben gemahel der <persName key="Crescentia">tuget</persName>
+               <lb facs="#facs_6_r_tl_21" n="N021"/><persName key="Crescentia">hafften<hi rend="underline">Creſſentia</hi></persName>vnd er gab
+               <lb facs="#facs_6_r_tl_22" n="N022"/>ir <persName key="Herzog_Dietrich">ſeinen bruder</persName> cʒu einem for
+               <lb facs="#facs_6_r_tl_23" n="N023"/>mut das er <placeName ref="https://www.wikidata.org/wiki/Q220">das lant</placeName> ſolt be¬
+               <lb facs="#facs_6_r_tl_24" n="N024"/>ſchawern biſʒ auf ſein cʒukunft
+               <lb facs="#facs_6_r_tl_25" n="N025"/>vnd ſolt irgetrewlichen vorſein̅
+               <lb facs="#facs_6_r_tl_26" n="N026"/>vnd ſolt ſie haben in ſeiner be
+               <lb facs="#facs_6_r_tl_27" n="N027"/>ſchirmung das ir von nyma̅t
+               <lb facs="#facs_6_r_tl_28" n="N028"/>kein vngemach geſchehe vnd
+               <lb facs="#facs_6_r_tl_29" n="N029"/>er ſolt auch alle ſach handeln
+               <lb facs="#facs_6_r_tl_30" n="N030"/>nach Iren rat das gelobet er
+               <lb facs="#facs_6_r_tl_31" n="N031"/>dem <persName key="Kaiser_Dietrich">keiſer ſeinem bruder</persName> ge
+               <lb facs="#facs_6_r_tl_32" n="N032"/>trewelichen cʒu halten Do nu̅
+               <lb facs="#facs_6_r_tl_33" n="N033"/>der <persName key="Kaiser_Dietrich">keiſer</persName> auſʒ <placeName ref="https://www.wikidata.org/wiki/Q220">dem lande</placeName> kam
+               <lb facs="#facs_6_r_tl_34" n="N034"/>do verkert der <persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> dem <persName key="Herzog_Dietrich">her</persName>
+               <lb facs="#facs_6_r_tl_35" n="N035"/><persName key="Herzog_Dietrich">cʒogen</persName> ſein gewett das er ein
+               <lb facs="#facs_6_r_tl_36" n="N036"/>falſche vnreyne lieb gewan
+               <lb facs="#facs_6_r_tl_37" n="N037"/>cʒu der <persName key="Crescentia">edeln tugenthaftigen</persName>
+               <lb facs="#facs_6_r_tl_38" n="N038"/><persName key="Crescentia">frawen<hi rend="underline">Creſtentia</hi> ſeines bru¬</persName>
+               <lb facs="#facs_6_r_tl_39" n="N039"/><persName key="Crescentia">ders weip</persName> vnd der<persName ref="https://www.wikidata.org/wiki/Q6674"> teufel</persName> entʒu̅
+               <lb facs="#facs_6_r_tl_40" n="N040"/>det im ſein boſʒ hercʒ ſo gar gen
+               <lb facs="#facs_6_r_tl_41" n="N041"/>der <persName key="Crescentia">edeln <hi rend="underline"></hi></persName><hi rend="underline"></hi> das in be
+            </ab>
+            <ab facs="#facs_6_r_1" >
+               <lb facs="#facs_6_r_1_tl_1" n="N001"/><unclear>dauht</unclear> vnd im furnam moht
+               <lb facs="#facs_6_r_1_tl_2" n="N002"/>er ſein vnreine liebe an ir nicht
+               <lb facs="#facs_6_r_1_tl_3" n="N003"/>erfullen ſo muſt <del rend="blackening"><hi rend="strikethrough">en</hi></del> er ſein lebe̅
+               <lb facs="#facs_6_r_1_tl_4" n="N004"/>darvmb geben vnd er gedacht
+               <lb facs="#facs_6_r_1_tl_5" n="N005"/>wie er ein ſulchs an ſie moht
+               <lb facs="#facs_6_r_1_tl_6" n="N006"/>Darnach do wartet er Im einer
+               <lb facs="#facs_6_r_1_tl_7" n="N007"/>cʒeit vnd kam cʒu der <persName key="Crescentia">tugentlich</persName>
+               <lb facs="#facs_6_r_1_tl_8" n="N008"/><persName key="Crescentia">en frawen <hi rend="underline">Creſſentia</hi></persName> vnd gab
+               <lb facs="#facs_6_r_1_tl_9" n="N009"/>ir ſein valſche vnreyne liebe di
+               <lb facs="#facs_6_r_1_tl_10" n="N010"/>er cʒu ir het cʒu erkennen gar
+               <lb facs="#facs_6_r_1_tl_11" n="N011"/>mit vil valſchen worten da mit
+               <lb facs="#facs_6_r_1_tl_12" n="N012"/>er ſie meinet cʒu betriegen vn̅
+               <lb facs="#facs_6_r_1_tl_13" n="N013"/>ſeinen poſen willen an ir cʒu vol
+               <lb facs="#facs_6_r_1_tl_14" n="N014"/>pringen <hi rend="highlight">¶</hi> Do nu die <persName key="Crescentia">edel</persName>
+               <lb facs="#facs_6_r_1_tl_15" n="N015"/><persName key="Crescentia">tugenthafft <hi rend="underline">Creſſentia</hi></persName> des vn
+               <lb facs="#facs_6_r_1_tl_16" n="N016"/>getrewen <persName key="Herzog_Dietrich">hercʒogen irs ſwa</persName>
+               <lb facs="#facs_6_r_1_tl_17" n="N017"/><persName key="Herzog_Dietrich">ers </persName>poſen willen vernam de̅
+               <lb facs="#facs_6_r_1_tl_18" n="N018"/>er cʒu ir het vnd des ſie vnbe
+               <lb facs="#facs_6_r_1_tl_19" n="N019"/>ſorgt vor im was do erſrack
+               <lb facs="#facs_6_r_1_tl_20" n="N020"/>ſie cʒu mal ſer das ſie im lang
+               <lb facs="#facs_6_r_1_tl_21" n="N021"/>kein antwort moht gegeben
+               <lb facs="#facs_6_r_1_tl_22" n="N022"/>vnd do ſie ſich bedaht do ant
+               <lb facs="#facs_6_r_1_tl_23" n="N023"/>wurt ſie im gar <unclear>cʒuhaglichen</unclear>
+               <lb facs="#facs_6_r_1_tl_24" n="N024"/>vnd vermant in an die beſun
+               <lb facs="#facs_6_r_1_tl_25" n="N025"/>dern lieb die der <persName key="Kaiser_Dietrich">keiſer</persName> cʒu im
+               <lb facs="#facs_6_r_1_tl_26" n="N026"/>het <persName key="Herzog_Dietrich">ſein bruder</persName> das er ſie Im
+               <lb facs="#facs_6_r_1_tl_27" n="N027"/>beſunder enpfolhen het in ſein̅
+               <lb facs="#facs_6_r_1_tl_28" n="N028"/>beſchirmung Die wert ſich
+               <lb facs="#facs_6_r_1_tl_29" n="N029"/>auch ſein auſʒ der ſchrifft wie
+               <lb facs="#facs_6_r_1_tl_30" n="N030"/>gar ſwerlichen man die ſund
+               <lb facs="#facs_6_r_1_tl_31" n="N031"/>puſen muſt die an ſulcher dat
+               <lb facs="#facs_6_r_1_tl_32" n="N032"/>begriffen wurden das ſie wur
+               <lb facs="#facs_6_r_1_tl_33" n="N033"/>den verſteinet vnd das groſt
+               <lb facs="#facs_6_r_1_tl_34" n="N034"/>das ſie ewiglichen muſten ver
+               <lb facs="#facs_6_r_1_tl_35" n="N035"/>dampt ſein Mit ſulchen vnd
+               <lb facs="#facs_6_r_1_tl_36" n="N036"/>andern worten behalff ſich di
+               <lb facs="#facs_6_r_1_tl_37" n="N037"/><persName key="Crescentia">tugenthafft fraw <hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_6_r_1_tl_38" n="N038"/>als lang das ſie ſich von dem
+               <lb facs="#facs_6_r_1_tl_39" n="N039"/><persName key="Herzog_Dietrich">vngetrewen hercʒogen</persName> redet
+               <lb facs="#facs_6_r_1_tl_40" n="N040"/>das er von Ir lieſʒ auf die cʒeit
+               <lb facs="#facs_6_r_1_tl_41" n="N041"/>aber der <persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> het In ſo gar
+            </ab>
+            <ab facs="#facs_6_r_3" >
+               <lb facs="#facs_6_r_3_tl_1" n="N001"/>XXIII
+            </ab>
+            <ab facs="#facs_6_r_2" >
+               <lb facs="#facs_6_r_2_tl_1" n="N001"/>beſeſſen das er nicht ablaſen
+               <lb facs="#facs_6_r_2_tl_2" n="N002"/>vnd er bekumert die <persName key="Crescentia">edeln</persName>
+               <lb facs="#facs_6_r_2_tl_3" n="N003"/><persName key="Crescentia">frawen</persName> ſo hart das ſie gar ſw͛
+               <lb facs="#facs_6_r_2_tl_4" n="N004"/>lichen betrubet wart vnd ſie
+               <lb facs="#facs_6_r_2_tl_5" n="N005"/>ver meid ſein gegenwertigkeit
+               <lb facs="#facs_6_r_2_tl_6" n="N006"/>wo ſie moht Darnach cʒu
+               <lb facs="#facs_6_r_2_tl_7" n="N007"/>einen cʒeiten do kan der <persName key="Herzog_Dietrich">vnge</persName>
+               <lb facs="#facs_6_r_2_tl_8" n="N008"/><persName key="Herzog_Dietrich">trew hercʒog</persName> aber cʒu ir allei̅
+               <lb facs="#facs_6_r_2_tl_9" n="N009"/>das ſie Im nicht moht entw
+               <lb facs="#facs_6_r_2_tl_10" n="N010"/>eichen vnd leget groſʒ pete
+               <lb facs="#facs_6_r_2_tl_11" n="N011"/>an ſie das ſie ſeinen willen
+               <lb facs="#facs_6_r_2_tl_12" n="N012"/>volpreht ob ſie in anders pei
+               <lb facs="#facs_6_r_2_tl_13" n="N013"/>ſeinem leben wolt behalten
+               <lb facs="#facs_6_r_2_tl_14" n="N014"/><hi rend="highlight">¶</hi> Do die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_6_r_2_tl_15" n="N015"/>ſah das er von ſeinem poſen
+               <lb facs="#facs_6_r_2_tl_16" n="N016"/>willen nicht wolt laſen do
+               <lb facs="#facs_6_r_2_tl_17" n="N017"/>gedaht ſie wie ſie einen funt
+               <lb facs="#facs_6_r_2_tl_18" n="N018"/>moht erdencken damit ſie
+               <lb facs="#facs_6_r_2_tl_19" n="N019"/>in verwen̅et Als lang das
+               <lb facs="#facs_6_r_2_tl_20" n="N020"/>ir lieber <persName key="Kaiser_Dietrich">her der keiſer</persName> wider
+               <lb facs="#facs_6_r_2_tl_21" n="N021"/><placeName ref="https://www.wikidata.org/wiki/Q220">heim cʒu land</placeName> kem das ſie ſich
+               <lb facs="#facs_6_r_2_tl_22" n="N022"/>er vor im wurd vnd ſie ſprach
+               <lb facs="#facs_6_r_2_tl_23" n="N023"/>gar gutlichen cʒu im alſo lieber
+               <lb facs="#facs_6_r_2_tl_24" n="N024"/>her ſo ir von ſulchen ſachen
+               <lb facs="#facs_6_r_2_tl_25" n="N025"/>nicht wolt laſen vnd wolt yë
+               <lb facs="#facs_6_r_2_tl_26" n="N026"/>den Reten des <persName ref="https://www.wikidata.org/wiki/Q6674">teufels</persName> nach vol
+               <lb facs="#facs_6_r_2_tl_27" n="N027"/>gen wider die gepot <persName ref="https://www.wikidata.org/wiki/Q190"><hi rend="underline">gotes</hi></persName> vn̄
+               <lb facs="#facs_6_r_2_tl_28" n="N028"/>meint mich vnd meinen <persName key="Kaiser_Dietrich">her</persName>
+               <lb facs="#facs_6_r_2_tl_29" n="N029"/><persName key="Kaiser_Dietrich">ren ewern bruder den keiſer</persName>
+               <lb facs="#facs_6_r_2_tl_30" n="N030"/>cʒu ſwechen ſo gebet nu ein
+               <lb facs="#facs_6_r_2_tl_31" n="N031"/>cʒeit vmb ſulich ſach cʒu bede
+               <lb facs="#facs_6_r_2_tl_32" n="N032"/>ncken Alſo gab er ir einen
+               <lb facs="#facs_6_r_2_tl_33" n="N033"/><unclear>M</unclear>anet das ſie ſich ſolt bedenck
+               <lb facs="#facs_6_r_2_tl_34" n="N034"/>en ſeinen willen cʒu thun <hi rend="highlight">¶</hi>
+               <lb facs="#facs_6_r_2_tl_35" n="N035"/>Altʒuhant nach der cʒeit do
+               <lb facs="#facs_6_r_2_tl_36" n="N036"/>an der <persName key="Herzog_Dietrich">vngetrew hercʒog</persName> ab
+               <lb facs="#facs_6_r_2_tl_37" n="N037"/>er cʒu der <persName key="Crescentia">ſeligen <hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_6_r_2_tl_38" n="N038"/>vnd begert das ſie ſeinen wil
+               <lb facs="#facs_6_r_2_tl_39" n="N039"/>len volpreht Do antwurt
+               <lb facs="#facs_6_r_2_tl_40" n="N040"/>ſie im aber gar weiſʒlichen
+               <lb facs="#facs_6_r_2_tl_41" n="N041"/>vnd ſprach alſo liber her ich
+            </ab>
+            <ab facs="#facs_6_r_4" >
+               <lb facs="#facs_6_r_4_tl_1" n="N001"/>han gedacht auf einen ſÿn des
+               <lb facs="#facs_6_r_4_tl_2" n="N002"/>vns peiden ein groſʒe notdurft
+               <lb facs="#facs_6_r_4_tl_3" n="N003"/>iſt ob ich ewers willen pin
+               <lb facs="#facs_6_r_4_tl_4" n="N004"/>das wir die Sund der vnlan
+               <lb facs="#facs_6_r_4_tl_5" n="N005"/>terkeit volpringen das kan
+               <lb facs="#facs_6_r_4_tl_6" n="N006"/>nicht verſwigen pleiben denn
+               <lb facs="#facs_6_r_4_tl_7" n="N007"/>ſo ſei wir ſchuldeig des leiplich
+               <lb facs="#facs_6_r_4_tl_8" n="N008"/>en todes dem mug wir vor
+               <lb facs="#facs_6_r_4_tl_9" n="N009"/>dem <persName key="Kaiser_Dietrich">keiſer</persName> nicht entgen Dar
+               <lb facs="#facs_6_r_4_tl_10" n="N010"/>vmb ſo wol wir vns einen
+               <lb facs="#facs_6_r_4_tl_11" n="N011"/>turn pawen auf dem wir ſich
+               <lb facs="#facs_6_r_4_tl_12" n="N012"/>er ſein das wir vnſer leben mut
+               <lb facs="#facs_6_r_4_tl_13" n="N013"/>gen gefriſten vnd wenn der
+               <lb facs="#facs_6_r_4_tl_14" n="N014"/>turnn gemacht wurt ſo wil
+               <lb facs="#facs_6_r_4_tl_15" n="N015"/>ich ewern willen volpringen
+               <lb facs="#facs_6_r_4_tl_16" n="N016"/>vnd ich wil alcʒuhant an heb
+               <lb facs="#facs_6_r_4_tl_17" n="N017"/>ein laſʒen cʒu pawen das der
+               <lb facs="#facs_6_r_4_tl_18" n="N018"/>turn kurtʒlichen volpraht ſol
+               <lb facs="#facs_6_r_4_tl_19" n="N019"/>werden Mit ſulchen <del rend="blackening"><hi rend="strikethrough">verſt</hi></del> wor
+               <lb facs="#facs_6_r_4_tl_20" n="N020"/>ten rett ſie in as das er ſeinen
+               <lb facs="#facs_6_r_4_tl_21" n="N021"/>willen darcʒu gab vnd ſie hub
+               <lb facs="#facs_6_r_4_tl_22" n="N022"/>an cʒu pawen gar einen koſten
+               <lb facs="#facs_6_r_4_tl_23" n="N023"/>lichen turn vmb das das es
+               <lb facs="#facs_6_r_4_tl_24" n="N024"/>ſich ſolt vercʒiehen das ir <persName key="Kaiser_Dietrich">lieber</persName>
+               <lb facs="#facs_6_r_4_tl_25" n="N025"/><persName key="Kaiser_Dietrich">her der keiſer</persName> da weil <placeName ref="https://www.wikidata.org/wiki/Q220">cʒu land</placeName>
+               <lb facs="#facs_6_r_4_tl_26" n="N026"/>ſolt ku̅men vnd do man nun
+               <lb facs="#facs_6_r_4_tl_27" n="N027"/>wol ein Iar an dem turn gem
+               <lb facs="#facs_6_r_4_tl_28" n="N028"/>acht het vnd gar ſchir bereit
+               <lb facs="#facs_6_r_4_tl_29" n="N029"/>was do ging der <persName key="Herzog_Dietrich">vngetrewe</persName>
+               <lb facs="#facs_6_r_4_tl_30" n="N030"/><persName key="Herzog_Dietrich">hercʒog</persName> aber cʒu der <persName key="Crescentia">ſeligen</persName>
+               <lb facs="#facs_6_r_4_tl_31" n="N031"/><persName key="Crescentia"><hi rend="underline"> Creſſentia</hi></persName> vnd bewert das ſie
+               <lb facs="#facs_6_r_4_tl_32" n="N032"/>ſeinen willen volprecht als ſie
+               <lb facs="#facs_6_r_4_tl_33" n="N033"/>im dann verſprochen het Do
+               <lb facs="#facs_6_r_4_tl_34" n="N034"/>antwurt ſye im aber gar cʒuh
+               <lb facs="#facs_6_r_4_tl_35" n="N035"/>tiglichen vnd ſprach alſo lieber
+               <lb facs="#facs_6_r_4_tl_36" n="N036"/>herr wir muſen einen altar ha
+               <lb facs="#facs_6_r_4_tl_37" n="N037"/>ben in dem turn vnd ſchon ta
+               <lb facs="#facs_6_r_4_tl_38" n="N038"/>feln von geweld vnd muſʒen
+               <lb facs="#facs_6_r_4_tl_39" n="N039"/>in auch bewarn mit guten ſloſʒ
+               <lb facs="#facs_6_r_4_tl_40" n="N040"/>ſen das wir ſicher ſein vnd
+               <lb facs="#facs_6_r_4_tl_41" n="N041"/>wenn das bereit vnd gemacht
+            </ab>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <ab facs="#facs_7_r_1" >
+               <lb facs="#facs_7_r_1_tl_1" n="N001"/>wirt ſo will ich mit euch gen
+               <lb facs="#facs_7_r_1_tl_2" n="N002"/>in den turn vnd will ewern
+               <lb facs="#facs_7_r_1_tl_3" n="N003"/>willen volpringen do wart
+               <lb facs="#facs_7_r_1_tl_4" n="N004"/>er aber gar fro vnd peitet biſʒ
+               <lb facs="#facs_7_r_1_tl_5" n="N005"/>das alles gemacht wart Alſo
+               <lb facs="#facs_7_r_1_tl_6" n="N006"/>vercʒohe̅ es ſich aber nahent
+               <lb facs="#facs_7_r_1_tl_7" n="N007"/>auf ein Iar vnd er kam aber
+               <lb facs="#facs_7_r_1_tl_8" n="N008"/>vnd pat ſie das ſye im hielt dʒ
+               <lb facs="#facs_7_r_1_tl_9" n="N009"/>ſie im verſprochen het Do mit
+               <lb facs="#facs_7_r_1_tl_10" n="N010"/><persName key="Crescentia">die ſelig <hi rend="underline">Creſſentia</hi></persName> im nicht
+               <lb facs="#facs_7_r_1_tl_11" n="N011"/>lenger kond vertʒiehen do ſp̃h
+               <lb facs="#facs_7_r_1_tl_12" n="N012"/>ſie cʒu Im alſo lieber herr get
+               <lb facs="#facs_7_r_1_tl_13" n="N013"/>heimlichen auff den turn ſo
+               <lb facs="#facs_7_r_1_tl_14" n="N014"/>will ich auch allem cʒu euch ku
+               <lb facs="#facs_7_r_1_tl_15" n="N015"/>men Do wart der vngetrew
+               <lb facs="#facs_7_r_1_tl_16" n="N016"/>aber gar fro vnd ging allein
+               <lb facs="#facs_7_r_1_tl_17" n="N017"/>auf den turn Do nam die <persName key="Crescentia">E</persName>
+               <lb facs="#facs_7_r_1_tl_18" n="N018"/><persName key="Crescentia">del <hi rend="underline">Creſſentia</hi></persName> die ſluſʒel cʒu
+               <lb facs="#facs_7_r_1_tl_19" n="N019"/>ir die het ſie laſen machen
+               <lb facs="#facs_7_r_1_tl_20" n="N020"/>wenn man mit den ſluſſeln
+               <lb facs="#facs_7_r_1_tl_21" n="N021"/><unclear>auſwenig</unclear> cʒu ſloſʒ ſo moht
+               <lb facs="#facs_7_r_1_tl_22" n="N022"/>nymant der Inwendig was
+               <lb facs="#facs_7_r_1_tl_23" n="N023"/>an ſluſſel auf getan vnd ſie
+               <lb facs="#facs_7_r_1_tl_24" n="N024"/>ging in einem guten getraw
+               <lb facs="#facs_7_r_1_tl_25" n="N025"/>en in den turn die <persName ref="https://www.wikidata.org/wiki/Q345">muter gotʒ</persName>
+               <lb facs="#facs_7_r_1_tl_26" n="N026"/>wurd ir ere wol behuten vnd
+               <lb facs="#facs_7_r_1_tl_27" n="N027"/>do ſie der <persName key="Herzog_Dietrich">hercʒog</persName> ſah das ſie
+               <lb facs="#facs_7_r_1_tl_28" n="N028"/>allein kumen was do was er
+               <lb facs="#facs_7_r_1_tl_29" n="N029"/>gar fro vnd wart gen ir encʒu̅
+               <lb facs="#facs_7_r_1_tl_30" n="N030"/>det in vnreiner lieb Do ſprach
+               <lb facs="#facs_7_r_1_tl_31" n="N031"/>die <persName key="Crescentia">edel tugenthaft <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_7_r_1_tl_32" n="N032"/>alſo herr wir wollen die ſluſſel
+               <lb facs="#facs_7_r_1_tl_33" n="N033"/>verſuchen ob ſie die ſloſʒ veſt
+               <lb facs="#facs_7_r_1_tl_34" n="N034"/>cʒu ſlieſen das d wir bewart
+               <lb facs="#facs_7_r_1_tl_35" n="N035"/>ſein vnd ſie lieſʒ den hercʒogen
+               <lb facs="#facs_7_r_1_tl_36" n="N036"/>in dem gewelb vnd ſlug die tur
+               <lb facs="#facs_7_r_1_tl_37" n="N037"/>nach ir ein die was wol be
+               <lb facs="#facs_7_r_1_tl_38" n="N038"/>wart mit eiſerm Rigel vnd
+               <lb facs="#facs_7_r_1_tl_39" n="N039"/>ſchloſſen vnd ſie ſperret auſe̅
+               <lb facs="#facs_7_r_1_tl_40" n="N040"/>gar wol ʒu <hi rend="highlight">¶</hi> Do der <persName key="Herzog_Dietrich">hercʒ</persName>
+               <lb facs="#facs_7_r_1_tl_41" n="N041"/><persName key="Herzog_Dietrich">og</persName> ſahe das er verperrt was
+            </ab>
+            <ab facs="#facs_7_r_2" >
+               <lb facs="#facs_7_r_2_tl_1" n="N001"/>vnd nicht kund auf getun do
+               <lb facs="#facs_7_r_2_tl_2" n="N002"/>erſrack er gar ſer vnd ruffet
+               <lb facs="#facs_7_r_2_tl_3" n="N003"/>die<persName key="Crescentia"> keiſerin</persName> an vnd ſprach al
+               <lb facs="#facs_7_r_2_tl_4" n="N004"/>ſo Edele fraw was meint ir
+               <lb facs="#facs_7_r_2_tl_5" n="N005"/>hie mit das ir ich verſloſſʒ
+               <lb facs="#facs_7_r_2_tl_6" n="N006"/>en habt in dem turn Do ant
+               <lb facs="#facs_7_r_2_tl_7" n="N007"/>wurt im die <persName key="Crescentia">tugenthafft <hi rend="underline">Cre</hi></persName>
+               <lb facs="#facs_7_r_2_tl_8" n="N008"/><persName key="Crescentia"><hi rend="underline">ſſentia</hi></persName> vnd ſprach alſo lieber
+               <lb facs="#facs_7_r_2_tl_9" n="N009"/>herr nemt euch eynen gute̅
+               <lb facs="#facs_7_r_2_tl_10" n="N010"/>mut ir ſullt keinen mangel
+               <lb facs="#facs_7_r_2_tl_11" n="N011"/>haben an ewer notdurfft A
+               <lb facs="#facs_7_r_2_tl_12" n="N012"/>ber ir muſt in dem turn der
+               <lb facs="#facs_7_r_2_tl_13" n="N013"/>cʒukunft <persName key="Kaiser_Dietrich">meines her᷎en des</persName>
+               <lb facs="#facs_7_r_2_tl_14" n="N014"/><persName key="Kaiser_Dietrich">keiſers</persName> erpetten Do der <persName key="Herzog_Dietrich">her</persName>
+               <lb facs="#facs_7_r_2_tl_15" n="N015"/><persName key="Herzog_Dietrich">cʒog</persName> das <del rend="blackening"><hi rend="strikethrough">ſah</hi></del> hort do erſrack
+               <lb facs="#facs_7_r_2_tl_16" n="N016"/>er gar ſer vnd pat ſie das ſie
+               <lb facs="#facs_7_r_2_tl_17" n="N017"/>als ubel an Im moht thun ſolt
+               <lb facs="#facs_7_r_2_tl_18" n="N018"/>wann der <persName key="Kaiser_Dietrich">keiſer</persName> wurd im ſein
+               <lb facs="#facs_7_r_2_tl_19" n="N019"/>leben nemen vnd er ſprach
+               <lb facs="#facs_7_r_2_tl_20" n="N020"/>ich will eüch ſweren einen
+               <lb facs="#facs_7_r_2_tl_21" n="N021"/>eyd das ich ſcher vnpillich
+               <lb facs="#facs_7_r_2_tl_22" n="N022"/>er ſach furpas mit mer von
+               <lb facs="#facs_7_r_2_tl_23" n="N023"/>euch begern wil Aber die <persName key="Crescentia">edel</persName>
+               <lb facs="#facs_7_r_2_tl_24" n="N024"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> die gab im kein ant
+               <lb facs="#facs_7_r_2_tl_25" n="N025"/>wurt vnd ging von Im Vnd
+               <lb facs="#facs_7_r_2_tl_26" n="N026"/>kurcʒlichen darnach do kam
+               <lb facs="#facs_7_r_2_tl_27" n="N027"/>ir potſhafſt das <persName key="Kaiser_Dietrich">ir lieber her</persName>
+               <lb facs="#facs_7_r_2_tl_28" n="N028"/><persName key="Kaiser_Dietrich">der keiſer</persName> wider<placeName ref="https://www.wikidata.org/wiki/Q220"> cʒu land</placeName> kam
+               <lb facs="#facs_7_r_2_tl_29" n="N029"/>Do wart ſie gar fro vnd ging
+               <lb facs="#facs_7_r_2_tl_30" n="N030"/>cʒu dem<persName key="Herzog_Dietrich"> hercʒogen</persName> in den turn̅
+               <lb facs="#facs_7_r_2_tl_31" n="N031"/>vnd ſprach cʒu im alſo herr
+               <lb facs="#facs_7_r_2_tl_32" n="N032"/>mir iſt potſchaft kumen von
+               <lb facs="#facs_7_r_2_tl_33" n="N033"/><persName key="Kaiser_Dietrich">meinem lieben herren dem</persName>
+               <lb facs="#facs_7_r_2_tl_34" n="N034"/><persName key="Kaiser_Dietrich">keiſer ewerm bruder </persName>wolt
+               <lb facs="#facs_7_r_2_tl_35" n="N035"/>Ir euch im furbas mer peſſern
+               <lb facs="#facs_7_r_2_tl_36" n="N036"/>an ewerm leben vnd das ich
+               <lb facs="#facs_7_r_2_tl_37" n="N037"/>ſulcher ſach der ir von mir
+               <lb facs="#facs_7_r_2_tl_38" n="N038"/>begert habt furbas euch le
+               <lb facs="#facs_7_r_2_tl_39" n="N039"/>dig ſtee So wil ich der ſach
+               <lb facs="#facs_7_r_2_tl_40" n="N040"/>gen meinem her᷎en furbas
+               <lb facs="#facs_7_r_2_tl_41" n="N041"/>nicht gedencken vnd wil euch
+            </ab>
+            <ab facs="#facs_7_r" >
+               <lb facs="#facs_7_r_tl_1" n="N001"/>XXIIII
+            </ab>
+            <ab facs="#facs_7_r_3" >
+               <lb facs="#facs_7_r_3_tl_1" n="N001"/>auſs dem turn ſchlieſʒen das
+               <lb facs="#facs_7_r_3_tl_2" n="N002"/><persName key="Kaiser_Dietrich">ir meinen herren ewern pru</persName>
+               <lb facs="#facs_7_r_3_tl_3" n="N003"/><persName key="Kaiser_Dietrich">de</persName>r muget entgegen reite̅
+               <lb facs="#facs_7_r_3_tl_4" n="N004"/>vnd in wirdiglichen enpfahet
+               <lb facs="#facs_7_r_3_tl_5" n="N005"/>Der rede wart der <persName key="Herzog_Dietrich">hercʒog</persName> gar
+               <lb facs="#facs_7_r_3_tl_6" n="N006"/>fro vnd welobet irber ſeinen
+               <lb facs="#facs_7_r_3_tl_7" n="N007"/>trewen ein ſulche cʒu halten
+               <lb facs="#facs_7_r_3_tl_8" n="N008"/>Do ſloſʒ <persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> auff vnd
+               <lb facs="#facs_7_r_3_tl_9" n="N009"/>lieſʒ den <persName key="Herzog_Dietrich">hercʒog</persName> auf dem turn
+               <lb facs="#facs_7_r_3_tl_10" n="N010"/>vnd er bereitet ſich gar Coſten
+               <lb facs="#facs_7_r_3_tl_11" n="N011"/>lichen vnd machet ſich ʒwen
+               <lb facs="#facs_7_r_3_tl_12" n="N012"/>tag vor auf vnd reit dem bei
+               <lb facs="#facs_7_r_3_tl_13" n="N013"/>ſer entgegen vnd enpfing
+               <lb facs="#facs_7_r_3_tl_14" n="N014"/>In gar wirdiglichen vnd do
+               <lb facs="#facs_7_r_3_tl_15" n="N015"/>in der <persName key="Kaiser_Dietrich">keiſer</persName> an ſah do ſprach
+               <lb facs="#facs_7_r_3_tl_16" n="N016"/>er cʒu dem aller erſten alſo
+               <lb facs="#facs_7_r_3_tl_17" n="N017"/>Ach lieber bruder wie gehabt
+               <lb facs="#facs_7_r_3_tl_18" n="N018"/>ſich die <persName key="Crescentia">keiſerin mein liebe Cre</persName>
+               <lb facs="#facs_7_r_3_tl_19" n="N019"/><hi rend="underline"><persName key="Crescentia">ſſentia</persName> </hi>Alcʒuhant do plieſʒ im
+               <lb facs="#facs_7_r_3_tl_20" n="N020"/>der <persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> aber ein das <unclear>evey̅</unclear>
+               <lb facs="#facs_7_r_3_tl_21" n="N021"/>haſſʒ gewann gen der <persName key="Crescentia">tugent</persName>
+               <lb facs="#facs_7_r_3_tl_22" n="N022"/><persName key="Crescentia">hafften <hi rend="underline">Creſſentia</hi> </persName>vnd gedaht
+               <lb facs="#facs_7_r_3_tl_23" n="N023"/>wie er ſie moht verſagen gen
+               <lb facs="#facs_7_r_3_tl_24" n="N024"/>dem <persName key="Kaiser_Dietrich">keiſer</persName> das er im gewalt
+               <lb facs="#facs_7_r_3_tl_25" n="N025"/>uber ſie heb das er ſich an ir
+               <lb facs="#facs_7_r_3_tl_26" n="N026"/>moht gerechen vnd moht ſie
+               <lb facs="#facs_7_r_3_tl_27" n="N027"/>gedoten vnd er hub an gar mit
+               <lb facs="#facs_7_r_3_tl_28" n="N028"/>cleglichen worten vnd ſprach
+               <lb facs="#facs_7_r_3_tl_29" n="N029"/>ʒu dem <persName key="Kaiser_Dietrich">keiſer</persName> alſo Herr ich ſag
+               <lb facs="#facs_7_r_3_tl_30" n="N030"/>ewern gnaden das <persName key="Crescentia">ewer vnge</persName>
+               <lb facs="#facs_7_r_3_tl_31" n="N031"/><persName key="Crescentia">trews weip Creſſentia</persName> ir keiſer
+               <lb facs="#facs_7_r_3_tl_32" n="N032"/>lich wirdigkeit hat geſwecht
+               <lb facs="#facs_7_r_3_tl_33" n="N033"/>vnd hat der trewen vnd liebe
+               <lb facs="#facs_7_r_3_tl_34" n="N034"/>vergeſſen die ir an Ir beweiſʒt
+               <lb facs="#facs_7_r_3_tl_35" n="N035"/>habt Darvmb ſo iſt ſie nicht
+               <lb facs="#facs_7_r_3_tl_36" n="N036"/>wirdig das ſie bei ewern gna
+               <lb facs="#facs_7_r_3_tl_37" n="N037"/>den mer ſol ſlafen wann alcʒu
+                  <lb facs="#facs_7_r_3_tl_38" n="N038"/>hant als ir <placeName ref="https://www.wikidata.org/wiki/Q220">auſʒ dem land</placeName> cʒo
+               <lb facs="#facs_7_r_3_tl_39" n="N039"/>get do lieſʒ ſie gar ein coſten
+               <lb facs="#facs_7_r_3_tl_40" n="N040"/>lichen feſten turn pawen in de̅
+               <lb facs="#facs_7_r_3_tl_41" n="N041"/>ſie meint ewern gnaden vor cʒu
+            </ab>
+            <ab facs="#facs_7_r_4" >
+               <lb facs="#facs_7_r_4_tl_1" n="N001"/>ſicʒen mit gewalt In dem ſelbe̅
+               <lb facs="#facs_7_r_4_tl_2" n="N002"/>turn hat ſie offenpar in vnrey
+               <lb facs="#facs_7_r_4_tl_3" n="N003"/>ingkeit mit andern mannen
+               <lb facs="#facs_7_r_4_tl_4" n="N004"/>getriben vnd vmb das mir ſul
+               <lb facs="#facs_7_r_4_tl_5" n="N005"/>ich ſach wider vnd leit was da
+               <lb facs="#facs_7_r_4_tl_6" n="N006"/>verſper͛et ſie mich cʒu einen cʒei
+               <lb facs="#facs_7_r_4_tl_7" n="N007"/>ten in dem ſelben turn vmb das
+               <lb facs="#facs_7_r_4_tl_8" n="N008"/>ſie von mir vngehinder wer ir
+               <lb facs="#facs_7_r_4_tl_9" n="N009"/>vnkeuſch cʒu treiben In dem ſel
+               <lb facs="#facs_7_r_4_tl_10" n="N010"/>ben turn bin ich geſangen ge
+               <lb facs="#facs_7_r_4_tl_11" n="N011"/>legen biſʒ auf ewer cʒukunt d͛
+               <lb facs="#facs_7_r_4_tl_12" n="N012"/>hab ich genoſſen das ſie mich
+               <lb facs="#facs_7_r_4_tl_13" n="N013"/>hat aus auſʒgelaſʒen das clage
+               <lb facs="#facs_7_r_4_tl_14" n="N014"/>ich ewern gnaden <hi rend="highlight">¶</hi> Mit ſul
+               <lb facs="#facs_7_r_4_tl_15" n="N015"/>lichen vngetrewen vnd lugen
+               <lb facs="#facs_7_r_4_tl_16" n="N016"/>haſtigen valſchen worten ver
+               <lb facs="#facs_7_r_4_tl_17" n="N017"/>ſaget der <persName key="Herzog_Dietrich">vngetrew hercʒog</persName>
+               <lb facs="#facs_7_r_4_tl_18" n="N018"/>die e<persName key="Crescentia">deln tugenthaftigen key</persName>
+               <lb facs="#facs_7_r_4_tl_19" n="N019"/><persName key="Crescentia">ſerm <hi rend="underline">Creſſentia</hi> </persName>gegen Iren <persName key="Kaiser_Dietrich">lie</persName>
+               <lb facs="#facs_7_r_4_tl_20" n="N020"/><persName key="Kaiser_Dietrich">ben herren </persName>Alcʒuhant do ver
+               <lb facs="#facs_7_r_4_tl_21" n="N021"/>kert der <persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> dem<persName key="Kaiser_Dietrich"> keiſer</persName> ſein
+               <lb facs="#facs_7_r_4_tl_22" n="N022"/>gemut das er ſeiner groſʒen
+               <lb facs="#facs_7_r_4_tl_23" n="N023"/>trew vnd liebe vergaſʒ gegen
+               <lb facs="#facs_7_r_4_tl_24" n="N024"/>ſeinem <persName key="Crescentia">lieben gemahel der ſe¬</persName>
+               <lb facs="#facs_7_r_4_tl_25" n="N025"/><persName key="Crescentia">ligen <hi rend="underline">Creſſentia</hi></persName> die wider in
+               <lb facs="#facs_7_r_4_tl_26" n="N026"/>nye getan het in keinen ſach
+               <lb facs="#facs_7_r_4_tl_27" n="N027"/>en vnd er gelaubet <persName key="Herzog_Dietrich">dem valſch</persName>
+               <lb facs="#facs_7_r_4_tl_28" n="N028"/><persName key="Herzog_Dietrich">en hercʒogen ſeinem pruder</persName>
+               <lb facs="#facs_7_r_4_tl_29" n="N029"/>ſeiner lugenhaftigen wort vn̅
+               <lb facs="#facs_7_r_4_tl_30" n="N030"/>gab im gewalt uber die <persName key="Crescentia">ſelige̅ </persName>
+               <lb facs="#facs_7_r_4_tl_31" n="N031"/><persName key="Crescentia">vnſchuldigen frawen <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_7_r_4_tl_32" n="N032"/><persName key="Crescentia"><hi rend="underline">tia</hi> </persName>das er ſie moht ſtrafen nah
+               <lb facs="#facs_7_r_4_tl_33" n="N033"/>ſeinem willen Alcʒuhant do
+               <lb facs="#facs_7_r_4_tl_34" n="N034"/>beſaſʒ in der <persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> <unclear>anderbeit</unclear>
+               <lb facs="#facs_7_r_4_tl_35" n="N035"/>das der <persName key="Herzog_Dietrich">vngetrew hercʒog</persName> ei
+               <lb facs="#facs_7_r_4_tl_36" n="N036"/>lent hinterſich reit wider gen
+                  <lb facs="#facs_7_r_4_tl_37" n="N037"/> <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName> vnd meint die <persName key="Crescentia">ſeligen <hi rend="underline">Cre</hi></persName>
+               <lb facs="#facs_7_r_4_tl_38" n="N038"/><persName key="Crescentia"><hi rend="underline">ſſentia</hi></persName> cʒu toten ee der <persName>keiſer</persName> cʒu
+               <lb facs="#facs_7_r_4_tl_39" n="N039"/>ir kam das er der warheit nicht
+               <lb facs="#facs_7_r_4_tl_40" n="N040"/>Innen wurd <hi rend="highlight">¶</hi> Nu begegent
+               <lb facs="#facs_7_r_4_tl_41" n="N041"/>dem <persName key="Herzog_Dietrich">vngetrewn hercʒog</persName> die
+            </ab>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <ab facs="#facs_8_r" >
+               <lb facs="#facs_8_r_tl_1" n="N001"/><persName key="Crescentia">ſelige keiſerin <hi rend="underline">Creſſentia</hi></persName> auf
+               <lb facs="#facs_8_r_tl_2" n="N002"/>dem weg die het ſie gar cʒir
+               <lb facs="#facs_8_r_tl_3" n="N003"/>lichen bereit mit iren <persName key="Zofen" >Iunck</persName>
+               <lb facs="#facs_8_r_tl_4" n="N004"/><persName key="Zofen" >frawen</persName> als dann einer wirdi
+               <lb facs="#facs_8_r_tl_5" n="N005"/>gen keiſerin wol gepurt vnd
+               <lb facs="#facs_8_r_tl_6" n="N006"/>wolt<persName key="Kaiser_Dietrich"> iren lieben heren</persName> entpfa
+               <lb facs="#facs_8_r_tl_7" n="N007"/>hen gar wirdiglichen vnd do
+               <lb facs="#facs_8_r_tl_8" n="N008"/>er die <persName key="Crescentia">ſeligen <hi rend="underline"></hi></persName><hi rend="underline"></hi> er ſah
+               <lb facs="#facs_8_r_tl_9" n="N009"/>Do nam er ſie vnparmhercʒig
+               <lb facs="#facs_8_r_tl_10" n="N010"/>lichen von iren <persName key="Zofen">Iunckfrawen</persName>
+               <lb facs="#facs_8_r_tl_11" n="N011"/>auſʒ dem wagen vnd warff
+               <lb facs="#facs_8_r_tl_12" n="N012"/>ſie auff ein ſnels pfert vnd furt
+               <lb facs="#facs_8_r_tl_13" n="N013"/>ſie mit gry̅mme cʒu dem waſſer
+               <lb facs="#facs_8_r_tl_14" n="N014"/>das genant iſt der teifer da ba̅t
+               <lb facs="#facs_8_r_tl_15" n="N015"/>er Ir hend vnd fuſʒ cʒuſamen
+               <lb facs="#facs_8_r_tl_16" n="N016"/>vnd warff ſie in irem keiſerlich
+               <lb facs="#facs_8_r_tl_17" n="N017"/>en gewande darein Do Ruffet
+               <lb facs="#facs_8_r_tl_18" n="N018"/>die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"></hi> cʒu <persName ref="https://www.wikidata.org/wiki/Q345">vnſer
+               <lb facs="#facs_8_r_tl_19" n="N019"/>lieben frawen</persName> vnd ſprach alſo
+               <lb facs="#facs_8_r_tl_20" n="N020"/><persName ref="https://www.wikidata.org/wiki/Q345"><hi rend="underline">Maria</hi> du muter</persName> <persName ref="https://www.wikidata.org/wiki/Q302"><hi rend="underline">criſti</hi></persName> kum mir
+               <lb facs="#facs_8_r_tl_21" n="N021"/>cʒu hilff in meiner vnſchuld do
+               <lb facs="#facs_8_r_tl_22" n="N022"/>floſʒ die <persName key="Crescentia">ſelig<hi rend="underline">Creſſentia</hi></persName> In dem
+               <lb facs="#facs_8_r_tl_23" n="N023"/>waſſer das ſie kam in das mere
+               <lb facs="#facs_8_r_tl_24" n="N024"/>do erſchein ir <persName ref="https://www.wikidata.org/wiki/Q345">vnſer liebe frawe</persName>
+               <lb facs="#facs_8_r_tl_25" n="N025"/>vnd loſet die pant auff damit
+               <lb facs="#facs_8_r_tl_26" n="N026"/>ſie gepunden was vnd nam ſie
+               <lb facs="#facs_8_r_tl_27" n="N027"/>der der hant vnd furt ſie verr
+               <lb facs="#facs_8_r_tl_28" n="N028"/>durch das mer vnd do ſie kame
+               <lb facs="#facs_8_r_tl_29" n="N029"/>an das lant do weiſet ir <persName ref="https://www.wikidata.org/wiki/Q345">vnſer
+                  <lb facs="#facs_8_r_tl_30" n="N030"/>liebe ſraw </persName>einen wege vnd ſprach
+               <lb facs="#facs_8_r_tl_31" n="N031"/>den weg ſoltu gen da kumpſtu
+               <lb facs="#facs_8_r_tl_32" n="N032"/>cʒu eines viſchers hauſʒ bei dem
+               <lb facs="#facs_8_r_tl_33" n="N033"/>mer der wirt dich beherbergen
+               <lb facs="#facs_8_r_tl_34" n="N034"/>vnd du wirdeſt noch vil geleide̅
+               <lb facs="#facs_8_r_tl_35" n="N035"/>aber vmb dem gedult ſo wille
+               <lb facs="#facs_8_r_tl_36" n="N036"/>ich dir In deiner vnſchuld cʒu hilf
+               <lb facs="#facs_8_r_tl_37" n="N037"/>kumen vnd wil dich nicht verla
+               <lb facs="#facs_8_r_tl_38" n="N038"/>ſenn <hi rend="highlight">¶</hi> Do wart die <persName key="Crescentia">ſelig <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_8_r_tl_39" n="N039"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName> gar ſro vnd ging den weg
+               <lb facs="#facs_8_r_tl_40" n="N040"/>den ir <persName ref="https://www.wikidata.org/wiki/Q345">vnſer frawe</persName> geweiſet het
+               <lb facs="#facs_8_r_tl_41" n="N041"/>vnd kam cʒu des viſchers hauſʒe
+            </ab>
+            <ab facs="#facs_8_r_1" >
+               <lb facs="#facs_8_r_1_tl_1" n="N001"/>vnd gruett die <persName key="Frau_des_Fischers">frawen</persName> dar gut
+               <lb facs="#facs_8_r_1_tl_2" n="N002"/>lichen vnd pat ſie vmb die her
+               <lb facs="#facs_8_r_1_tl_3" n="N003"/>berg vnd <persName key="Fischer">ir man der viſcher</persName>
+               <lb facs="#facs_8_r_1_tl_4" n="N004"/>was nicht daheimen vnd do
+               <lb facs="#facs_8_r_1_tl_5" n="N005"/>die fraw die <persName key="Crescentia">ſchonen wunig</persName>
+               <lb facs="#facs_8_r_1_tl_6" n="N006"/><persName key="Crescentia">lichen frawen <hi rend="underline">Creſſentia</hi></persName> erſah
+               <lb facs="#facs_8_r_1_tl_7" n="N007"/>do wart ſie gar ſro vnd entpf
+               <lb facs="#facs_8_r_1_tl_8" n="N008"/>inge ſie war lieplichen vnd ſp̃h
+               <lb facs="#facs_8_r_1_tl_9" n="N009"/>alſo aller liepſte fraw wolt ir
+               <lb facs="#facs_8_r_1_tl_10" n="N010"/>mein vnd meines wirtes arm
+               <lb facs="#facs_8_r_1_tl_11" n="N011"/>ut vergut nemen die wol wir
+               <lb facs="#facs_8_r_1_tl_12" n="N012"/>euch gern mit teilen Do ging
+               <lb facs="#facs_8_r_1_tl_13" n="N013"/>die <persName key="Crescentia">tugenthafft <hi rend="underline"></hi></persName><hi rend="underline"></hi> in
+               <lb facs="#facs_8_r_1_tl_14" n="N014"/>das hewſʒlin vnd cʒoh ab ire
+               <lb facs="#facs_8_r_1_tl_15" n="N015"/>keiſerlichen cleider vnd pat die
+               <lb facs="#facs_8_r_1_tl_16" n="N016"/>frawen vmb eine̅ ſlehten ein
+               <lb facs="#facs_8_r_1_tl_17" n="N017"/>faltigen rok den tet ſie an vnd
+               <lb facs="#facs_8_r_1_tl_18" n="N018"/>lieſʒ die <persName key="Frau_des_Fischers">frawen</persName> ire koſtenliche
+               <lb facs="#facs_8_r_1_tl_19" n="N019"/>cleider verkaufen vnd ſie bleib
+               <lb facs="#facs_8_r_1_tl_20" n="N020"/>bei den fru̅men leuten etwie
+               <lb facs="#facs_8_r_1_tl_21" n="N021"/>langcʒeit in groſʒer demutikeit
+               <lb facs="#facs_8_r_1_tl_22" n="N022"/>das ſie der <persName key="Fischer">viſcher</persName> vnd ſein <persName key="Frau_des_Fischers">fraw</persName>
+               <lb facs="#facs_8_r_1_tl_23" n="N023"/>gar liep gewunnen vnd hielte̅
+               <lb facs="#facs_8_r_1_tl_24" n="N024"/>ſie gar erlichen vnd ſchon Dar
+               <lb facs="#facs_8_r_1_tl_25" n="N025"/>nach do hub die <persName>ſelig <hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_8_r_1_tl_26" n="N026"/>an vnd arbeitet wann ſie kond
+               <lb facs="#facs_8_r_1_tl_27" n="N027"/>von ſilber vnd von gold vnd vo̅
+               <lb facs="#facs_8_r_1_tl_28" n="N028"/>ſeiden gar wol arbeiten das ma̅
+               <lb facs="#facs_8_r_1_tl_29" n="N029"/>irs geleichen von ſulcher arbeit
+               <lb facs="#facs_8_r_1_tl_30" n="N030"/>nicht vand damit neret ſie ſich
+               <lb facs="#facs_8_r_1_tl_31" n="N031"/>vnd den <persName key="Fischer">viſcher</persName> vnd <persName key="Frau_des_Fischers">ſein frawe̅</persName>
+               <lb facs="#facs_8_r_1_tl_32" n="N032"/>vnd ſie lebet dabei in groſer
+               <lb facs="#facs_8_r_1_tl_33" n="N033"/>heiligkeit vnd dynet <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> mit
+               <lb facs="#facs_8_r_1_tl_34" n="N034"/>fleiſʒ <hi rend="highlight">¶</hi> Nu ſaſʒ gar ein Reicher
+               <lb facs="#facs_8_r_1_tl_35" n="N035"/>mehtiger <persName key="Zweiter_Herzog">hercʒog </persName>nahent da
+               <lb facs="#facs_8_r_1_tl_36" n="N036"/>bei dem trug der <persName key="Fischer">viſcher</persName> gewo̅
+               <lb facs="#facs_8_r_1_tl_37" n="N037"/>lichen viſch gen hoff Nu het di
+               <lb facs="#facs_8_r_1_tl_38" n="N038"/><persName>ſelig <hi rend="underline">Creſſentia</hi></persName> cʒu einen cʒeite̅
+               <lb facs="#facs_8_r_1_tl_39" n="N039"/>gar ein ſchon cleinet <unclear>gewurket</unclear>
+               <lb facs="#facs_8_r_1_tl_40" n="N040"/>von gold vnd von ſeiden das
+               <lb facs="#facs_8_r_1_tl_41" n="N041"/>trug des<persName key="Frau_des_Fischers"> viſchers wirtin</persName> der
+            </ab>
+            <fw facs="#facs_8_r_4" type="page-number" place="top">
+               <lb facs="#facs_8_r_4_tl_1" n="N001"/>XXII</fw>
+            <ab facs="#facs_8_r_2" >
+               <lb facs="#facs_8_r_2_tl_1" n="N001"/><persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> auf die purg vnd
+               <lb facs="#facs_8_r_2_tl_2" n="N002"/>gab irs cʒukauſen nu gevil ir
+               <lb facs="#facs_8_r_2_tl_3" n="N003"/>das cleinat ſo gar wol das ſie
+               <lb facs="#facs_8_r_2_tl_4" n="N004"/>ſie die <persName key="Frau_des_Fischers">viſcheri</persName>n fraget wann
+               <lb facs="#facs_8_r_2_tl_5" n="N005"/>ir das cleinet kumen wer vn̅
+               <lb facs="#facs_8_r_2_tl_6" n="N006"/>wer es gemacht het Do ſaget
+               <lb facs="#facs_8_r_2_tl_7" n="N007"/>ſie der <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> von der <persName key="Crescentia">tugent</persName>
+               <lb facs="#facs_8_r_2_tl_8" n="N008"/><persName key="Crescentia">haftigen frawen <hi rend="underline">Creſſentia</hi></persName> die
+               <lb facs="#facs_8_r_2_tl_9" n="N009"/>bei ir was das ſie das cleinat
+               <lb facs="#facs_8_r_2_tl_10" n="N010"/>gemachet het <del rend="blackening" ><hi rend="strikethrough">Do ſaget ſie d</hi></del>͛
+               <lb facs="#facs_8_r_2_tl_11" n="N011"/><hi rend="strikethrough"><del rend="blackening" >hercʒogin</del> </hi>vnd ſaget ir von ir
+               <lb facs="#facs_8_r_2_tl_12" n="N012"/>frumkeit vnd von Irem ſelige̅
+               <lb facs="#facs_8_r_2_tl_13" n="N013"/>demutigen leben das ſie furet
+               <lb facs="#facs_8_r_2_tl_14" n="N014"/>das die <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> ſer nach ir
+               <lb facs="#facs_8_r_2_tl_15" n="N015"/>belanget vnd beger ſie cʒu ſeh
+               <lb facs="#facs_8_r_2_tl_16" n="N016"/>en vnd ſie ing mit der viſch
+               <lb facs="#facs_8_r_2_tl_17" n="N017"/>erin heim In ir hauſʒ cʒu der
+               <lb facs="#facs_8_r_2_tl_18" n="N018"/><persName key="Crescentia">ſeligen<hi rend="underline"> Creſſentia</hi></persName>wann es ir
+               <lb facs="#facs_8_r_2_tl_19" n="N019"/>nicht verr von Ir purg vnd do
+               <lb facs="#facs_8_r_2_tl_20" n="N020"/>ſie kam in das hauſʒ do enpfi̅g
+               <lb facs="#facs_8_r_2_tl_21" n="N021"/>ſie die <persName key="Crescentia">tugentlich <hi rend="underline"><hi/></hi></persName><hi rend="underline"><hi/> </hi>gar
+               <lb facs="#facs_8_r_2_tl_22" n="N022"/>demutiglichen do gevil ſie der
+               <lb facs="#facs_8_r_2_tl_23" n="N023"/><persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> ſo gar wol an ir ge
+               <lb facs="#facs_8_r_2_tl_24" n="N024"/>ſtalt vnd an Iren worten vnd
+               <lb facs="#facs_8_r_2_tl_25" n="N025"/>wandel das ſie groſʒ lieb cʒu ir
+               <lb facs="#facs_8_r_2_tl_26" n="N026"/>gewan vnd do ſie ir ſchon cʒir
+               <lb facs="#facs_8_r_2_tl_27" n="N027"/>lich arbeit ſah do bedauht ſie
+               <lb facs="#facs_8_r_2_tl_28" n="N028"/>das ſie ſulcher koſtenlicher arbeit
+               <lb facs="#facs_8_r_2_tl_29" n="N029"/>vor nicht mer geſehen het vn̄
+               <lb facs="#facs_8_r_2_tl_30" n="N030"/>ſie ging eilent wider heim auf
+               <lb facs="#facs_8_r_2_tl_31" n="N031"/>die feſten vnd ſaget irem <persName key="Zweiter_Herzog" >herr</persName>
+               <lb facs="#facs_8_r_2_tl_32" n="N032"/><persName key="Zweiter_Herzog" >en dem hercʒogen</persName> von der <persName key="Crescentia">ſelig</persName>
+               <lb facs="#facs_8_r_2_tl_33" n="N033"/><persName key="Crescentia">en tugentlichen frawen <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_8_r_2_tl_34" n="N034"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName> vnd von allem Irem wa̅
+               <lb facs="#facs_8_r_2_tl_35" n="N035"/>del bei der ſie geweſen was in
+               <lb facs="#facs_8_r_2_tl_36" n="N036"/>des viſchers hauſʒ<hi rend="highlight"> ¶</hi>  Do der <persName key="Zweiter_Herzog" >her</persName>
+               <lb facs="#facs_8_r_2_tl_37" n="N037"/><persName key="Zweiter_Herzog" >cʒog</persName> hort ſullich tugent vnd
+            </ab>
+            <ab facs="#facs_8_r_3" >
+               <lb facs="#facs_8_r_3_tl_1" n="N001"/>frumkeit von der <persName key="Crescentia">frawen</persName> do be
+               <lb facs="#facs_8_r_3_tl_2" n="N002"/>gert er ſie cʒu ſehen vnd pat
+               <lb facs="#facs_8_r_3_tl_3" n="N003"/>die <persName key="Frau_des_zweiten_Herzogs">hercʒogin ſein hauſʒfraw</persName>
+               <lb facs="#facs_8_r_3_tl_4" n="N004"/>das ſie die <persName key="Crescentia">frawen</persName> ſolt pringe̅
+               <lb facs="#facs_8_r_3_tl_5" n="N005"/>gen hofe das er ſie moht geſeh
+               <lb facs="#facs_8_r_3_tl_6" n="N006"/>en vnd erkennen Alcʒuhant gi̅g
+               <lb facs="#facs_8_r_3_tl_7" n="N007"/>die <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> wider in des viſch
+               <lb facs="#facs_8_r_3_tl_8" n="N008"/>ers hauſʒ cʒu der <persName key="Crescentia">ſeligen <hi rend="underline">Creſſe̅</hi></persName>
+               <lb facs="#facs_8_r_3_tl_9" n="N009"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> vnd pat ſie mit groſʒer lieb
+               <lb facs="#facs_8_r_3_tl_10" n="N010"/>das ſie mit ir wolt gen cʒu <persName key="Zweiter_Herzog" >Irem</persName>
+               <lb facs="#facs_8_r_3_tl_11" n="N011"/><persName key="Zweiter_Herzog" >heren dem hercʒogen</persName> der ſie mit
+               <lb facs="#facs_8_r_3_tl_12" n="N012"/>groſem fleiſʒ begert cʒu ſehen
+               <lb facs="#facs_8_r_3_tl_13" n="N013"/>Alcʒuhant was ir die<persName key="Crescentia"> tugentlich</persName>
+               <lb facs="#facs_8_r_3_tl_14" n="N014"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName>gehorſam vnd ging
+               <lb facs="#facs_8_r_3_tl_15" n="N015"/>gar demutiglichen mit Ir ge̅
+               <lb facs="#facs_8_r_3_tl_16" n="N016"/>hoff auf die purk Do ſie der
+               <lb facs="#facs_8_r_3_tl_17" n="N017"/><persName key="Zweiter_Herzog">hercʒog</persName> an ſahe do gevil ſie Im
+               <lb facs="#facs_8_r_3_tl_18" n="N018"/>cʒumal wol an der geſtalt vn̅
+               <lb facs="#facs_8_r_3_tl_19" n="N019"/>an Irem wandel vnd er gedaht
+               <lb facs="#facs_8_r_3_tl_20" n="N020"/>Im alcʒuhant das ſie von ed
+               <lb facs="#facs_8_r_3_tl_21" n="N021"/>ler art geporn wer vnd der her
+               <lb facs="#facs_8_r_3_tl_22" n="N022"/>cʒog vnd die <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> paten
+               <lb facs="#facs_8_r_3_tl_23" n="N023"/>die <persName key="Crescentia">ſeligen tugentlichen fraw</persName>
+               <lb facs="#facs_8_r_3_tl_24" n="N024"/><persName key="Crescentia">en <hi rend="underline">Creſſentia</hi></persName> das ſie <del rend="blackening"><hi rend="strikethrough">in</hi></del> wolt
+               <lb facs="#facs_8_r_3_tl_25" n="N025"/>bei In bleiben darvmb ſo wolte̅
+               <lb facs="#facs_8_r_3_tl_26" n="N026"/>ſie ir gutlichen tun vnd wolten
+               <lb facs="#facs_8_r_3_tl_27" n="N027"/>ſie erberglichen halten wan̅ ſi
+               <lb facs="#facs_8_r_3_tl_28" n="N028"/>aller eren wolwurdig was do
+               <lb facs="#facs_8_r_3_tl_29" n="N029"/>erfullet ſie dem <persName key="Zweiter_Herzog">hercʒogen</persName> we̅
+               <lb facs="#facs_8_r_3_tl_30" n="N030"/><del rend="blackening"><hi rend="strikethrough">willen</hi></del> vnd der <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> iren
+               <lb facs="#facs_8_r_3_tl_31" n="N031"/>willen vnd verſprach ſich bei
+               <lb facs="#facs_8_r_3_tl_32" n="N032"/>in cʒu bleiben Darnach do hilt
+               <lb facs="#facs_8_r_3_tl_33" n="N033"/>ſich die <persName key="Crescentia">ſelig fraw <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_8_r_3_tl_34" n="N034"/>ſo gav erberglichen vnd frid
+            </ab>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <ab facs="#facs_9_r" >
+               <lb facs="#facs_9_r_tl_1" n="N001"/>ſanglichen gen allen menſch
+               <lb facs="#facs_9_r_tl_2" n="N002"/>en das ir meinglichen gunſtig
+               <lb facs="#facs_9_r_tl_3" n="N003"/>wart vnd do der <persName key="Zweiter_Herzog">hercʒog</persName> ir
+               <lb facs="#facs_9_r_tl_4" n="N004"/>weiſheit erkant do det er nichtʒ
+               <lb facs="#facs_9_r_tl_5" n="N005"/>an iren rat vnd was ſie im
+               <lb facs="#facs_9_r_tl_6" n="N006"/>riet das kam In allwegen cʒu
+               <lb facs="#facs_9_r_tl_7" n="N007"/>dem peſten Die <persName key="Crescentia">ſelig <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_9_r_tl_8" n="N008"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> die vnterweiſet auch den
+               <lb facs="#facs_9_r_tl_9" n="N009"/><persName key="Zweiter_Herzog">hercʒogen</persName> vnd die <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName>
+               <lb facs="#facs_9_r_tl_10" n="N010"/>das ſie alle naht auf ſtunde̅
+               <lb facs="#facs_9_r_tl_11" n="N011"/>cʒu mitter naht vnd ſprache̅
+               <lb facs="#facs_9_r_tl_12" n="N012"/>ir gebet als geiſtlich menſche̅
+               <lb facs="#facs_9_r_tl_13" n="N013"/>des kamen ſie in ein gewon
+               <lb facs="#facs_9_r_tl_14" n="N014"/>beit das der<persName key="Zweiter_Herzog"> hercʒog</persName> nicht
+               <lb facs="#facs_9_r_tl_15" n="N015"/>auf ſtund In wecket dann <persName key="Crescentia"><hi rend="underline">Cre</hi></persName>
+               <lb facs="#facs_9_r_tl_16" n="N016"/><persName key="Crescentia"><hi rend="underline">ſſentia </hi>die hieſʒ er ſein hoffmei</persName>
+               <lb facs="#facs_9_r_tl_17" n="N017"/><persName key="Crescentia">ſterin</persName> vnd in dorſt auch ſuſt ny
+               <lb facs="#facs_9_r_tl_18" n="N018"/>mant auf wecken dann ſie
+               <lb facs="#facs_9_r_tl_19" n="N019"/><unclear>irn</unclear> hetten der <persName key="Zweiter_Herzog">hercʒog</persName> vnd die
+               <lb facs="#facs_9_r_tl_20" n="N020"/><persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName> einen Iungen <persName key="Sohn_des_Herzogpaars">ſun</persName>
+               <lb facs="#facs_9_r_tl_21" n="N021"/>der was in dem triten Iar den
+               <lb facs="#facs_9_r_tl_22" n="N022"/>heten ſie ger liep wann ſie he
+               <lb facs="#facs_9_r_tl_23" n="N023"/>ten keinen erben mer dan den
+               <lb facs="#facs_9_r_tl_24" n="N024"/><persName key="Sohn_des_Herzogpaars">Sun</persName> den enpfalhen ſie ir <persName key="Crescentia">hof</persName>
+               <lb facs="#facs_9_r_tl_25" n="N025"/><persName key="Crescentia">meiſterin der ſeligen frawen</persName>
+               <lb facs="#facs_9_r_tl_26" n="N026"/><persName key="Crescentia"><hi rend="underline"> Creſſentia</hi></persName>das ſie das kint ſolt
+               <lb facs="#facs_9_r_tl_27" n="N027"/>behuten vnd ſolt es cʒiehen auf
+               <lb facs="#facs_9_r_tl_28" n="N028"/>tugent das tet ſie vnd name
+               <lb facs="#facs_9_r_tl_29" n="N029"/>des <persName key="Sohn_des_Herzogpaars">kindes</persName> gar eben war vnd
+               <lb facs="#facs_9_r_tl_30" n="N030"/>het es in fleiſiger hut Darvm
+               <lb facs="#facs_9_r_tl_31" n="N031"/>ſo leget ſie das <persName key="Sohn_des_Herzogpaars">kint</persName> des nah
+               <lb facs="#facs_9_r_tl_32" n="N032"/>tes cʒu ir an Ir pett Do nu̅ der
+               <lb facs="#facs_9_r_tl_33" n="N033"/><persName key="Zweiter_Herzog">hercʒog</persName> vnd die <persName key="Frau_des_zweiten_Herzogs">hercʒogin</persName>
+               <lb facs="#facs_9_r_tl_34" n="N034"/>die ſ<persName >eligen frawen <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_9_r_tl_35" n="N035"/><persName ><hi rend="underline">a</hi> </persName>inſulchen groſen eren vnd
+               <lb facs="#facs_9_r_tl_36" n="N036"/>In liebe heten das moht der
+               <lb facs="#facs_9_r_tl_37" n="N037"/><persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> aber nicht geleiden vn̅
+            </ab>
+            <ab facs="#facs_9_r_1" >
+               <lb facs="#facs_9_r_1_tl_1" n="N001"/>entʒundet des <persName key="Hofmeister_des_Herzogs">hercʒogen hof</persName>
+               <lb facs="#facs_9_r_1_tl_2" n="N002"/><persName key="Hofmeister_des_Herzogs">meiſter</persName> ſein gegen der <persName key="Crescentia">tuge̅t</persName>
+               <lb facs="#facs_9_r_1_tl_3" n="N003"/><persName key="Crescentia">lichen ſeligen frawen <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_9_r_1_tl_4" n="N004"/><persName key="Crescentia"><hi rend="underline">tia</hi> </persName>in vnreiner liebe vnd do
+               <lb facs="#facs_9_r_1_tl_5" n="N005"/>er ſein valſchen liebe an ſie
+               <lb facs="#facs_9_r_1_tl_6" n="N006"/>praht mit worten das ſie ſey
+               <lb facs="#facs_9_r_1_tl_7" n="N007"/>nen poſen willen erkan̅t den
+               <lb facs="#facs_9_r_1_tl_8" n="N008"/>er cʒu ir het do erſrack ſie gar
+               <lb facs="#facs_9_r_1_tl_9" n="N009"/>ſer vnd erſeuffcʒet gar Innig
+               <lb facs="#facs_9_r_1_tl_10" n="N010"/>lichen vnd wer ſich mit cʒuh
+               <lb facs="#facs_9_r_1_tl_11" n="N011"/>tigen worten nach irem ver
+               <lb facs="#facs_9_r_1_tl_12" n="N012"/>mügen vnd pat in gar dem
+               <lb facs="#facs_9_r_1_tl_13" n="N013"/>utiglichen vmb <persName ref="https://www.wikidata.org/wiki/Q190"><hi rend="underline">gotes</hi></persName> das er
+               <lb facs="#facs_9_r_1_tl_14" n="N014"/>ſie ſulcher ſach wolt vertra
+               <lb facs="#facs_9_r_1_tl_15" n="N015"/>gen wann ſie <persName ref="https://www.wikidata.org/wiki/Q302">got </persName>vnd <persName ref="https://www.wikidata.org/wiki/Q345">ſeiner
+               <lb facs="#facs_9_r_1_tl_16" n="N016"/>gebenedigten muter der Iu̅ck
+                  <lb facs="#facs_9_r_1_tl_17" n="N017"/>frawen marie </persName> verlobt het dʒ
+               <lb facs="#facs_9_r_1_tl_18" n="N018"/>ſie in ſulcher vnlauterkeit key
+               <lb facs="#facs_9_r_1_tl_19" n="N019"/>nen keinen man wolt erkenne̅
+               <lb facs="#facs_9_r_1_tl_20" n="N020"/>moht ſie aber eins ſulchen vo̅
+               <lb facs="#facs_9_r_1_tl_21" n="N021"/>nu nicht vertren ſein ſo mo
+               <lb facs="#facs_9_r_1_tl_22" n="N022"/>cht ſie nit gelaſʒen vmb wen
+               <lb facs="#facs_9_r_1_tl_23" n="N023"/>eren willen muſt ſie ſulich
+               <lb facs="#facs_9_r_1_tl_24" n="N024"/>ſach an den <persName key="Zweiter_Herzog">hercʒogen</persName> prin
+               <lb facs="#facs_9_r_1_tl_25" n="N025"/>gen das ſie in doch nicht gern
+               <lb facs="#facs_9_r_1_tl_26" n="N026"/>cʒu leid fur in bringen mit
+               <lb facs="#facs_9_r_1_tl_27" n="N027"/>ſulichen worten redet ſich die
+               <lb facs="#facs_9_r_1_tl_28" n="N028"/><persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> von dem <persName key="Hofmeister_des_Herzogs">vn</persName>
+               <lb facs="#facs_9_r_1_tl_29" n="N029"/><persName key="Hofmeister_des_Herzogs">getrewen hofmeiſter</persName> Aber d͛
+               <lb facs="#facs_9_r_1_tl_30" n="N030"/><persName ref="https://www.wikidata.org/wiki/Q6674">teufel</persName> lieſʒ dannoch nicht ab
+               <lb facs="#facs_9_r_1_tl_31" n="N031"/>er er entʒundet dem <persName key="Hofmeister_des_Herzogs">hofmeiſt͛</persName>
+               <lb facs="#facs_9_r_1_tl_32" n="N032"/>ſein hercʒ <unclear>anderbeit</unclear> in neide
+               <lb facs="#facs_9_r_1_tl_33" n="N033"/>vnd in haſſʒ gegen der <persName key="Crescentia">tugent</persName>
+               <lb facs="#facs_9_r_1_tl_34" n="N034"/><persName key="Crescentia">lichen <hi rend="underline">Creſſentia</hi></persName> das er mit
+               <lb facs="#facs_9_r_1_tl_35" n="N035"/>fleiſʒ gedaht wie er ſie mit vn
+               <lb facs="#facs_9_r_1_tl_36" n="N036"/>trewen moht cʒu dem tode pri̅
+               <lb facs="#facs_9_r_1_tl_37" n="N037"/>gen <hi rend="highlight">¶</hi> Vnd cʒu einen cʒei
+               <lb facs="#facs_9_r_1_tl_38" n="N038"/>ten als die <persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> nah
+               <lb facs="#facs_9_r_1_tl_39" n="N039"/>Ir gewonheit auf ſtund cʒu
+            </ab>
+            <ab facs="#facs_9_r_4" >
+               <lb facs="#facs_9_r_4_tl_1" n="N001"/>XXVI
+            </ab>
+            <ab facs="#facs_9_r_2" >
+               <lb facs="#facs_9_r_2_tl_1" n="N001"/>miter naht vnd wolt den <persName key="Zweiter_Herzog" >kei</persName>
+               <lb facs="#facs_9_r_2_tl_2" n="N002"/><persName key="Zweiter_Herzog" >ſer</persName> wecken cʒu ſeinen tet vn
+               <lb facs="#facs_9_r_2_tl_3" n="N003"/>auſʒ ir kamer kam des het der
+               <lb facs="#facs_9_r_2_tl_4" n="N004"/><persName key="Hofmeister_des_Herzogs">falſch hofmeiſter</persName> war genu̅
+               <lb facs="#facs_9_r_2_tl_5" n="N005"/>men vnd ging heimlich vnd
+               <lb facs="#facs_9_r_2_tl_6" n="N006"/>eilet in die kame vnd ſchneid
+               <lb facs="#facs_9_r_2_tl_7" n="N007"/>dem <persName key="Sohn_des_Herzogpaars">Iungen hercʒog</persName> den hals
+               <lb facs="#facs_9_r_2_tl_8" n="N008"/>ab vnd machet ſich ſnell wid͛
+               <lb facs="#facs_9_r_2_tl_9" n="N009"/>von dannen Do nu die <persName key="Crescentia">vnſch</persName>
+               <lb facs="#facs_9_r_2_tl_10" n="N010"/><persName key="Crescentia">uldig <hi rend="underline">Creſſentia</hi></persName> wider kam
+               <lb facs="#facs_9_r_2_tl_11" n="N011"/>in die kamer vnd den <persName key="Sohn_des_Herzogpaars">Iungen</persName>
+               <lb facs="#facs_9_r_2_tl_12" n="N012"/><persName key="Sohn_des_Herzogpaars">hercʒogen</persName> fant er mordet do
+               <lb facs="#facs_9_r_2_tl_13" n="N013"/>erſrack ſie Inniglichen ſer vn̅
+               <lb facs="#facs_9_r_2_tl_14" n="N014"/>gedaht alcʒuhant an die wort
+               <lb facs="#facs_9_r_2_tl_15" n="N015"/>die <persName ref="https://www.wikidata.org/wiki/Q345">vnſer liebe fraw</persName> cʒu ir ge
+               <lb facs="#facs_9_r_2_tl_16" n="N016"/>ſprochen het do ſieſʒ auſʒ dem
+               <lb facs="#facs_9_r_2_tl_17" n="N017"/>grund des meres gefurt het
+               <lb facs="#facs_9_r_2_tl_18" n="N018"/>das ſie noch vil muſt geleide̅
+               <lb facs="#facs_9_r_2_tl_19" n="N019"/>aber ſie wolt ir cʒu hilff kum
+               <lb facs="#facs_9_r_2_tl_20" n="N020"/>en in Ir vnſchuld von den wor
+               <lb facs="#facs_9_r_2_tl_21" n="N021"/>ten gewan die <persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_9_r_2_tl_22" n="N022"/>einen troſt vnd gab ſich wil
+               <lb facs="#facs_9_r_2_tl_23" n="N023"/>liglichen in das leiden vnd
+               <lb facs="#facs_9_r_2_tl_24" n="N024"/>ſprach <persName ref="https://www.wikidata.org/wiki/Q190">her͛e</persName> du tuſt alle ding
+               <lb facs="#facs_9_r_2_tl_25" n="N025"/>in dem peſten vnd ſie kinet ni
+               <lb facs="#facs_9_r_2_tl_26" n="N026"/>der vnd pat <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> das er ir ge
+               <lb facs="#facs_9_r_2_tl_27" n="N027"/>dult geb in Ir vnſchuld <hi rend="highlight">¶</hi>
+               <lb facs="#facs_9_r_2_tl_28" n="N028"/>Darnach do es nun tag was
+               <lb facs="#facs_9_r_2_tl_29" n="N029"/>worden vnd uber die cʒeit kum
+               <lb facs="#facs_9_r_2_tl_30" n="N030"/>en was das der <persName key="Zweiter_Herzog">hercʒog</persName> ſolt
+               <lb facs="#facs_9_r_2_tl_31" n="N031"/>auf ſten do ging der vngetrew
+               <lb facs="#facs_9_r_2_tl_32" n="N032"/><persName key="Hofmeister_des_Herzogs">hoffmeiſter</persName> an die kamer vnd
+               <lb facs="#facs_9_r_2_tl_33" n="N033"/>wecket den <persName key="Zweiter_Herzog">hercʒogen</persName> auf Do
+               <lb facs="#facs_9_r_2_tl_34" n="N034"/>ſprach der <persName key="Zweiter_Herzog">hercʒogen</persName> die <persName key="Crescentia">hoff</persName>
+               <lb facs="#facs_9_r_2_tl_35" n="N035"/><persName key="Crescentia">meiſterin</persName> hat mich noch nicht
+               <lb facs="#facs_9_r_2_tl_36" n="N036"/>gewecket wann die weiſʒ die
+               <lb facs="#facs_9_r_2_tl_37" n="N037"/>cʒeit wol Do antwurt im d͛
+               <lb facs="#facs_9_r_2_tl_38" n="N038"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> cʒorniglichen vnd
+               <lb facs="#facs_9_r_2_tl_39" n="N039"/>ſprach alſo Herre es iſt groſʒ
+               <lb facs="#facs_9_r_2_tl_40" n="N040"/>cʒeit das ir auf ſtet vnd iſt ferr
+               <lb facs="#facs_9_r_2_tl_41" n="N041"/>auf den tag vnd ob die <persName key="Crescentia">hoffmei</persName>
+            </ab>
+            <ab facs="#facs_9_r_3" >
+               <lb facs="#facs_9_r_3_tl_1" n="N001"/><persName key="Crescentia">ſterin </persName>nicht wolt auf ſten wolt
+               <lb facs="#facs_9_r_3_tl_2" n="N002"/>ir darvmb nit auf ſten von
+               <lb facs="#facs_9_r_3_tl_3" n="N003"/>ſulcher wort wegen ſtund d͛
+               <lb facs="#facs_9_r_3_tl_4" n="N004"/><persName key="Zweiter_Herzog">hercʒog</persName> auf vnd fraget nach
+               <lb facs="#facs_9_r_3_tl_5" n="N005"/>der <persName key="Crescentia">hofmeiſterin</persName> vnd dauht
+               <lb facs="#facs_9_r_3_tl_6" n="N006"/>in wunderlichen daſʒ ſie in nit
+               <lb facs="#facs_9_r_3_tl_7" n="N007"/>geweckt het nach ir gewon
+               <lb facs="#facs_9_r_3_tl_8" n="N008"/>heit vnd do ſye nÿmant het
+               <lb facs="#facs_9_r_3_tl_9" n="N009"/>geſe<unclear>n</unclear>hen do ſant er den val
+               <lb facs="#facs_9_r_3_tl_10" n="N010"/>ſchen <persName key="Hofmeister_des_Herzogs">hoffmeiſter</persName> an Ir kam͛
+               <lb facs="#facs_9_r_3_tl_11" n="N011"/>das er ſolt beſehen wie es vm
+               <lb facs="#facs_9_r_3_tl_12" n="N012"/>ſie ſtund do loff er eilent in gro
+               <lb facs="#facs_9_r_3_tl_13" n="N013"/>ſem haſſ an die kamer der <persName key="Crescentia">ſe</persName>
+               <lb facs="#facs_9_r_3_tl_14" n="N014"/><persName key="Crescentia">ligen <hi rend="underline">Creſſentia</hi></persName> vnd rufet
+               <lb facs="#facs_9_r_3_tl_15" n="N015"/>Ir cʒorniglichen vnd do ſie Im
+               <lb facs="#facs_9_r_3_tl_16" n="N016"/>alcʒuhant nicht auf tet do ſtieſʒ
+               <lb facs="#facs_9_r_3_tl_17" n="N017"/>er die tur mit maht auf vnd
+               <lb facs="#facs_9_r_3_tl_18" n="N018"/>fant das <persName key="Sohn_des_Herzogpaars">kint den Iungen her</persName>
+               <lb facs="#facs_9_r_3_tl_19" n="N019"/><persName key="Sohn_des_Herzogpaars">cʒog</persName> dote den er ſelber ermor
+               <lb facs="#facs_9_r_3_tl_20" n="N020"/>det het Do loff er gar vnge
+               <lb facs="#facs_9_r_3_tl_21" n="N021"/>ſtumiglichen mit groſʒem ſch
+               <lb facs="#facs_9_r_3_tl_22" n="N022"/>reien vnd clagen fur den <persName key="Zweiter_Herzog" >her</persName>
+               <lb facs="#facs_9_r_3_tl_23" n="N023"/><persName key="Zweiter_Herzog" >cʒogen</persName> als ob im gar leit wer
+               <lb facs="#facs_9_r_3_tl_24" n="N024"/>geſchehen vnd ſprach alſo her
+               <lb facs="#facs_9_r_3_tl_25" n="N025"/>das <persName key="Crescentia">poſʒ vngetrew weip die</persName>
+               <lb facs="#facs_9_r_3_tl_26" n="N026"/><persName key="Crescentia">hofmeiſterin</persName> hat ewern <persName key="Sohn_des_Herzogpaars">ſun</persName>
+               <lb facs="#facs_9_r_3_tl_27" n="N027"/><persName key="Sohn_des_Herzogpaars">den Iungen hercʒogen</persName> <add><hi style="vertical-align: superscript;">er</hi></add>mor
+               <lb facs="#facs_9_r_3_tl_28" n="N028"/>det Do loff er ſnell cʒu der ka
+               <lb facs="#facs_9_r_3_tl_29" n="N029"/>mer vnd do er ſah das ſein <persName key="Sohn_des_Herzogpaars">ſun</persName>
+               <lb facs="#facs_9_r_3_tl_30" n="N030"/>ermordet was do wenet er di
+               <lb facs="#facs_9_r_3_tl_31" n="N031"/><persName key="Crescentia">hofmeiſterin</persName> het in ermordet
+               <lb facs="#facs_9_r_3_tl_32" n="N032"/>vnd ſchrei mit lauter ſty̅me
+               <lb facs="#facs_9_r_3_tl_33" n="N033"/>vnd ſprach alſo Ach du vnſe
+               <lb facs="#facs_9_r_3_tl_34" n="N034"/>ligs weip was haſtu an mir
+               <lb facs="#facs_9_r_3_tl_35" n="N035"/>gerochen das du mir meine̅
+               <lb facs="#facs_9_r_3_tl_36" n="N036"/>einigen<persName key="Sohn_des_Herzogpaars"> Sun</persName> haſt ermordet
+               <lb facs="#facs_9_r_3_tl_37" n="N037"/>Do antwurt im die <persName key="Crescentia">ſelig <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_9_r_3_tl_38" n="N038"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName> vnd ſprach alſo <persName ref="https://www.wikidata.org/wiki/Q190">got </persName>der
+               <lb facs="#facs_9_r_3_tl_39" n="N039"/>ein erkenner iſt aller hercʒe̅
+               <lb facs="#facs_9_r_3_tl_40" n="N040"/>der weiſʒ das ich der dat vnſch
+               <lb facs="#facs_9_r_3_tl_41" n="N041"/>uldig pin Do hub der falſch
+            </ab>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <ab facs="#facs_10_r" >
+               <lb facs="#facs_10_r_tl_1" n="N001"/><persName key="Hofmeister_des_Herzogs">vngetrew hofmeiſter</persName> an cʒu
+               <lb facs="#facs_10_r_tl_2" n="N002"/>ſchreien vnd ſprach alſo herr
+               <lb facs="#facs_10_r_tl_3" n="N003"/>es ſei dann das du mir gewalt
+               <lb facs="#facs_10_r_tl_4" n="N004"/>gebeſt uber die morderin die
+               <lb facs="#facs_10_r_tl_5" n="N005"/>deinen <persName key="Sohn_des_Herzogpaars">ſun</persName> ermordet hat das
+               <lb facs="#facs_10_r_tl_6" n="N006"/>ich ſie darvmb mug geſtraf
+               <lb facs="#facs_10_r_tl_7" n="N007"/>fen ſo wil ich dir keinen dinſt
+               <lb facs="#facs_10_r_tl_8" n="N008"/>nicht mer tun mit ſulichen vn̄
+               <lb facs="#facs_10_r_tl_9" n="N009"/>mit andern worten praht er
+               <lb facs="#facs_10_r_tl_10" n="N010"/>den <persName key="Zweiter_Herzog">hercʒogen</persName> darcʒu das er
+               <lb facs="#facs_10_r_tl_11" n="N011"/>im ſeiner valſchen lugenhafti
+               <lb facs="#facs_10_r_tl_12" n="N012"/>gen worten glaubet vnd gab
+               <lb facs="#facs_10_r_tl_13" n="N013"/>im gewalt uber die <persName key="Crescentia">edeln ſelig</persName>
+               <lb facs="#facs_10_r_tl_14" n="N014"/><persName key="Crescentia">en frawen <hi rend="underline">Creſſentia</hi></persName> alcʒuha̅t
+               <lb facs="#facs_10_r_tl_15" n="N015"/>do viel er ſie an mit gry̅me
+               <lb facs="#facs_10_r_tl_16" n="N016"/>ſeines gemutes vnd pant ir
+               <lb facs="#facs_10_r_tl_17" n="N017"/>hend vnd fuſʒ cʒu ſamen vnd
+               <lb facs="#facs_10_r_tl_18" n="N018"/>warf ſie einen hohen felſen
+               <lb facs="#facs_10_r_tl_19" n="N019"/>von der feſten hin ab Nu ſloſʒ
+               <lb facs="#facs_10_r_tl_20" n="N020"/>ein ſchiſſeichs waſſer vnter
+               <lb facs="#facs_10_r_tl_21" n="N021"/>den ſloſʒ hin In das ſelbe waſſʒ
+               <lb facs="#facs_10_r_tl_22" n="N022"/>er warf der <persName key="Hofmeister_des_Herzogs">vnſelig hofmeiſter</persName>
+               <lb facs="#facs_10_r_tl_23" n="N023"/>die <persName key="Crescentia">edeln frawen <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_10_r_tl_24" n="N024"/>als gepunden Do ſie nu etwi
+               <lb facs="#facs_10_r_tl_25" n="N025"/>verr gefloſſʒen was do kam ab͛
+               <lb facs="#facs_10_r_tl_26" n="N026"/>die <persName ref="https://www.wikidata.org/wiki/Q345">gebenedigt Ivnckfrawe
+               <lb facs="#facs_10_r_tl_27" n="N027"/>maria</persName> vnd erloſet ſie von ire̅
+               <lb facs="#facs_10_r_tl_28" n="N028"/>panden vnd furt ſie an das la̅t
+               <lb facs="#facs_10_r_tl_29" n="N029"/>geſunt vnd friſch vnd ſprach
+               <lb facs="#facs_10_r_tl_30" n="N030"/>cʒu Ir alſo <persName key="Crescentia"><hi rend="underline">Creſſentia</hi> </persName>dein vn
+               <lb facs="#facs_10_r_tl_31" n="N031"/>ſchuldigs leiden das wirt nu̅
+               <lb facs="#facs_10_r_tl_32" n="N032"/><unclear>ein</unclear> ein ende nemen darvmb
+               <lb facs="#facs_10_r_tl_33" n="N033"/>ſo volg meinem Rat vnd ſi gab
+               <lb facs="#facs_10_r_tl_34" n="N034"/>ir ein krawt vnd ſprach cʒu ir
+               <lb facs="#facs_10_r_tl_35" n="N035"/>alſo Nim das krawt vnd gee
+               <lb facs="#facs_10_r_tl_36" n="N036"/>in die nehſten ſtat die ich dir
+               <lb facs="#facs_10_r_tl_37" n="N037"/>cʒeig vnd gib dich auſʒ fur ey̅
+               <lb facs="#facs_10_r_tl_38" n="N038"/>ercʒtin vnd welcher menſch
+               <lb facs="#facs_10_r_tl_39" n="N039"/>beſeſſen iſt mit dem ſeuchen
+               <lb facs="#facs_10_r_tl_40" n="N040"/>der auſſecʒikeit vnd den <persName ref="https://www.wikidata.org/wiki/Q190">got</persName>
+               <lb facs="#facs_10_r_tl_41" n="N041"/>damit geplaget hat dem gib
+            </ab>
+            <ab facs="#facs_10_r_1" >
+               <lb facs="#facs_10_r_1_tl_1" n="N001"/>von diſem krawt cʒu trincken
+               <lb facs="#facs_10_r_1_tl_2" n="N002"/>vnd heiſʒ in ein offen peiht thu̅
+               <lb facs="#facs_10_r_1_tl_3" n="N003"/>vor allem volck Alſo das er mit
+               <lb facs="#facs_10_r_1_tl_4" n="N004"/>wiſſen nicht verſweig die
+               <lb facs="#facs_10_r_1_tl_5" n="N005"/>ſelben menſchen werden ge
+               <lb facs="#facs_10_r_1_tl_6" n="N006"/>reiniget von dem ſeuchen der
+               <lb facs="#facs_10_r_1_tl_7" n="N007"/>auſſetʒgikeit <hi rend="highlight">¶</hi> Alſo ging die
+               <lb facs="#facs_10_r_1_tl_8" n="N008"/><persName key="Crescentia">ſelig fraw <hi rend="underline">Creſſentia</hi></persName> nach
+               <lb facs="#facs_10_r_1_tl_9" n="N009"/>dem rat der <persName ref="https://www.wikidata.org/wiki/Q345">Iunckfrawen
+               <lb facs="#facs_10_r_1_tl_10" n="N010"/><hi rend="underline">maria</hi> </persName>in die ſtat vnd gab ſich
+               <lb facs="#facs_10_r_1_tl_11" n="N011"/>auſʒ fur ein ercʒtin vnd ſie von
+               <lb facs="#facs_10_r_1_tl_12" n="N012"/>de die ſeuchen der auſſetʒig
+               <lb facs="#facs_10_r_1_tl_13" n="N013"/>keit vertreiben von den me̅
+               <lb facs="#facs_10_r_1_tl_14" n="N014"/>ſchen alcʒuhant do kamen vil
+               <lb facs="#facs_10_r_1_tl_15" n="N015"/>auſſecʒiger menſchen cʒu ir
+               <lb facs="#facs_10_r_1_tl_16" n="N016"/>den hallff ſie als ſie dann von
+               <lb facs="#facs_10_r_1_tl_17" n="N017"/><persName ref="https://www.wikidata.org/wiki/Q345">vnſer lieben frawen</persName> vnterwei
+               <lb facs="#facs_10_r_1_tl_18" n="N018"/>ſet vnd gelert was Nu was
+               <lb facs="#facs_10_r_1_tl_19" n="N019"/><persName key="Hofmeister_des_Herzogs">der vngetrew hofmeiſter</persName> der
+               <lb facs="#facs_10_r_1_tl_20" n="N020"/>dem <persName key="Zweiter_Herzog">hercʒog</persName> ſeinen <persName key="Sohn_des_Herzogpaars">ſun</persName> ermo᷎
+               <lb facs="#facs_10_r_1_tl_21" n="N021"/>det het von der verhencknuſʒ
+               <lb facs="#facs_10_r_1_tl_22" n="N022"/><persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName> auch auſſetʒig worden
+               <lb facs="#facs_10_r_1_tl_23" n="N023"/>vnd auch der <persName key="Zweiter_Herzog">hercʒog</persName> ſelber
+               <lb facs="#facs_10_r_1_tl_24" n="N024"/>der uber die <persName >vnſchuldig <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_10_r_1_tl_25" n="N025"/><persName ><hi rend="underline">ſentia</hi></persName> gewalt het geben dem
+               <lb facs="#facs_10_r_1_tl_26" n="N026"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> ſie cʒu ſtraffen das
+               <lb facs="#facs_10_r_1_tl_27" n="N027"/>er ſie erdoten ſolt die waren
+               <lb facs="#facs_10_r_1_tl_28" n="N028"/>beide als vnrein vnd als auſʒ
+               <lb facs="#facs_10_r_1_tl_29" n="N029"/>ſetʒig worden das in der auſʒ
+               <lb facs="#facs_10_r_1_tl_30" n="N030"/>ſacʒ hend vnd fuſʒ heten ab
+               <lb facs="#facs_10_r_1_tl_31" n="N031"/>freſſen Do die Innen wurden
+               <lb facs="#facs_10_r_1_tl_32" n="N032"/>das ein ercʒtin wer die fur de̅
+               <lb facs="#facs_10_r_1_tl_33" n="N033"/>ſeuchen der auſſetʒigkeit die
+               <lb facs="#facs_10_r_1_tl_34" n="N034"/>leut geſunt machet Do ſante̅
+               <lb facs="#facs_10_r_1_tl_35" n="N035"/>ſie ir boten auſʒ cʒu der <persName key="Crescentia">ſelige̅</persName>
+               <lb facs="#facs_10_r_1_tl_36" n="N036"/><persName key="Crescentia"> frawen <hi rend="underline">Creſſentia</hi></persName> vnd lieſen
+               <lb facs="#facs_10_r_1_tl_37" n="N037"/>ſie biten das ſie mit in wolt
+               <lb facs="#facs_10_r_1_tl_38" n="N038"/>farn cʒu <persName key="Zweiter_Herzog" >Irem herren dem her</persName>
+               <lb facs="#facs_10_r_1_tl_39" n="N039"/><persName key="Zweiter_Herzog" >cʒogen </persName>vnd wolt in vnd ſeine̅
+               <lb facs="#facs_10_r_1_tl_40" n="N040"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> geſunt machen
+               <lb facs="#facs_10_r_1_tl_41" n="N041"/>von dem ſeuchen der auſſetʒi
+               <lb facs="#facs_10_r_1_tl_42" n="N042"/><add>keit</add>
+            </ab>
+            <ab facs="#facs_10_r_4" >
+               <lb facs="#facs_10_r_4_tl_1" n="N001"/>XXVII
+            </ab>
+            <ab facs="#facs_10_r_2" >
+               <lb facs="#facs_10_r_2_tl_1" n="N001"/>wann der auſſacʒ hat ſie freſ
+               <lb facs="#facs_10_r_2_tl_2" n="N002"/>ſen das ſie nicht lang muge̅
+               <lb facs="#facs_10_r_2_tl_3" n="N003"/>geleben ſie werden ſterben ey
+               <lb facs="#facs_10_r_2_tl_4" n="N004"/>nes herten vnd ſchentlichen
+               <lb facs="#facs_10_r_2_tl_5" n="N005"/>todes aber es erkant die ſ<persName key="Crescentia">elig</persName>
+               <lb facs="#facs_10_r_2_tl_6" n="N006"/><persName key="Crescentia">en frawen <hi rend="underline">Creſſentia</hi> </persName>nymant
+               <lb facs="#facs_10_r_2_tl_7" n="N007"/>ſie gelopten ir vil gutes cʒu
+               <lb facs="#facs_10_r_2_tl_8" n="N008"/>geben aber ſie begert von ny
+               <lb facs="#facs_10_r_2_tl_9" n="N009"/>mant keines gutes Sunder
+               <lb facs="#facs_10_r_2_tl_10" n="N010"/>die gabe die ir von <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> vmb
+               <lb facs="#facs_10_r_2_tl_11" n="N011"/>ſuſt was geben die teilet ſie
+               <lb facs="#facs_10_r_2_tl_12" n="N012"/>allen menſchen mit vmb <unclear>ſuſt</unclear>
+               <lb facs="#facs_10_r_2_tl_13" n="N013"/>durch ſeinen willen vnd na̅
+               <lb facs="#facs_10_r_2_tl_14" n="N014"/>von nÿmant kein gut <hi rend="highlight">¶</hi> Alſo
+               <lb facs="#facs_10_r_2_tl_15" n="N015"/>fur die <persName key="Crescentia">ſelig frawe <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_10_r_2_tl_16" n="N016"/>mit den <persName key="Bote">poten</persName> cʒu dem<persName key="Zweiter_Herzog" > hercʒ</persName>
+               <lb facs="#facs_10_r_2_tl_17" n="N017"/><persName key="Zweiter_Herzog" >ogen</persName> der ſie in den tod het ge
+               <lb facs="#facs_10_r_2_tl_18" n="N018"/>ben vnd tet gut wider ubel
+               <lb facs="#facs_10_r_2_tl_19" n="N019"/>vnd do ſie cʒu Im kam do wart
+               <lb facs="#facs_10_r_2_tl_20" n="N020"/>der <persName key="Zweiter_Herzog">hercʒog</persName> ir cʒukunft gar
+               <lb facs="#facs_10_r_2_tl_21" n="N021"/>fro vnd pat ſie das ſie ſeines
+               <lb facs="#facs_10_r_2_tl_22" n="N022"/>guts nem als vnd ſie wolt vn
+               <lb facs="#facs_10_r_2_tl_23" n="N023"/><unclear>meht</unclear> in geſunt von ſeinen ſeu
+               <lb facs="#facs_10_r_2_tl_24" n="N024"/>chen Do ſprach die <persName key="Crescentia">ſelig <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_10_r_2_tl_25" n="N025"/><persName key="Crescentia"><hi rend="underline">ſentia</hi> </persName>cʒu dem <persName key="Zweiter_Herzog">hercʒogen</persName> alſo
+               <lb facs="#facs_10_r_2_tl_26" n="N026"/>her᷎e begert ir das ir geſunt
+               <lb facs="#facs_10_r_2_tl_27" n="N027"/>werdet von ewern ſeuchen d͛
+               <lb facs="#facs_10_r_2_tl_28" n="N028"/>auſſecʒigkeit ſo ſult ir ein off
+               <lb facs="#facs_10_r_2_tl_29" n="N029"/>ene beiht thun vnd ſolt euch
+               <lb facs="#facs_10_r_2_tl_30" n="N030"/>ewer ſunden <unclear>offenlichen</unclear> offen
+               <lb facs="#facs_10_r_2_tl_31" n="N031"/>lichen ſchuldig geben vnd ſult
+               <lb facs="#facs_10_r_2_tl_32" n="N032"/>mit wiſſen nichtʒ verſweigen
+               <lb facs="#facs_10_r_2_tl_33" n="N033"/>ſo will ich euch mit der kraft
+               <lb facs="#facs_10_r_2_tl_34" n="N034"/><persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName> erledigen von ewern
+               <lb facs="#facs_10_r_2_tl_35" n="N035"/>ſeuchen Alſo hub der <persName key="Zweiter_Herzog">hercʒog</persName>
+               <lb facs="#facs_10_r_2_tl_36" n="N036"/>an cʒu peichten vnd offenpart
+               <lb facs="#facs_10_r_2_tl_37" n="N037"/>ſein ſund vor allem ſeinem vo
+               <lb facs="#facs_10_r_2_tl_38" n="N038"/>lk was er ie getan het vnd cʒu
+               <lb facs="#facs_10_r_2_tl_39" n="N039"/>den aller letʒſten do er nichtʒ
+               <lb facs="#facs_10_r_2_tl_40" n="N040"/>mer wes cʒu ſagen das er ge
+               <lb facs="#facs_10_r_2_tl_41" n="N041"/>tan het do hub er an vnd ſp̈ch
+            </ab>
+            <ab facs="#facs_10_r_3" >
+               <lb facs="#facs_10_r_3_tl_1" n="N001"/>alſo Ich het einen Iu̅ngen <persName key="Sohn_des_Herzogpaars">Sun</persName> der
+               <lb facs="#facs_10_r_3_tl_2" n="N002"/>wart mir ermordet der ſelben
+               <lb facs="#facs_10_r_3_tl_3" n="N003"/>dat verſah ich mich auf ein <persName key="Crescentia">er</persName>
+               <lb facs="#facs_10_r_3_tl_4" n="N004"/><persName key="Crescentia">berte frawen</persName> der ich meinen
+               <lb facs="#facs_10_r_3_tl_5" n="N005"/>einigen <persName key="Sohn_des_Herzogpaars">ſun</persName> enpfolben bet das
+               <lb facs="#facs_10_r_3_tl_6" n="N006"/>ſie mir den ſolt behutten vnd be
+               <lb facs="#facs_10_r_3_tl_7" n="N007"/>warn nach iren trewen uber
+               <lb facs="#facs_10_r_3_tl_8" n="N008"/>die <persName key="Crescentia">ſelben ſrawen</persName> gab ich gewalt
+               <lb facs="#facs_10_r_3_tl_9" n="N009"/>das ſie wart ertrenckt vmb die
+               <lb facs="#facs_10_r_3_tl_10" n="N010"/>ſelben datde hab ich groſʒ rew
+               <lb facs="#facs_10_r_3_tl_11" n="N011"/>vnd leit vnd beſorg much ſer
+               <lb facs="#facs_10_r_3_tl_12" n="N012"/>ich ſei ſchieldig an irem tode
+               <lb facs="#facs_10_r_3_tl_13" n="N013"/>wann ich keiner vntrewen nye
+               <lb facs="#facs_10_r_3_tl_14" n="N014"/>von Ir pin Innen worden Alcʒu
+               <lb facs="#facs_10_r_3_tl_15" n="N015"/>hant do der <persName key="Zweiter_Herzog">hercʒog</persName> die wort
+               <lb facs="#facs_10_r_3_tl_16" n="N016"/>geſprach vnd ſich der ſunden
+               <lb facs="#facs_10_r_3_tl_17" n="N017"/>ſchuldie gab offenlichen do
+               <lb facs="#facs_10_r_3_tl_18" n="N018"/>nam die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"></hi> das
+               <lb facs="#facs_10_r_3_tl_19" n="N019"/>krawt das ir <persName ref="https://www.wikidata.org/wiki/Q345">vnſer liebe fraw</persName>
+               <lb facs="#facs_10_r_3_tl_20" n="N020"/>geben het vnd gab dem <persName key="Zweiter_Herzog" >hercʒo</persName>
+               <lb facs="#facs_10_r_3_tl_21" n="N021"/><persName key="Zweiter_Herzog" >gen</persName> davon cʒu trincken von
+               <lb facs="#facs_10_r_3_tl_22" n="N022"/>ſtund ver newet ſich ſein fawls
+               <lb facs="#facs_10_r_3_tl_23" n="N023"/>an ſeinem leibe vnd ward friſch
+               <lb facs="#facs_10_r_3_tl_24" n="N024"/>vnd geſunt als er e ye was ge
+               <lb facs="#facs_10_r_3_tl_25" n="N025"/>weſen Do wart er gar fro vn̅
+               <lb facs="#facs_10_r_3_tl_26" n="N026"/>ſprach cʒu der <persName key="Crescentia">ſeligen <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_10_r_3_tl_27" n="N027"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> alſo liebe fraw ich pit euch
+               <lb facs="#facs_10_r_3_tl_28" n="N028"/>das ir meines gutes nemt als
+               <lb facs="#facs_10_r_3_tl_29" n="N029"/>vil ir des begert cʒu nemen
+               <lb facs="#facs_10_r_3_tl_30" n="N030"/>Aber ſie wolt nichtʒ von Im ne
+               <lb facs="#facs_10_r_3_tl_31" n="N031"/>men vnd er bekannt der <persName key="Crescentia">ſelig</persName>
+               <lb facs="#facs_10_r_3_tl_32" n="N032"/><persName key="Crescentia">en<hi rend="underline">Creſſentia</hi></persName> nicht noch nym
+               <lb facs="#facs_10_r_3_tl_33" n="N033"/>ant an ſeinem hoff <hi rend="highlight">¶</hi> Darnach
+               <lb facs="#facs_10_r_3_tl_34" n="N034"/>do pat der <persName key="Zweiter_Herzog">hercʒog</persName> die <persName key="Crescentia">ſeligen </persName>
+               <lb facs="#facs_10_r_3_tl_35" n="N035"/><persName key="Crescentia">frawen <hi rend="underline">Creſſentia</hi></persName> fur ſeinen
+               <lb facs="#facs_10_r_3_tl_36" n="N036"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> der het den ſelben
+               <lb facs="#facs_10_r_3_tl_37" n="N037"/>ſeuchen der auſſetʒigkeit das
+               <lb facs="#facs_10_r_3_tl_38" n="N038"/>ſie den auch wolt geſunt mach
+               <lb facs="#facs_10_r_3_tl_39" n="N039"/>en aber er was mit der crank
+               <lb facs="#facs_10_r_3_tl_40" n="N040"/>heit der auſſetʒikeit ſo gar
+               <lb facs="#facs_10_r_3_tl_41" n="N041"/>ſer beſwert das ſein leichnam
+            </ab>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <ab facs="#facs_11_r" >
+               <lb facs="#facs_11_r_tl_1" n="N001"/>ſtanck das nymant ein kurcʒe
+               <lb facs="#facs_11_r_tl_2" n="N002"/>cʒeit der im moht bleiben Do
+               <lb facs="#facs_11_r_tl_3" n="N003"/>ſprach die <persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> cʒu
+               <lb facs="#facs_11_r_tl_4" n="N004"/>dem <persName key="Zweiter_Herzog">hercʒogen</persName> alſo her wil
+               <lb facs="#facs_11_r_tl_5" n="N005"/>ein offene peicht thun als Ir
+               <lb facs="#facs_11_r_tl_6" n="N006"/>getan habt ſo will ich in mit
+               <lb facs="#facs_11_r_tl_7" n="N007"/>der craft <persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName> auch geſunt
+               <lb facs="#facs_11_r_tl_8" n="N008"/>machen Alſo hub der <persName key="Hofmeister_des_Herzogs">hofmeiſt͛</persName>
+               <lb facs="#facs_11_r_tl_9" n="N009"/>an vnd tet ein offene peicht
+               <lb facs="#facs_11_r_tl_10" n="N010"/>vor dem <persName key="Zweiter_Herzog">hercʒogen</persName> vnd vor al
+               <lb facs="#facs_11_r_tl_11" n="N011"/>len ſeinem volck aber er ver
+               <lb facs="#facs_11_r_tl_12" n="N012"/>ſweig die morderi das er de̅
+               <lb facs="#facs_11_r_tl_13" n="N013"/><persName key="Zweiter_Herzog">hercʒogen</persName> ſeinen einigen <persName key="Sohn_des_Herzogpaars">ſun</persName>
+               <lb facs="#facs_11_r_tl_14" n="N014"/>ermordet het darvmb ſo wa
+               <lb facs="#facs_11_r_tl_15" n="N015"/>rde er nicht geſunt von ſein͛
+               <lb facs="#facs_11_r_tl_16" n="N016"/>auſſecʒigkeit Do ſprach die
+               <lb facs="#facs_11_r_tl_17" n="N017"/><persName key="Crescentia">ſelig fraw<hi rend="underline"> Creſſentia</hi></persName> cʒu de̅
+               <lb facs="#facs_11_r_tl_18" n="N018"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> alſo herre ir habt
+               <lb facs="#facs_11_r_tl_19" n="N019"/>etwas verſwigen das ir nit
+               <lb facs="#facs_11_r_tl_20" n="N020"/>geoffenpart habt darvmb
+               <lb facs="#facs_11_r_tl_21" n="N021"/>ſo wert ir nicht geſunt von
+               <lb facs="#facs_11_r_tl_22" n="N022"/>ewern ſeuchen ir ſagt es dan
+               <lb facs="#facs_11_r_tl_23" n="N023"/>offenpar vor allem volck Do
+               <lb facs="#facs_11_r_tl_24" n="N024"/>ſprach der <persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> ich hon
+               <lb facs="#facs_11_r_tl_25" n="N025"/>geſagt alles das ich weiſʒ cʒu
+               <lb facs="#facs_11_r_tl_26" n="N026"/>ſagen auſʒ genum̅en ein Sund
+               <lb facs="#facs_11_r_tl_27" n="N027"/>der wil ich nicht offenlichen
+               <lb facs="#facs_11_r_tl_28" n="N028"/>ſagen vnd wil darvmb ſterbe̅
+               <lb facs="#facs_11_r_tl_29" n="N029"/>vnd do in die frawe <persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_11_r_tl_30" n="N030"/>noch nymant moht uber re
+               <lb facs="#facs_11_r_tl_31" n="N031"/>den das er die ſund wolt offen
+               <lb facs="#facs_11_r_tl_32" n="N032"/>parn do ſprach der <persName key="Zweiter_Herzog">hercʒog</persName>
+               <lb facs="#facs_11_r_tl_33" n="N033"/>cʒu im alſo lieber <persName key="Hofmeister_des_Herzogs">hofmeiſter</persName>
+               <lb facs="#facs_11_r_tl_34" n="N034"/>ich pit dich das du dem leben
+               <lb facs="#facs_11_r_tl_35" n="N035"/>wolleſt friſten vnd wolleſt dei̅
+               <lb facs="#facs_11_r_tl_36" n="N036"/>ſund offenparn vnd ob du wi
+               <lb facs="#facs_11_r_tl_37" n="N037"/>der mich getan haſt das du
+               <lb facs="#facs_11_r_tl_38" n="N038"/>den tod verdint heſt ich wil
+               <lb facs="#facs_11_r_tl_39" n="N039"/>dich dannoch deines lebens
+               <lb facs="#facs_11_r_tl_40" n="N040"/>ſichern aber er gedacht nicht
+               <lb facs="#facs_11_r_tl_41" n="N041"/>das er Im ſeinen <persName key="Sohn_des_Herzogpaars">ſun</persName> ermordet
+            </ab>
+            <ab facs="#facs_11_r_1" >
+               <lb facs="#facs_11_r_1_tl_1" n="N001"/>het Do ſprach der <persName key="Hofmeister_des_Herzogs">hoffmeiſter</persName>
+               <lb facs="#facs_11_r_1_tl_2" n="N002"/>cʒu dem <persName key="Zweiter_Herzog">hercʒogen</persName> alſo herre
+               <lb facs="#facs_11_r_1_tl_3" n="N003"/>bin ich der wort gewiſʒ von
+               <lb facs="#facs_11_r_1_tl_4" n="N004"/>euch der die Ir wir cʒunt ver
+               <lb facs="#facs_11_r_1_tl_5" n="N005"/>ſprochen habt ſo wil ich die ſund
+               <lb facs="#facs_11_r_1_tl_6" n="N006"/>offenparn die ich begangen
+               <lb facs="#facs_11_r_1_tl_7" n="N007"/>hon Do im das der <persName key="Zweiter_Herzog">hercʒog</persName> ver
+               <lb facs="#facs_11_r_1_tl_8" n="N008"/>prach cʒu halten do hub der
+               <lb facs="#facs_11_r_1_tl_9" n="N009"/><persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> an cʒu reden vmb
+               <lb facs="#facs_11_r_1_tl_10" n="N010"/>der geſuntheit willen ſeines
+               <lb facs="#facs_11_r_1_tl_11" n="N011"/>leibes vnd bekant offentlichen
+               <lb facs="#facs_11_r_1_tl_12" n="N012"/>vor dem <persName key="Zweiter_Herzog">hercʒogen</persName> vnd vor al
+               <lb facs="#facs_11_r_1_tl_13" n="N013"/>lem ſeinen volck die gegenw͛
+               <lb facs="#facs_11_r_1_tl_14" n="N014"/>tig warn das er in ſeinen <persName key="Sohn_des_Herzogpaars">ſun</persName>
+               <lb facs="#facs_11_r_1_tl_15" n="N015"/>ermordet het vmb neide vnd
+               <lb facs="#facs_11_r_1_tl_16" n="N016"/>haſſʒ willen den er cʒu der <persName key="Crescentia">ſelige ̅</persName>
+               <lb facs="#facs_11_r_1_tl_17" n="N017"/><persName key="Crescentia">frawen <hi rend="underline">Creſſentia</hi></persName> gehabt het
+               <lb facs="#facs_11_r_1_tl_18" n="N018"/>vmb das ſie ſeinem poſen wil
+               <lb facs="#facs_11_r_1_tl_19" n="N019"/>len den er cʒu Ir het nicht wolt
+               <lb facs="#facs_11_r_1_tl_20" n="N020"/>volgen alcʒuhant do gab im
+               <lb facs="#facs_11_r_1_tl_21" n="N021"/>die <persName key="Crescentia">fraw <hi rend="underline">Creſſentia</hi></persName> cʒu trincken
+               <lb facs="#facs_11_r_1_tl_22" n="N022"/>die er nicht bekant do wart
+               <lb facs="#facs_11_r_1_tl_23" n="N023"/>er geſunt von ſeiner auſſetzig
+               <lb facs="#facs_11_r_1_tl_24" n="N024"/>keit <hi rend="highlight">¶</hi> Do nu̅ der <persName key="Zweiter_Herzog">hercʒog</persName> ver
+               <lb facs="#facs_11_r_1_tl_25" n="N025"/>nu̅men het das er im ſeinen
+               <lb facs="#facs_11_r_1_tl_26" n="N026"/>einigen <persName key="Sohn_des_Herzogpaars">ſun </persName>ermordet het vnd
+               <lb facs="#facs_11_r_1_tl_27" n="N027"/>auch die <persName key="Crescentia">ſeligen frawen</persName> vmb
+               <lb facs="#facs_11_r_1_tl_28" n="N028"/>vnſchuld in das waſſer gewo᷎
+               <lb facs="#facs_11_r_1_tl_29" n="N029"/>fen het do wart er ſo grimig
+               <lb facs="#facs_11_r_1_tl_30" n="N030"/>lichen ercʒurnet auf den <persName key="Hofmeister_des_Herzogs">hof</persName>
+               <lb facs="#facs_11_r_1_tl_31" n="N031"/><persName key="Hofmeister_des_Herzogs">meiſter</persName> das meint er wolt in
+               <lb facs="#facs_11_r_1_tl_32" n="N032"/>ertrencken Do vermanet in
+               <lb facs="#facs_11_r_1_tl_33" n="N033"/>die <persName key="Crescentia">ſelig fraw <hi rend="underline"></hi></persName><hi rend="underline"></hi> die
+               <lb facs="#facs_11_r_1_tl_34" n="N034"/>nymant bekannt ſulcher wort
+               <lb facs="#facs_11_r_1_tl_35" n="N035"/>die er dem <persName key="Hofmeister_des_Herzogs">hofmeiſter</persName> verſpr
+               <lb facs="#facs_11_r_1_tl_36" n="N036"/>ochen het das er in ſeins lebe̅s
+               <lb facs="#facs_11_r_1_tl_37" n="N037"/>geſichert het ob er icht wider
+               <lb facs="#facs_11_r_1_tl_38" n="N038"/>In getan het das der <persName key="Zweiter_Herzog">hercʒog</persName>
+               <lb facs="#facs_11_r_1_tl_39" n="N039"/>ablieſʒ von ſeinem cʒorn vnd
+               <lb facs="#facs_11_r_1_tl_40" n="N040"/>er ſprach cʒu dem <persName key="Hofmeister_des_Herzogs">hoffmeiſter</persName>
+               <lb facs="#facs_11_r_1_tl_41" n="N041"/>alſo Ach du vnſeliger morder
+            </ab>
+            <ab facs="#facs_11_r_4" >
+               <lb facs="#facs_11_r_4_tl_1" n="N001"/>XXVIII
+            </ab>
+            <ab facs="#facs_11_r_2" >
+               <lb facs="#facs_11_r_2_tl_1" n="N001"/>was haſtü an meinem einig
+               <lb facs="#facs_11_r_2_tl_2" n="N002"/>ein <persName key="Sohn_des_Herzogpaars">ſun</persName> vnd an der <persName key="Crescentia">frumen tu</persName>
+               <lb facs="#facs_11_r_2_tl_3" n="N003"/><persName key="Crescentia">genthafften frawen</persName> der ich
+               <lb facs="#facs_11_r_2_tl_4" n="N004"/>meinen <persName key="Sohn_des_Herzogpaars">Sun</persName> enpfolhen het
+               <lb facs="#facs_11_r_2_tl_5" n="N005"/>cʒu verſorgen gerochen die du
+               <lb facs="#facs_11_r_2_tl_6" n="N006"/>beid vmb vnſchuld ermordet
+               <lb facs="#facs_11_r_2_tl_7" n="N007"/>haſt Aber ſo ich dich deines le
+               <lb facs="#facs_11_r_2_tl_8" n="N008"/>bens geſichert hon ſo ſoltu dan
+               <lb facs="#facs_11_r_2_tl_9" n="N009"/>noch vmb ſulich vndat vnd
+               <lb facs="#facs_11_r_2_tl_10" n="N010"/>morderei vngepuſt nit pleibe̅
+               <lb facs="#facs_11_r_2_tl_11" n="N011"/>das ich deinen valſchen anplick
+               <lb facs="#facs_11_r_2_tl_12" n="N012"/>furbas mer nicht durf ſehen
+               <lb facs="#facs_11_r_2_tl_13" n="N013"/>vnd er lieſʒ in alcʒuha̅t ſahen
+               <lb facs="#facs_11_r_2_tl_14" n="N014"/>vnd lieſʒ in furn in das ellend
+               <lb facs="#facs_11_r_2_tl_15" n="N015"/>da er niema̅t beckant was
+               <lb facs="#facs_11_r_2_tl_16" n="N016"/>vnd furbas in armut <del rend="blackening"><hi rend="strikethrough">be</hi></del> le
+               <lb facs="#facs_11_r_2_tl_17" n="N017"/>bet bis an ſein end <hi rend="highlight">¶</hi> Dar
+               <lb facs="#facs_11_r_2_tl_18" n="N018"/>nach do wart dem <persName key="Kaiser_Dietrich">keiſer</persName> cʒu
+               <lb facs="#facs_11_r_2_tl_19" n="N019"/><placeName ref="https://www.wikidata.org/wiki/Q220">rom </placeName>geſagt das ein fraw gen
+               <lb facs="#facs_11_r_2_tl_20" n="N020"/>halb des meres wer die me
+               <lb facs="#facs_11_r_2_tl_21" n="N021"/>ht die auſſetʒigen menſchen
+               <lb facs="#facs_11_r_2_tl_22" n="N022"/>geſunt von iren ſeuchen Nu
+               <lb facs="#facs_11_r_2_tl_23" n="N023"/>was von dem tag als der <persName key="Kaiser_Dietrich">kei</persName>
+               <lb facs="#facs_11_r_2_tl_24" n="N024"/><persName key="Kaiser_Dietrich">ſer</persName> cʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName> <persName key="Herzog_Dietrich">ſeinem pruder</persName>
+               <lb facs="#facs_11_r_2_tl_25" n="N025"/><persName key="Herzog_Dietrich">dem hercʒogen</persName> het gewalt
+               <lb facs="#facs_11_r_2_tl_26" n="N026"/>geben uber die ſ<persName key="Crescentia">eligen fraw</persName>
+               <lb facs="#facs_11_r_2_tl_27" n="N027"/><persName key="Crescentia">en <hi rend="underline">Creſſentia</hi> ſeinem gema</persName>
+               <lb facs="#facs_11_r_2_tl_28" n="N028"/><persName key="Crescentia">hel</persName> vnſchuldiglichen cʒu do
+               <lb facs="#facs_11_r_2_tl_29" n="N029"/>ten das in <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> geplaget het
+               <lb facs="#facs_11_r_2_tl_30" n="N030"/>mit ſamt <persName key="Herzog_Dietrich">ſeinem pruder dem</persName>
+               <lb facs="#facs_11_r_2_tl_31" n="N031"/><persName key="Herzog_Dietrich">hercʒogen</persName> gar ſwerlichen mit
+               <lb facs="#facs_11_r_2_tl_32" n="N032"/>dem ſeuchen der auſſetʒigkeit
+               <lb facs="#facs_11_r_2_tl_33" n="N033"/>das ſie peid lagen in groſer
+               <lb facs="#facs_11_r_2_tl_34" n="N034"/>cranckheit vnd ſie ſtuncken
+               <lb facs="#facs_11_r_2_tl_35" n="N035"/>vnd waren ſo vnſauben an
+               <lb facs="#facs_11_r_2_tl_36" n="N036"/>cʒu ſe<unclear>n</unclear>hen das allen menſch
+               <lb facs="#facs_11_r_2_tl_37" n="N037"/>en vor in grawet ſie ancʒuſe
+               <lb facs="#facs_11_r_2_tl_38" n="N038"/>hen das het <persName ref="https://www.wikidata.org/wiki/Q190">got </persName>vber ſie ver
+               <lb facs="#facs_11_r_2_tl_39" n="N039"/>henget vmb die vndat die
+               <lb facs="#facs_11_r_2_tl_40" n="N040"/>ſie ander <persName key="Crescentia">vnſchuldigen fraw</persName>
+               <lb facs="#facs_11_r_2_tl_41" n="N041"/><persName key="Crescentia">en <hi rend="underline">Creſſentia</hi></persName> begangen heten
+            </ab>
+            <ab facs="#facs_11_r_3" >
+               <lb facs="#facs_11_r_3_tl_1" n="N001"/>Nun ſannt der <persName key="Kaiser_Dietrich">keiſer</persName> ſein <persName key="Boten Dietrichs">pote̅</persName>
+               <lb facs="#facs_11_r_3_tl_2" n="N002"/>auſʒ uber mer das ſie ſolten ſra
+               <lb facs="#facs_11_r_3_tl_3" n="N003"/>gen nach der frawen die die me̅
+               <lb facs="#facs_11_r_3_tl_4" n="N004"/>ſchen geſunt machet an dem
+               <lb facs="#facs_11_r_3_tl_5" n="N005"/>ſeuchen der auſſetʒikeit Do die
+               <lb facs="#facs_11_r_3_tl_6" n="N006"/>poten kamen uber mer do frag
+               <lb facs="#facs_11_r_3_tl_7" n="N007"/>ten ſie mit fleiſʒ wo ſie die fraw
+               <lb facs="#facs_11_r_3_tl_8" n="N008"/>en funden die die menſchen
+               <lb facs="#facs_11_r_3_tl_9" n="N009"/>geſunt machet von dem auſʒ
+               <lb facs="#facs_11_r_3_tl_10" n="N010"/>ſacz do wurden ſie geweiſet
+               <lb facs="#facs_11_r_3_tl_11" n="N011"/>cʒu dem <persName key="Zweiter_Herzog">hertʒogen</persName> den die <persName key="Crescentia">ſe</persName>
+               <lb facs="#facs_11_r_3_tl_12" n="N012"/><persName key="Crescentia">lig <hi rend="underline">Creſſentia</hi></persName> het geſunt ge
+               <lb facs="#facs_11_r_3_tl_13" n="N013"/>macht von ſeinem auſſacʒe
+               <lb facs="#facs_11_r_3_tl_14" n="N014"/>der wurdd ſie wol weiſen cʒu
+               <lb facs="#facs_11_r_3_tl_15" n="N015"/>der <hi rend="strikethrough"><del rend="blackening">ſebe</del>n</hi> ſelben frawen <hi rend="highlight">¶</hi>
+               <lb facs="#facs_11_r_3_tl_16" n="N016"/>Do die <persName key="Boten Dietrichs">poten des keiſers</persName> kam
+               <lb facs="#facs_11_r_3_tl_17" n="N017"/>en cʒu dem ſelben <persName key="Zweiter_Herzog">hercʒogen</persName>
+               <lb facs="#facs_11_r_3_tl_18" n="N018"/>do wurben ſie ir potſchafft gar
+               <lb facs="#facs_11_r_3_tl_19" n="N019"/>mit groſem fleiſʒ vnd ſagten
+               <lb facs="#facs_11_r_3_tl_20" n="N020"/>dem <persName key="Zweiter_Herzog">hercʒogen</persName> das der<persName key="Kaiser_Dietrich"> keiſer</persName>
+               <lb facs="#facs_11_r_3_tl_21" n="N021"/>leg cʒu <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName> vnd wer gar her
+               <lb facs="#facs_11_r_3_tl_22" n="N022"/><unclear>tig</unclear>lichen beſwert mit dem
+               <lb facs="#facs_11_r_3_tl_23" n="N023"/>ſeuchen der auſſecʒigkeit vn̅
+               <lb facs="#facs_11_r_3_tl_24" n="N024"/>auch ſein <persName key="Herzog_Dietrich">bruder</persName> mit ſamt Im
+               <lb facs="#facs_11_r_3_tl_25" n="N025"/>vnd paten Inn mit ernſtliche̅
+               <lb facs="#facs_11_r_3_tl_26" n="N026"/>fleiſʒ das er in <unclear>f</unclear> hulff das ſie
+               <lb facs="#facs_11_r_3_tl_27" n="N027"/>die ercʒtin mit in mohhten
+               <lb facs="#facs_11_r_3_tl_28" n="N028"/>pringen gen <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName>cʒu Irem
+               <lb facs="#facs_11_r_3_tl_29" n="N029"/>herren dem<persName key="Kaiser_Dietrich"> keiſer</persName> das er <persName key="Herzog_Dietrich">vn̅</persName>
+               <lb facs="#facs_11_r_3_tl_30" n="N030"/><persName key="Herzog_Dietrich">ſein bruder</persName> gereyniget wur
+               <lb facs="#facs_11_r_3_tl_31" n="N031"/>den von Irem auſſatʒ mit de̅
+               <lb facs="#facs_11_r_3_tl_32" n="N032"/>ſie beſwert warn biſʒ in den
+               <lb facs="#facs_11_r_3_tl_33" n="N033"/>tod Alcʒuhant do ſant d͛
+               <lb facs="#facs_11_r_3_tl_34" n="N034"/><persName key="Zweiter_Herzog">hercʒog </persName>nach der <persName key="Crescentia">ſeligen fra</persName>
+               <lb facs="#facs_11_r_3_tl_35" n="N035"/><persName key="Crescentia">wen</persName> vnd do ſie kain dawur
+               <lb facs="#facs_11_r_3_tl_36" n="N036"/>ben die <persName key="Boten Dietrichs">poten</persName> ir potſchafft cʒu
+               <lb facs="#facs_11_r_3_tl_37" n="N037"/>ir als in dann enpfolhen was
+               <lb facs="#facs_11_r_3_tl_38" n="N038"/>von <persName key="Kaiser_Dietrich">Irem herren dem keiſer</persName> ab
+               <lb facs="#facs_11_r_3_tl_39" n="N039"/>er ſie bekanten der <persName key="Crescentia">ſeligen fra</persName>
+               <lb facs="#facs_11_r_3_tl_40" n="N040"/><persName key="Crescentia">wen <hi rend="underline">Creſſentia</hi></persName> nicht <hi rend="highlight">¶</hi> Do
+               <lb facs="#facs_11_r_3_tl_41" n="N041"/>dye <persName key="Crescentia">ſelig fraw <hi rend="underline"></hi></persName><hi rend="underline"></hi> hort
+            </ab>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <ab facs="#facs_12_r" >
+               <lb facs="#facs_12_r_tl_1" n="N001"/>die großen cranckheit <persName key="Kaiser_Dietrich">irs her</persName>
+               <lb facs="#facs_12_r_tl_2" n="N002"/><persName key="Kaiser_Dietrich">ren</persName> do wart ſie beweget vn̅
+               <lb facs="#facs_12_r_tl_3" n="N003"/>gewan ein mitleiden mit Im
+               <lb facs="#facs_12_r_tl_4" n="N004"/>vnd gedaht das <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> noch et
+               <lb facs="#facs_12_r_tl_5" n="N005"/>was gutes wolt mit Im wir
+               <lb facs="#facs_12_r_tl_6" n="N006"/>ken durch ſie Darvmb ſo
+               <lb facs="#facs_12_r_tl_7" n="N007"/>was ſie villig vnd fur fro
+               <lb facs="#facs_12_r_tl_8" n="N008"/>lichen mit den poten uber
+               <lb facs="#facs_12_r_tl_9" n="N009"/>mer Vnd do ſie kam gen <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName>
+               <lb facs="#facs_12_r_tl_10" n="N010"/>da was ſie allen menſchen
+               <lb facs="#facs_12_r_tl_11" n="N011"/>vnbekant vnd der <persName key="Kaiser_Dietrich">keiſer</persName> vnd
+               <lb facs="#facs_12_r_tl_12" n="N012"/>alle menſchen die waren ir
+               <lb facs="#facs_12_r_tl_13" n="N013"/>cʒukunfft ſo vmb das ſie ey̅
+               <lb facs="#facs_12_r_tl_14" n="N014"/>hoffenung heten ſie wurd
+               <lb facs="#facs_12_r_tl_15" n="N015"/>den <persName key="Kaiser_Dietrich">keiſer</persName> vnd <persName key="Herzog_Dietrich">ſeinen bruder</persName>
+               <lb facs="#facs_12_r_tl_16" n="N016"/><persName key="Herzog_Dietrich">den hertʒogen</persName> geſunt mach
+               <lb facs="#facs_12_r_tl_17" n="N017"/>en von Irem auſſatʒ <hi rend="highlight">¶</hi> Dar
+               <lb facs="#facs_12_r_tl_18" n="N018"/>nach do ging die <persName key="Crescentia">edel <hi rend="underline">Creſſe̅</hi></persName>
+               <lb facs="#facs_12_r_tl_19" n="N019"/><persName key="Crescentia">tia</persName> cʒu <persName key="Kaiser_Dietrich">Irem lieben herren de̅</persName>
+               <lb facs="#facs_12_r_tl_20" n="N020"/><persName key="Kaiser_Dietrich">keiſer</persName> vnd fand in gar in gro
+               <lb facs="#facs_12_r_tl_21" n="N021"/>ſʒer cranckheit In der was er
+               <lb facs="#facs_12_r_tl_22" n="N022"/>gelegen von dem tag als er
+               <lb facs="#facs_12_r_tl_23" n="N023"/>ſeiner trewen an Ir vergeſſ
+               <lb facs="#facs_12_r_tl_24" n="N024"/>en het vnd ſie in das mer ge
+               <lb facs="#facs_12_r_tl_25" n="N025"/>ſenckt wart vnd do ſie in an
+               <lb facs="#facs_12_r_tl_26" n="N026"/>ſahe <unclear>ſ</unclear> do mobt ſie ſich weines
+               <lb facs="#facs_12_r_tl_27" n="N027"/>nicht enthalten vnd do ſie dʒ
+               <lb facs="#facs_12_r_tl_28" n="N028"/>vertrucket do ging ſie cʒu <persName key="Kaiser_Dietrich">ire̅</persName>
+               <lb facs="#facs_12_r_tl_29" n="N029"/><persName key="Kaiser_Dietrich">herren dem keiſer</persName> vnd claget
+               <lb facs="#facs_12_r_tl_30" n="N030"/>in gar demutiglichen vnd er
+               <lb facs="#facs_12_r_tl_31" n="N031"/>enpfing ſie gar mit freunt
+               <lb facs="#facs_12_r_tl_32" n="N032"/>lichen worten als vil er dan̅
+               <lb facs="#facs_12_r_tl_33" n="N033"/>vor ſeiner cranckheit moht
+               <lb facs="#facs_12_r_tl_34" n="N034"/>gereden vnd pat ſie das ſie in
+               <lb facs="#facs_12_r_tl_35" n="N035"/>wolt entledige von ſeine̅ ſwe
+               <lb facs="#facs_12_r_tl_36" n="N036"/>ren ſeuchen Do antwurt im
+               <lb facs="#facs_12_r_tl_37" n="N037"/>die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"></hi> gar gutlich
+               <lb facs="#facs_12_r_tl_38" n="N038"/>en vnd ſprach alſo lieber her
+               <lb facs="#facs_12_r_tl_39" n="N039"/>wolt ir meinen worten volge̅
+               <lb facs="#facs_12_r_tl_40" n="N040"/>die ir von mir werdent verne
+               <lb facs="#facs_12_r_tl_41" n="N041"/>nemen ſo hon ich gar ein gut
+            </ab>
+            <ab facs="#facs_12_r_1" >
+               <lb facs="#facs_12_r_1_tl_1" n="N001"/>hoffenung cʒu <persName ref="https://www.wikidata.org/wiki/Q190">got </persName>dem alle
+               <lb facs="#facs_12_r_1_tl_2" n="N002"/>ding müglichen ſein cʒu tun
+               <lb facs="#facs_12_r_1_tl_3" n="N003"/>ich wol euch in ſeiner crafſt
+               <lb facs="#facs_12_r_1_tl_4" n="N004"/>geſunt machen von ewern
+               <lb facs="#facs_12_r_1_tl_5" n="N005"/>feuchen Der wort wart der
+               <lb facs="#facs_12_r_1_tl_6" n="N006"/><persName key="Kaiser_Dietrich">keiſer</persName> gar ſro vnd ſprach tʒu
+               <lb facs="#facs_12_r_1_tl_7" n="N007"/>ir alſo aller liepſte fraw was
+               <lb facs="#facs_12_r_1_tl_8" n="N008"/>ir mir gepietet vnd heiſʒet des
+               <lb facs="#facs_12_r_1_tl_9" n="N009"/>will ich euch gern gehorſam
+               <lb facs="#facs_12_r_1_tl_10" n="N010"/>ſein Do ſprach die <persName key="Crescentia">edel fraw</persName>
+               <lb facs="#facs_12_r_1_tl_11" n="N011"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> alſo herr <del rend="blackening"><hi rend="strikethrough">a</hi></del> beſen
+               <lb facs="#facs_12_r_1_tl_12" n="N012"/>der alle ewer furſten vnd h͛n
+               <lb facs="#facs_12_r_1_tl_13" n="N013"/>hie tʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName> das ſie gegenw͛
+               <lb facs="#facs_12_r_1_tl_14" n="N014"/>tiglichen hie bei euch ſein vn̄
+               <lb facs="#facs_12_r_1_tl_15" n="N015"/>die wort voren die ich ewern
+               <lb facs="#facs_12_r_1_tl_16" n="N016"/>gnaden ſagen will Alcʒuha̅t
+               <lb facs="#facs_12_r_1_tl_17" n="N017"/>do beſannt der <persName key="Kaiser_Dietrich">keiſer</persName> alle ſein
+               <lb facs="#facs_12_r_1_tl_18" n="N018"/>furſten vnd herren vnd den ſe
+               <lb facs="#facs_12_r_1_tl_19" n="N019"/>nat in der ſtat cʒu <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName> die ka
+               <lb facs="#facs_12_r_1_tl_20" n="N020"/>men alcʒuhant tʒu der gevor
+               <lb facs="#facs_12_r_1_tl_21" n="N021"/>ſame des <persName key="Kaiser_Dietrich">keiſers</persName> Do hub die
+               <lb facs="#facs_12_r_1_tl_22" n="N022"/><persName key="Crescentia">ſelig frawe <hi rend="underline">Creſſentia</hi></persName> gar cʒuh
+               <lb facs="#facs_12_r_1_tl_23" n="N023"/>tiglichen vnd weiſʒlichen an
+               <lb facs="#facs_12_r_1_tl_24" n="N024"/>tʒu reden vor den furſten als
+               <lb facs="#facs_12_r_1_tl_25" n="N025"/>ſie wol konde vnd ſprach alſo
+               <lb facs="#facs_12_r_1_tl_26" n="N026"/>herr wolt ir ein offene peicht
+               <lb facs="#facs_12_r_1_tl_27" n="N027"/>thun vor ewern furſten vnd
+               <lb facs="#facs_12_r_1_tl_28" n="N028"/>herren vnd vor allem volck
+               <lb facs="#facs_12_r_1_tl_29" n="N029"/>vnd wolt euch ewer̅ ſunden
+               <lb facs="#facs_12_r_1_tl_30" n="N030"/>offenlichen ſchuldig geben di
+               <lb facs="#facs_12_r_1_tl_31" n="N031"/>ir wiſſentlichen begangen habt
+               <lb facs="#facs_12_r_1_tl_32" n="N032"/>vnd wolt Ir euch die laſʒen lert
+               <lb facs="#facs_12_r_1_tl_33" n="N033"/>ſein das ir ſie begangen habt
+               <lb facs="#facs_12_r_1_tl_34" n="N034"/>ſo will ich euch durch die craſt
+               <lb facs="#facs_12_r_1_tl_35" n="N035"/><hi rend="underline"><persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName> </hi>enpinden von ewern
+               <lb facs="#facs_12_r_1_tl_36" n="N036"/>ſeuchen Do ſprach der<persName key="Kaiser_Dietrich"> keiſer</persName>
+               <lb facs="#facs_12_r_1_tl_37" n="N037"/>Ia ich wil es gern thun vnd
+               <lb facs="#facs_12_r_1_tl_38" n="N038"/>er hub an tʒu reden vor alle̅
+               <lb facs="#facs_12_r_1_tl_39" n="N039"/>volk vnd ſaget alles das das
+               <lb facs="#facs_12_r_1_tl_40" n="N040"/>or moht erdencken das er bei
+               <lb facs="#facs_12_r_1_tl_41" n="N041"/>ſeinem leben ye begangen vn̅
+            </ab>
+            <ab facs="#facs_12_r_2" >
+               <lb facs="#facs_12_r_2_tl_1" n="N001"/>XXIX
+            </ab>
+            <ab facs="#facs_12_r_3" >
+               <lb facs="#facs_12_r_3_tl_1" n="N001"/>getan het vnd do er nu nicht mer
+               <lb facs="#facs_12_r_3_tl_2" n="N002"/>weſt cʒu ſagen do lub er an tʒu
+               <lb facs="#facs_12_r_3_tl_3" n="N003"/>dem letʒſten mit manigen
+               <lb facs="#facs_12_r_3_tl_4" n="N004"/>ſeuftʒen vnd clagen vnd ſprach
+               <lb facs="#facs_12_r_3_tl_5" n="N005"/>alſo <persName ref="https://www.wikidata.org/wiki/Q190"><hi rend="highlight">G</hi>ot</persName> der bet mir geben vn̄
+               <lb facs="#facs_12_r_3_tl_6" n="N006"/>auſʒerwelt einen <persName key="Crescentia">ſeligen edeln̅</persName>
+               <lb facs="#facs_12_r_3_tl_7" n="N007"/><persName key="Crescentia"> gemahel die hieſʒ mit dem na</persName>
+               <lb facs="#facs_12_r_3_tl_8" n="N008"/><persName key="Crescentia">men <hi rend="underline">Creſſentia</hi> </persName> an der ich andd͛
+               <lb facs="#facs_12_r_3_tl_9" n="N009"/>nicht erkant dann das ſie frum̅
+               <lb facs="#facs_12_r_3_tl_10" n="N010"/>vnd gereht was in allen Irem
+               <lb facs="#facs_12_r_3_tl_11" n="N011"/>leben gen <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> vnd den allen
+               <lb facs="#facs_12_r_3_tl_12" n="N012"/>menſchen vber die <persName key="Crescentia">ſeligen tug</persName>
+               <lb facs="#facs_12_r_3_tl_13" n="N013"/><persName key="Crescentia">entlichen frawen</persName> verhenget
+               <lb facs="#facs_12_r_3_tl_14" n="N014"/>ich das ſie getotet vnd in das
+               <lb facs="#facs_12_r_3_tl_15" n="N015"/>mer verſenckt ward vmb die
+               <lb facs="#facs_12_r_3_tl_16" n="N016"/>ſelben dat ſtrfet mich <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> al
+               <lb facs="#facs_12_r_3_tl_17" n="N017"/>cʒuhant mit meiner cranckheit
+               <lb facs="#facs_12_r_3_tl_18" n="N018"/>des gib ich wuch ſchuldig offen
+               <lb facs="#facs_12_r_3_tl_19" n="N019"/>par vor <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> vnd vor allen me̅
+               <lb facs="#facs_12_r_3_tl_20" n="N020"/>ſchen Nach ſulchen worten man
+               <lb facs="#facs_12_r_3_tl_21" n="N021"/>die <persName key="Crescentia">ſelig fraw <hi rend="underline">Creſſentia</hi> </persName>das
+               <lb facs="#facs_12_r_3_tl_22" n="N022"/>krawt das ir <persName ref="https://www.wikidata.org/wiki/Q345">vnſer liebe frawe</persName>
+               <lb facs="#facs_12_r_3_tl_23" n="N023"/>geben het vnd gab dem <persName key="Kaiser_Dietrich">keiſer</persName>
+               <lb facs="#facs_12_r_3_tl_24" n="N024"/>davon tʒu trincken Alcʒuhant
+               <lb facs="#facs_12_r_3_tl_25" n="N025"/>geſchahe von der crafft <persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName>
+               <lb facs="#facs_12_r_3_tl_26" n="N026"/>das ſich das vnrein̅ fleiſch des
+               <lb facs="#facs_12_r_3_tl_27" n="N027"/><persName key="Kaiser_Dietrich">keiſers</persName> verwandelt vnd er ſtu̅d
+               <lb facs="#facs_12_r_3_tl_28" n="N028"/>auf vnd was friſch vnd wol ge
+               <lb facs="#facs_12_r_3_tl_29" n="N029"/>ſunt an allen ſeinem leib als
+               <lb facs="#facs_12_r_3_tl_30" n="N030"/>er ye geweſen was Do das groſʒ
+               <lb facs="#facs_12_r_3_tl_31" n="N031"/>wundercʒeichen die furſten vn̄
+               <lb facs="#facs_12_r_3_tl_32" n="N032"/>die herren vnd alles volck der
+               <lb facs="#facs_12_r_3_tl_33" n="N033"/>ſtat cʒu <placeName ref="https://www.wikidata.org/wiki/Q220">Rom</placeName> ſahen do wurden
+               <lb facs="#facs_12_r_3_tl_34" n="N034"/>Die alcʒumal fro vnd lobten <persName ref="https://www.wikidata.org/wiki/Q190">got</persName>
+               <lb facs="#facs_12_r_3_tl_35" n="N035"/>mat ſamt dem <persName key="Kaiser_Dietrich">keiſer</persName> <hi rend="highlight">¶</hi> Dar
+               <lb facs="#facs_12_r_3_tl_36" n="N036"/>nach do pat der <persName key="Kaiser_Dietrich">keiſer</persName> vnd die
+               <lb facs="#facs_12_r_3_tl_37" n="N037"/><persName key="Gefolgschaft">furſten</persName> gemeiniglich cʒu <placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rome</hi></placeName>
+               <lb facs="#facs_12_r_3_tl_38" n="N038"/>die <persName key="Crescentia">ſeligen frawen <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_12_r_3_tl_39" n="N039"/>die dannoch allen menſchen
+               <lb facs="#facs_12_r_3_tl_40" n="N040"/>vnbekant was das ſie wolt de̅
+               <lb facs="#facs_12_r_3_tl_41" n="N041"/><persName key="Herzog_Dietrich">hercʒogen des keiſers pruder</persName>
+            </ab>
+            <ab facs="#facs_12_r_4" >
+               <lb facs="#facs_12_r_4_tl_1" n="N001"/>auch geſunt machen der die
+               <lb facs="#facs_12_r_4_tl_2" n="N002"/>ſelben ſeuchen der auſſetʒigkeit
+               <lb facs="#facs_12_r_4_tl_3" n="N003"/>auch gar ſwerlichen manige̅
+               <lb facs="#facs_12_r_4_tl_4" n="N004"/>tag gehabt het Do ſprach die
+               <lb facs="#facs_12_r_4_tl_5" n="N005"/><persName key="Crescentia">ſelig fraw</persName> alſo iſt das er wil
+               <lb facs="#facs_12_r_4_tl_6" n="N006"/>thun als <persName key="Kaiser_Dietrich">ſein bruder vnſer her᷎</persName>
+               <lb facs="#facs_12_r_4_tl_7" n="N007"/><persName key="Kaiser_Dietrich">der keiſer</persName> getan hat vnd will
+               <lb facs="#facs_12_r_4_tl_8" n="N008"/>ſeiner ſunden offenlichen be
+               <lb facs="#facs_12_r_4_tl_9" n="N009"/>kennen vor allem volck ſo hon
+               <lb facs="#facs_12_r_4_tl_10" n="N010"/>ich ein hoffenu̅ng ich will in
+               <lb facs="#facs_12_r_4_tl_11" n="N011"/>durch die craft <persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName> geſunt
+               <lb facs="#facs_12_r_4_tl_12" n="N012"/>machen Do verſah der <persName key="Herzog_Dietrich">hercʒ</persName>
+               <lb facs="#facs_12_r_4_tl_13" n="N013"/><persName key="Herzog_Dietrich">og</persName> er wolt es gern thun vnd
+               <lb facs="#facs_12_r_4_tl_14" n="N014"/>des an offenlichen vor allem
+               <lb facs="#facs_12_r_4_tl_15" n="N015"/>volck cʒu reden vnd gabe ſich
+               <lb facs="#facs_12_r_4_tl_16" n="N016"/>ſeiner ſunden ſchuldig die er
+               <lb facs="#facs_12_r_4_tl_17" n="N017"/>begangen het Aber er ver
+               <lb facs="#facs_12_r_4_tl_18" n="N018"/>ſweig der mortlichen ſunden
+               <lb facs="#facs_12_r_4_tl_19" n="N019"/>die er bechangen het an der
+               <lb facs="#facs_12_r_4_tl_20" n="N020"/><persName key="Crescentia">ſeligen vnſchuldigen keiſer</persName>
+               <lb facs="#facs_12_r_4_tl_21" n="N021"/><persName key="Crescentia">in der lieben <hi rend="underline">Creſſentia</hi></persName> die ge
+               <lb facs="#facs_12_r_4_tl_22" n="N022"/>genwertig was die dannoch
+               <lb facs="#facs_12_r_4_tl_23" n="N023"/>nymant bekan̅t vnd do er nicht
+               <lb facs="#facs_12_r_4_tl_24" n="N024"/>mer wolt ſagen do pleib er
+               <lb facs="#facs_12_r_4_tl_25" n="N025"/>in ſeiner cranckhet vnd wart
+               <lb facs="#facs_12_r_4_tl_26" n="N026"/>nicht geſunt Do ſprach die
+               <lb facs="#facs_12_r_4_tl_27" n="N027"/><persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> cʒu In alſo
+               <lb facs="#facs_12_r_4_tl_28" n="N028"/>herr ir habt etwas verſwi
+               <lb facs="#facs_12_r_4_tl_29" n="N029"/>gen das ir nicht geoffenpart
+               <lb facs="#facs_12_r_4_tl_30" n="N030"/>habt darvmb ſo bedenckt euch
+               <lb facs="#facs_12_r_4_tl_31" n="N031"/>pas ob ir anders wolt geſunt
+               <lb facs="#facs_12_r_4_tl_32" n="N032"/>werden Do ſprach der <persName key="Herzog_Dietrich">hercʒog</persName>
+               <lb facs="#facs_12_r_4_tl_33" n="N033"/>ich hon geſagt das ich <unclear>i</unclear>cʒunt
+               <lb facs="#facs_12_r_4_tl_34" n="N034"/>nicht mer will ſagen ich ſolt
+               <lb facs="#facs_12_r_4_tl_35" n="N035"/>es dann heimlichen vnd <hi rend="strikethrough"><unclear>o</unclear></hi> nit
+               <lb facs="#facs_12_r_4_tl_36" n="N036"/>offenpar ſagen Do ſprach a
+               <lb facs="#facs_12_r_4_tl_37" n="N037"/>ber <persName key="Crescentia"><hi rend="underline">creſſentia</hi></persName> herr ſo kan ich
+               <lb facs="#facs_12_r_4_tl_38" n="N038"/>euch nicht geſunt machen
+               <lb facs="#facs_12_r_4_tl_39" n="N039"/>von ewern ſeuchen der auſʒ
+               <lb facs="#facs_12_r_4_tl_40" n="N040"/>ſetʒigkeit ir ſagt es dann of
+               <lb facs="#facs_12_r_4_tl_41" n="N041"/>fenpar vor allem volck
+            </ab>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <ab facs="#facs_13_r_1" >
+               <lb facs="#facs_13_r_1_tl_1" n="N001"/>Do der <persName key="Kaiser_Dietrich">keiſer</persName> vnd die <persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456">furſten</persName>
+               <lb facs="#facs_13_r_1_tl_2" n="N002"/>ſahen das der <persName key="Herzog_Dietrich">hercʒog</persName> nichtʒ
+               <lb facs="#facs_13_r_1_tl_3" n="N003"/>mer wolt ſagen do pat in der
+               <lb facs="#facs_13_r_1_tl_4" n="N004"/><persName key="Kaiser_Dietrich">keiſer</persName> vnd die <persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456">furſten</persName> <del rend="blackening"><hi rend="strikethrough">ſahen</hi></del>
+               <lb facs="#facs_13_r_1_tl_5" n="N005"/>alcʒu̅mal das er ſagen ſolt
+               <lb facs="#facs_13_r_1_tl_6" n="N006"/>was er weſt das er getan het
+               <lb facs="#facs_13_r_1_tl_7" n="N007"/>vnd ſolt an Im ſelber nicht
+               <lb facs="#facs_13_r_1_tl_8" n="N008"/>ſchuldig werden vnd do ſie
+               <lb facs="#facs_13_r_1_tl_9" n="N009"/>in eins ſulchen nicht moh
+               <lb facs="#facs_13_r_1_tl_10" n="N010"/>ten vber kumen das er mer
+               <lb facs="#facs_13_r_1_tl_11" n="N011"/>ſagen wolt Do ſprach die
+               <lb facs="#facs_13_r_1_tl_12" n="N012"/><persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> cʒu <persName key="Kaiser_Dietrich">irem hn͛</persName>
+               <lb facs="#facs_13_r_1_tl_13" n="N013"/><persName key="Kaiser_Dietrich">dem keiſer</persName> alſo lieber her ich
+               <lb facs="#facs_13_r_1_tl_14" n="N014"/>bit euch das ir mir wolt gu̅
+               <lb facs="#facs_13_r_1_tl_15" n="N015"/>nen mit <persName key="Herzog_Dietrich">ewern pruder dem</persName>
+               <lb facs="#facs_13_r_1_tl_16" n="N016"/><persName key="Herzog_Dietrich">hercʒogen</persName> heimlichen tʒu re
+               <lb facs="#facs_13_r_1_tl_17" n="N017"/>den ob er mir wol volgen dʒ
+               <lb facs="#facs_13_r_1_tl_18" n="N018"/>er ſich vmb ſeiner geſuntheit
+               <lb facs="#facs_13_r_1_tl_19" n="N019"/>willen ſeiner Sunden offenlich
+               <lb facs="#facs_13_r_1_tl_20" n="N020"/>ein wol ſchuldig geben des
+               <lb facs="#facs_13_r_1_tl_21" n="N021"/>pat ſie der <persName key="Kaiser_Dietrich">keiſer</persName> mit fleiſʒ
+               <lb facs="#facs_13_r_1_tl_22" n="N022"/>das ſie in wolt vnterweiſen
+               <lb facs="#facs_13_r_1_tl_23" n="N023"/>das er ein ſulchs tet Do ſp̃ch
+               <lb facs="#facs_13_r_1_tl_24" n="N024"/>die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"></hi> tʒu dem
+               <lb facs="#facs_13_r_1_tl_25" n="N025"/><persName key="Kaiser_Dietrich">keiſer</persName> alſo lieber herre ob ich
+               <lb facs="#facs_13_r_1_tl_26" n="N026"/>mit <persName key="Herzog_Dietrich">ewerm pruder</persName> rede das
+               <lb facs="#facs_13_r_1_tl_27" n="N027"/>er mir volget das er ſich all͛
+               <lb facs="#facs_13_r_1_tl_28" n="N028"/>ſeiner ſunden offenpar ſchul
+               <lb facs="#facs_13_r_1_tl_29" n="N029"/>dig machet vnd ob er icht
+               <lb facs="#facs_13_r_1_tl_30" n="N030"/>wider ewer genade getan
+               <lb facs="#facs_13_r_1_tl_31" n="N031"/>het das ir Im das vmb <persName ref="https://www.wikidata.org/wiki/Q190">gotes</persName>
+               <lb facs="#facs_13_r_1_tl_32" n="N032"/>willen wollet vergeben vnd
+               <lb facs="#facs_13_r_1_tl_33" n="N033"/>wollet im das nicht ʒu ſach
+               <lb facs="#facs_13_r_1_tl_34" n="N034"/>ein Do ſprach der <persName key="Kaiser_Dietrich">keiſer</persName> cʒu
+               <lb facs="#facs_13_r_1_tl_35" n="N035"/>der <persName key="Crescentia">ſeligen <hi rend="underline"></hi></persName><hi rend="underline"></hi> die er
+               <lb facs="#facs_13_r_1_tl_36" n="N036"/>dannoch nicht bekant alſo
+               <lb facs="#facs_13_r_1_tl_37" n="N037"/>liebe fraw vmb ein ſulchs ſult
+               <lb facs="#facs_13_r_1_tl_38" n="N038"/>Ir mein gut maht haben ob
+               <lb facs="#facs_13_r_1_tl_39" n="N039"/><persName key="Herzog_Dietrich">mein pruder </persName>icht vnder mich
+               <lb facs="#facs_13_r_1_tl_40" n="N040"/>getan hat das ich von Im nit
+               <lb facs="#facs_13_r_1_tl_41" n="N041"/>weyſʒ ſo will ich vmb <persName ref="https://www.wikidata.org/wiki/Q190">gots</persName> will
+            </ab>
+            <ab facs="#facs_13_r_2" >
+               <lb facs="#facs_13_r_2_tl_1" n="N001"/>len Vnd beſunder vmb ewer
+               <lb facs="#facs_13_r_2_tl_2" n="N002"/>begerung Vnd pet willen
+               <lb facs="#facs_13_r_2_tl_3" n="N003"/>Um das ver geben vnd will
+               <lb facs="#facs_13_r_2_tl_4" n="N004"/>Im des nicht cʒu ſachen do
+               <lb facs="#facs_13_r_2_tl_5" n="N005"/>ging die <persName key="Crescentia">ſelig <hi rend="underline"></hi></persName><hi rend="underline"> al</hi>
+               <lb facs="#facs_13_r_2_tl_6" n="N006"/>len tʒu dem <persName key="Herzog_Dietrich">hercʒogen</persName> vnd
+               <lb facs="#facs_13_r_2_tl_7" n="N007"/>ſaget im wie ſie mit dem <persName key="Kaiser_Dietrich">kei</persName>
+               <lb facs="#facs_13_r_2_tl_8" n="N008"/><persName key="Kaiser_Dietrich">ſer ſeinem pruder</persName> geret het
+               <lb facs="#facs_13_r_2_tl_9" n="N009"/>das er ir verſprochen het ob
+               <lb facs="#facs_13_r_2_tl_10" n="N010"/>er icht wider in getan het
+               <lb facs="#facs_13_r_2_tl_11" n="N011"/>das er Im das nicht wolt cʒu
+               <lb facs="#facs_13_r_2_tl_12" n="N012"/>ſachen Do antwurt der <persName key="Herzog_Dietrich">her</persName>
+               <lb facs="#facs_13_r_2_tl_13" n="N013"/><persName key="Herzog_Dietrich">cʒog</persName> der <persName key="Crescentia">ſeligen <hi rend="underline"></hi></persName><hi rend="underline"> d͛</hi>
+               <lb facs="#facs_13_r_2_tl_14" n="N014"/>er nicht bekant vnd ſprach
+               <lb facs="#facs_13_r_2_tl_15" n="N015"/>alſo liebe frawe moht ich mich
+               <lb facs="#facs_13_r_2_tl_16" n="N016"/>ſulcher wort cʒu ewern trew
+               <lb facs="#facs_13_r_2_tl_17" n="N017"/>en gelaſʒn das ich meines le
+               <lb facs="#facs_13_r_2_tl_18" n="N018"/>bens gen <persName key="Kaiser_Dietrich">meinem pruder de</persName>̅
+               <lb facs="#facs_13_r_2_tl_19" n="N019"/><persName key="Kaiser_Dietrich">keiſer</persName> ſicher wer vor einem ſul
+               <lb facs="#facs_13_r_2_tl_20" n="N020"/>chen wenn er bekent das ich
+               <lb facs="#facs_13_r_2_tl_21" n="N021"/>ſwerlichen wider In getan het
+               <lb facs="#facs_13_r_2_tl_22" n="N022"/>darvmb ich des todes ſchuldig
+               <lb facs="#facs_13_r_2_tl_23" n="N023"/>vnd vervallen wer Do antw
+               <lb facs="#facs_13_r_2_tl_24" n="N024"/>urt im aber die <persName key="Crescentia">ſelig <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_13_r_2_tl_25" n="N025"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> vnd ſprach alſo lieber her
+               <lb facs="#facs_13_r_2_tl_26" n="N026"/>glaubt mir vmb ein ſullichs
+               <lb facs="#facs_13_r_2_tl_27" n="N027"/>wann <persName key="Kaiser_Dietrich">ewer pruder</persName> der get
+               <lb facs="#facs_13_r_2_tl_28" n="N028"/>ſeiner wort nicht hinter ſich
+               <lb facs="#facs_13_r_2_tl_29" n="N029"/>die er mir von ewern wegen
+               <lb facs="#facs_13_r_2_tl_30" n="N030"/>verſprochen hat Do ſprach der
+               <lb facs="#facs_13_r_2_tl_31" n="N031"/><persName key="Herzog_Dietrich">hercʒog</persName> tʒu der<persName key="Crescentia"> ſeligen <hi rend="underline">Creſſe</hi></persName>
+               <lb facs="#facs_13_r_2_tl_32" n="N032"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> alſo liebe fraw auff ewern
+               <lb facs="#facs_13_r_2_tl_33" n="N033"/>croſt vnd guten getrawen den
+               <lb facs="#facs_13_r_2_tl_34" n="N034"/>ich tʒu euch hab ſo willl ich offe̅
+               <lb facs="#facs_13_r_2_tl_35" n="N035"/>lichen meiner ſunden veriehe̅
+               <lb facs="#facs_13_r_2_tl_36" n="N036"/>Do ging die<persName key="Crescentia"> ſelig fraw <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_13_r_2_tl_37" n="N037"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName> cʒu dem <persName key="Kaiser_Dietrich">keiſer</persName> vnd tʒu
+               <lb facs="#facs_13_r_2_tl_38" n="N038"/>den <persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456">furſten</persName> vnd furt ſie cʒu de̅
+               <lb facs="#facs_13_r_2_tl_39" n="N039"/><persName key="Herzog_Dietrich">herʒogen</persName> der von ſeiner cra̅ck
+               <lb facs="#facs_13_r_2_tl_40" n="N040"/>heit wegen nicht moht auf
+               <lb facs="#facs_13_r_2_tl_41" n="N041"/>ſten Vnd ſaget in das ſie In vnt
+            </ab>
+            <ab facs="#facs_13_r" >
+               <lb facs="#facs_13_r_tl_1" n="N001"/>XXX
+            </ab>
+            <ab facs="#facs_13_r_3" >
+               <lb facs="#facs_13_r_3_tl_1" n="N001"/>weiſet het das er ſich ſeiner ſu̅
+               <lb facs="#facs_13_r_3_tl_2" n="N002"/>den alcʒumal wolt offenlich
+               <lb facs="#facs_13_r_3_tl_3" n="N003"/>en ſchuldig geben vnd er hub
+               <lb facs="#facs_13_r_3_tl_4" n="N004"/>an vnd ſaget vor dem<persName key="Kaiser_Dietrich"> keiſer</persName>
+               <lb facs="#facs_13_r_3_tl_5" n="N005"/>vnd vor ſeinen <persName key="Gefolgschaft"  ref="https://www.wikidata.org/wiki/Q2747456">furſten vnd her
+               <lb facs="#facs_13_r_3_tl_6" n="N006"/>ren</persName> vnd vor allem volck der
+               <lb facs="#facs_13_r_3_tl_7" n="N007"/>ſtat cʒu<placeName ref="https://www.wikidata.org/wiki/Q220"> <hi rend="underline"></hi></placeName><hi rend="underline"> </hi>wie er ſo gar vn
+               <lb facs="#facs_13_r_3_tl_8" n="N008"/>getrewlichen mit der ſ<persName key="Crescentia">eligen</persName>
+               <lb facs="#facs_13_r_3_tl_9" n="N009"/><persName key="Crescentia">keiſerin <hi rend="underline">Creſſentia</hi> ſeines pru</persName>
+               <lb facs="#facs_13_r_3_tl_10" n="N010"/><persName key="Crescentia">ders weip</persName> die er Im ſo getrew
+               <lb facs="#facs_13_r_3_tl_11" n="N011"/>lichen enpfolhen het wer vm̅
+               <lb facs="#facs_13_r_3_tl_12" n="N012"/>gangen vnd vmb das ſie ſein
+               <lb facs="#facs_13_r_3_tl_13" n="N013"/>ein poſen willen wider ſproch
+               <lb facs="#facs_13_r_3_tl_14" n="N014"/>en het darvmb ſo het er ſie
+               <lb facs="#facs_13_r_3_tl_15" n="N015"/>felſchlichen verlogen gen de̅
+               <lb facs="#facs_13_r_3_tl_16" n="N016"/><persName key="Kaiser_Dietrich">keiſer</persName> das er Im gewalt het
+               <lb facs="#facs_13_r_3_tl_17" n="N017"/>geben uber ſie tʒu toten Do
+               <lb facs="#facs_13_r_3_tl_18" n="N018"/>er ſich ſulcher mortlichen ſun
+               <lb facs="#facs_13_r_3_tl_19" n="N019"/>den ſchuldig gab vor allem volk
+               <lb facs="#facs_13_r_3_tl_20" n="N020"/>Alcʒuhant ſtunde er auff vn̅
+               <lb facs="#facs_13_r_3_tl_21" n="N021"/>was geſunt vnd friſch worde̅
+               <lb facs="#facs_13_r_3_tl_22" n="N022"/>von ſeinem ſeuchen <hi rend="highlight">¶</hi> Do
+               <lb facs="#facs_13_r_3_tl_23" n="N023"/>nu̅ der <persName key="Kaiser_Dietrich">keiſer</persName> vernume̅ het
+               <lb facs="#facs_13_r_3_tl_24" n="N024"/>das <persName key="Herzog_Dietrich">ſein bruder</persName> ſo felſchliche
+               <lb facs="#facs_13_r_3_tl_25" n="N025"/>vnd vngetrewelichen cʒu Im vn̅
+               <lb facs="#facs_13_r_3_tl_26" n="N026"/>an ſ<persName key="Crescentia">einem lieben gemahel der</persName>
+               <lb facs="#facs_13_r_3_tl_27" n="N027"/><persName key="Crescentia">ſeligen frawen <hi rend="underline">Creſſentia</hi></persName> geta̅
+               <lb facs="#facs_13_r_3_tl_28" n="N028"/>het do vil er in ſulch leit vnd
+               <lb facs="#facs_13_r_3_tl_29" n="N029"/>vngemach das er <persName key="Herzog_Dietrich">ſeinen pru</persName>
+               <lb facs="#facs_13_r_3_tl_30" n="N030"/><persName key="Herzog_Dietrich">der</persName> alcʒuhant wolt ertot ha
+               <lb facs="#facs_13_r_3_tl_31" n="N031"/>ben Aber die <persName key="Crescentia">ſelig fraw <hi rend="underline">Creſʒ</hi></persName>
+               <lb facs="#facs_13_r_3_tl_32" n="N032"/><persName key="Crescentia"><hi rend="underline">ſentia</hi></persName>die dannoch nymant
+               <lb facs="#facs_13_r_3_tl_33" n="N033"/>bekennet die vermanet den
+               <lb facs="#facs_13_r_3_tl_34" n="N034"/><persName key="Kaiser_Dietrich">keiſer</persName> ſulcher wort die er ir vo̅
+               <lb facs="#facs_13_r_3_tl_35" n="N035"/><persName key="Herzog_Dietrich">ſeines pruder</persName> wegen verſproch
+               <lb facs="#facs_13_r_3_tl_36" n="N036"/>en het das er ſich bedacht vnd
+               <lb facs="#facs_13_r_3_tl_37" n="N037"/>ſeinem cʒorn nicht nach volget
+               <lb facs="#facs_13_r_3_tl_38" n="N038"/>Darnach do trat die <persName key="Crescentia">ſelig fraw</persName>
+               <lb facs="#facs_13_r_3_tl_39" n="N039"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi></persName> cʒu <persName key="Kaiser_Dietrich">Irem lieben her</persName>
+               <lb facs="#facs_13_r_3_tl_40" n="N040"/><persName key="Kaiser_Dietrich">ren dem keiſer</persName> vnd ſprach cʒu
+               <lb facs="#facs_13_r_3_tl_41" n="N041"/>Im alſo lieber herre habt gedult
+            </ab>
+            <ab facs="#facs_13_r_4" >
+               <lb facs="#facs_13_r_4_tl_1" n="N001"/>In ewern ſachen wan̅ <persName  ref="https://www.wikidata.org/wiki/Q190">got der
+               <lb facs="#facs_13_r_4_tl_2" n="N002"/>her͛e</persName> dut nichtʒ er meint all
+               <lb facs="#facs_13_r_4_tl_3" n="N003"/>weren ein gutes dar Innen ab͛
+               <lb facs="#facs_13_r_4_tl_4" n="N004"/>wir mugen es des erſten nicht
+               <lb facs="#facs_13_r_4_tl_5" n="N005"/>erckennen Alſo hat euch <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> ge¬
+               <lb facs="#facs_13_r_4_tl_6" n="N006"/>ſtraffet mit einem ſweren ſeuch
+               <lb facs="#facs_13_r_4_tl_7" n="N007"/>en der auſſetʒigkeit <unclear>i</unclear>cʒunt ma
+               <lb facs="#facs_13_r_4_tl_8" n="N008"/>nig Iar gar ſwerlichen vmb das
+               <lb facs="#facs_13_r_4_tl_9" n="N009"/>er will das Ir hie ſult puſen ew͛
+               <lb facs="#facs_13_r_4_tl_10" n="N010"/>vnd wan̅ die puſʒ die wir hie
+               <lb facs="#facs_13_r_4_tl_11" n="N011"/>leiden vmb vnſer ſund die iſt
+               <lb facs="#facs_13_r_4_tl_12" n="N012"/>leiht cʒu thun vnd nymt ſchir
+               <lb facs="#facs_13_r_4_tl_13" n="N013"/>ein ende Aber die puſʒ die vns
+               <lb facs="#facs_13_r_4_tl_14" n="N014"/><persName ref="https://www.wikidata.org/wiki/Q190">got</persName> ſpart da mit er vns puſet
+               <lb facs="#facs_13_r_4_tl_15" n="N015"/>nach diſem leben das iſt gar
+               <lb facs="#facs_13_r_4_tl_16" n="N016"/>ein ſwere grawſame puſʒ vn̅
+               <lb facs="#facs_13_r_4_tl_17" n="N017"/>wert gar lang Darvmb ſo
+               <lb facs="#facs_13_r_4_tl_18" n="N018"/><del rend="blackening"><hi rend="strikethrough">muſʒ</hi></del> mug wir wie gern̅ pu
+               <lb facs="#facs_13_r_4_tl_19" n="N019"/>ſen Do nu die <persName key="Crescentia">ſelig fraw <hi rend="underline">Creſ</hi></persName>
+               <lb facs="#facs_13_r_4_tl_20" n="N020"/><persName key="Crescentia"><hi rend="underline">ſentia</hi> </persName>mit i<persName key="Kaiser_Dietrich">rem lieben herr</persName>
+               <lb facs="#facs_13_r_4_tl_21" n="N021"/><persName key="Kaiser_Dietrich">ren</persName> etwie lang geret het do
+               <lb facs="#facs_13_r_4_tl_22" n="N022"/>nam er ir rede vnd wort gar
+               <lb facs="#facs_13_r_4_tl_23" n="N023"/>eben war vnd ſie waren Im
+               <lb facs="#facs_13_r_4_tl_24" n="N024"/>der einfellig das er gedcht
+               <lb facs="#facs_13_r_4_tl_25" n="N025"/>an <persName key="Crescentia">ſeinen lieben gemahel die</persName>
+               <lb facs="#facs_13_r_4_tl_26" n="N026"/><persName key="Crescentia">ſeligen <hi rend="underline">Creſſentia</hi></persName> vnd er ge
+               <lb facs="#facs_13_r_4_tl_27" n="N027"/>daht in ſeinem gemut ach
+               <lb facs="#facs_13_r_4_tl_28" n="N028"/>wie gar gleich iſt <persName key="Crescentia">diſe fraw</persName>
+               <lb facs="#facs_13_r_4_tl_29" n="N029"/><persName key="Crescentia">meiner lieben gemahel der</persName>
+               <lb facs="#facs_13_r_4_tl_30" n="N030"/><persName key="Crescentia">ſeligen <hi rend="underline">Creſſentia</hi></persName> vnd ie len
+               <lb facs="#facs_13_r_4_tl_31" n="N031"/>ger er ſie an ſah ye einfelliger
+               <lb facs="#facs_13_r_4_tl_32" n="N032"/>ſie Im wart <hi rend="highlight">¶</hi> Nu̅ het die
+               <lb facs="#facs_13_r_4_tl_33" n="N033"/><persName key="Crescentia">ſelig fraw <hi rend="underline">Creſſentia</hi></persName> ein gul
+               <lb facs="#facs_13_r_4_tl_34" n="N034"/>din crewcʒ das ſtund cʒwiſch
+               <lb facs="#facs_13_r_4_tl_35" n="N035"/>en Iren ſchultern mit dem
+               <lb facs="#facs_13_r_4_tl_36" n="N036"/>creucz het ſie <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> vercʒeiche̅t
+               <lb facs="#facs_13_r_4_tl_37" n="N037"/>In müterlichem leib vnd wart
+               <lb facs="#facs_13_r_4_tl_38" n="N038"/>damit geporn das ſie ſolt wer
+               <lb facs="#facs_13_r_4_tl_39" n="N039"/>den ein kint der ewigen ſelig
+               <lb facs="#facs_13_r_4_tl_40" n="N040"/>keit das creucʒ weſt nymant
+               <lb facs="#facs_13_r_4_tl_41" n="N041"/>an Irem leib dann Ir lieber her᷎
+            </ab>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+            <ab facs="#facs_14_r_1" >
+               <lb facs="#facs_14_r_1_tl_1" n="N001"/>der <persName key="Kaiser_Dietrich">keiſer</persName> wann Iren le den
+               <lb facs="#facs_14_r_1_tl_2" n="N002"/>het kein man als ſie tʒu ir ver
+               <lb facs="#facs_14_r_1_tl_3" n="N003"/>nu̅fft kumen was ploſʒ nye
+               <lb facs="#facs_14_r_1_tl_4" n="N004"/>beſchawet dann <persName key="Kaiser_Dietrich">Ir lieber her᷎</persName>
+               <lb facs="#facs_14_r_1_tl_5" n="N005"/><persName key="Kaiser_Dietrich">vnd gemahel der keiſer</persName> an das
+               <lb facs="#facs_14_r_1_tl_6" n="N006"/>ſelbe treucʒ gedaht der <persName key="Kaiser_Dietrich">keiſer</persName>
+               <lb facs="#facs_14_r_1_tl_7" n="N007"/>vnd hub an gar gutlichen vn̄
+               <lb facs="#facs_14_r_1_tl_8" n="N008"/>mit lieplichen worten cʒu re
+               <lb facs="#facs_14_r_1_tl_9" n="N009"/>den vnd ſprach alſo aller liep
+               <lb facs="#facs_14_r_1_tl_10" n="N010"/>ſte freundin ich bit vnd beger
+               <lb facs="#facs_14_r_1_tl_11" n="N011"/>von ewern tugenden vnd lieb
+               <lb facs="#facs_14_r_1_tl_12" n="N012"/>das ir mir durch ewer demut
+               <lb facs="#facs_14_r_1_tl_13" n="N013"/>wollet gunnen das ich müg
+               <lb facs="#facs_14_r_1_tl_14" n="N014"/>auf ewerm ruck cʒwiſchen
+               <lb facs="#facs_14_r_1_tl_15" n="N015"/>ewern ſchultern durch ewer
+               <lb facs="#facs_14_r_1_tl_16" n="N016"/>gewant ſchneiden ein loch
+               <lb facs="#facs_14_r_1_tl_17" n="N017"/>eines vingers lang mit ey
+               <lb facs="#facs_14_r_1_tl_18" n="N018"/>nem cleÿnen ſcherlin vmb dʒ
+               <lb facs="#facs_14_r_1_tl_19" n="N019"/>meint er fund er das creucʒ
+               <lb facs="#facs_14_r_1_tl_20" n="N020"/>auf Irem Ruck ʒwiſchen iren
+               <lb facs="#facs_14_r_1_tl_21" n="N021"/>ſchultern als er dann das vor
+               <lb facs="#facs_14_r_1_tl_22" n="N022"/>cʒeiten offt geſenhen het ſo
+               <lb facs="#facs_14_r_1_tl_23" n="N023"/>wer <persName key="Crescentia">die fraw die keiſerin <hi rend="underline"></hi></persName>
+               <lb facs="#facs_14_r_1_tl_24" n="N024"/><persName key="Crescentia"><hi rend="underline">ſentia</hi> ſein lieber gemahel</persName>
+               <lb facs="#facs_14_r_1_tl_25" n="N025"/><hi rend="highlight">¶</hi> Alcʒuhant do verſtund di
+               <lb facs="#facs_14_r_1_tl_26" n="N026"/><persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName> die meinu̅g
+               <lb facs="#facs_14_r_1_tl_27" n="N027"/><persName key="Kaiser_Dietrich">irs herren des keiſers</persName> wol vn̅
+               <lb facs="#facs_14_r_1_tl_28" n="N028"/>ſie antwurt im gar gutliche̅
+               <lb facs="#facs_14_r_1_tl_29" n="N029"/>vnd vernuftiglichen als ſie
+               <lb facs="#facs_14_r_1_tl_30" n="N030"/>dann vormals allwegen ge
+               <lb facs="#facs_14_r_1_tl_31" n="N031"/>tan het vnd ſprach cʒu Im alſo
+               <lb facs="#facs_14_r_1_tl_32" n="N032"/>Aller liepſter vnd gnedigſter
+               <lb facs="#facs_14_r_1_tl_33" n="N033"/>herr ewer begerung pin ich
+               <lb facs="#facs_14_r_1_tl_34" n="N034"/>ewer lieb ſchuldig cʒu uolpri̅
+               <lb facs="#facs_14_r_1_tl_35" n="N035"/>gen Vnd darvmb ſo ſult ir ey
+               <lb facs="#facs_14_r_1_tl_36" n="N036"/>nes ſulchen gut maht habe̅
+               <lb facs="#facs_14_r_1_tl_37" n="N037"/>von mir cʒz thun Auch ſo bit
+               <lb facs="#facs_14_r_1_tl_38" n="N038"/>ich ewer gnade das ir mich ey
+               <lb facs="#facs_14_r_1_tl_39" n="N039"/>ner pet darnach auch nicht
+               <lb facs="#facs_14_r_1_tl_40" n="N040"/>wolt vertreiben darvmb ich
+               <lb facs="#facs_14_r_1_tl_41" n="N041"/>beger euch cʒu biten Do ant
+            </ab>
+            <ab facs="#facs_14_r_2" >
+               <lb facs="#facs_14_r_2_tl_1" n="N001"/>wurt Ir der <persName key="Kaiser_Dietrich">keiſer</persName> auſʒ groſʒer
+               <lb facs="#facs_14_r_2_tl_2" n="N002"/>lieb ſeins hercʒen vnd ſprach
+               <lb facs="#facs_14_r_2_tl_3" n="N003"/>alſo Aller liepſte freundin was
+               <lb facs="#facs_14_r_2_tl_4" n="N004"/>ewer lieb mag erdencken mich
+               <lb facs="#facs_14_r_2_tl_5" n="N005"/>tʒu piten des ſult ir von mir ge
+               <lb facs="#facs_14_r_2_tl_6" n="N006"/>wert ſein als verr mein leipe
+               <lb facs="#facs_14_r_2_tl_7" n="N007"/>vnd mein reich gereichen mag
+               <lb facs="#facs_14_r_2_tl_8" n="N008"/>Alcʒuhant nach ſulchen worte̅
+               <lb facs="#facs_14_r_2_tl_9" n="N009"/>da kert ſich die <persName key="Crescentia">ſelig <hi rend="underline">Creſſentia</hi></persName>
+               <lb facs="#facs_14_r_2_tl_10" n="N010"/>vmb vor <persName key="Kaiser_Dietrich">Irem herren dem kei</persName>
+               <lb facs="#facs_14_r_2_tl_11" n="N011"/><persName key="Kaiser_Dietrich">ſer</persName> vnd gonde im nach ſeiner
+               <lb facs="#facs_14_r_2_tl_12" n="N012"/>begerung ein loch tʒu ſchnei
+               <lb facs="#facs_14_r_2_tl_13" n="N013"/>den durch Ir gewant ʒwiſch
+               <lb facs="#facs_14_r_2_tl_14" n="N014"/>en Iren ſchultern Vnd do der
+               <lb facs="#facs_14_r_2_tl_15" n="N015"/><persName key="Kaiser_Dietrich">keiſer</persName> ir gewant alſo geoffent
+               <lb facs="#facs_14_r_2_tl_16" n="N016"/>het mit einem cleinen ſcherlin
+               <lb facs="#facs_14_r_2_tl_17" n="N017"/>Alcʒuhant do fand er das creucʒ
+               <lb facs="#facs_14_r_2_tl_18" n="N018"/>tʒwiſchen Iren ſchultern Do er
+               <lb facs="#facs_14_r_2_tl_19" n="N019"/>ckan̅t er <persName key="Crescentia">ſeinen lieben gemahel</persName>
+               <lb facs="#facs_14_r_2_tl_20" n="N020"/><persName key="Crescentia">Vnd keiſerin die edeln vnd ſelig</persName>
+               <lb facs="#facs_14_r_2_tl_21" n="N021"/><persName key="Crescentia">en frawen <hi rend="underline">Creſſentia</hi></persName> vnd er vil
+               <lb facs="#facs_14_r_2_tl_22" n="N022"/>nider fur ſie auf die erden vnd
+               <lb facs="#facs_14_r_2_tl_23" n="N023"/>lag vor Ir das er vor Iamer ein
+               <lb facs="#facs_14_r_2_tl_24" n="N024"/>wort nicht moht gereden Alcʒu
+               <lb facs="#facs_14_r_2_tl_25" n="N025"/>hant wart die <persName key="Crescentia">ſelig keiſerin</persName>
+               <lb facs="#facs_14_r_2_tl_26" n="N026"/>encʒundet vnd gewan ein mit
+               <lb facs="#facs_14_r_2_tl_27" n="N027"/>leiden mit <persName key="Kaiser_Dietrich">irem lieben herren</persName>
+               <lb facs="#facs_14_r_2_tl_28" n="N028"/>vnd vil cʒu Im nider auf die er
+               <lb facs="#facs_14_r_2_tl_29" n="N029"/>den Vnd lagen alſo bei ein ander
+               <lb facs="#facs_14_r_2_tl_30" n="N030"/>auf der erden das ir eins mit
+               <lb facs="#facs_14_r_2_tl_31" n="N031"/>dem andern vor Iamer ein wort
+               <lb facs="#facs_14_r_2_tl_32" n="N032"/>nicht moht gereden Do das die
+               <lb facs="#facs_14_r_2_tl_33" n="N033"/><persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456">furſten vnd die herren</persName> tʒu <placeName ref="https://www.wikidata.org/wiki/Q220">rom</placeName>
+               <lb facs="#facs_14_r_2_tl_34" n="N034"/>ſahen die wundercʒeichen die da
+               <lb facs="#facs_14_r_2_tl_35" n="N035"/>geſchehen warn die gewunne̅
+               <lb facs="#facs_14_r_2_tl_36" n="N036"/>ein groſ mitleiden mit dem
+               <lb facs="#facs_14_r_2_tl_37" n="N037"/><persName key="Kaiser_Dietrich">keiſer</persName> vnd mit der <persName key="Crescentia">keiſerin der</persName>
+               <lb facs="#facs_14_r_2_tl_38" n="N038"/><persName key="Crescentia">ſeligen <hi rend="underline">Creſſentia</hi></persName> vnd darnah
+               <lb facs="#facs_14_r_2_tl_39" n="N039"/>do ſie cʒu In ſelber kamen Vnd
+               <lb facs="#facs_14_r_2_tl_40" n="N040"/>mit ein ander mohten gereden
+               <lb facs="#facs_14_r_2_tl_41" n="N041"/>do gincʒen die <persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456">furſten</persName> tʒu in vn̄
+            </ab>
+            <ab facs="#facs_14_r" >
+               <lb facs="#facs_14_r_tl_1" n="N001"/>XXXI
+            </ab>
+            <ab facs="#facs_14_r_3" >
+               <lb facs="#facs_14_r_3_tl_1" n="N001"/>huben ſie beide aus von der erde̅
+               <lb facs="#facs_14_r_3_tl_2" n="N002"/>Darnach do vmbving der <persName key="Kaiser_Dietrich">kei</persName>
+               <lb facs="#facs_14_r_3_tl_3" n="N003"/><persName key="Kaiser_Dietrich">ſer</persName> die <persName key="Crescentia">edeln vnd ſeligen keiſerin</persName>
+               <lb facs="#facs_14_r_3_tl_4" n="N004"/><persName key="Crescentia"><hi rend="underline">Creſſentia</hi> ſeinen lieben gema</persName>
+               <lb facs="#facs_14_r_3_tl_5" n="N005"/><persName key="Crescentia">hel</persName> gar lieplichen mit ſeinen
+               <lb facs="#facs_14_r_3_tl_6" n="N006"/>armen vnd enpfing ſie mit
+               <lb facs="#facs_14_r_3_tl_7" n="N007"/>groſen frewden vnd die <persName key="Gefolgschaft"  ref="https://www.wikidata.org/wiki/Q2747456">furſte̅
+               <lb facs="#facs_14_r_3_tl_8" n="N008"/>vnd die herren</persName> ein <unclear>itlicher</unclear> beſu̅
+               <lb facs="#facs_14_r_3_tl_9" n="N009"/>der die frewten ſich alcʒumal d͛
+               <lb facs="#facs_14_r_3_tl_10" n="N010"/>cʒukunft der <persName key="Crescentia">ſeligen keiſerin</persName>
+               <lb facs="#facs_14_r_3_tl_11" n="N011"/><persName key="Crescentia"><hi rend="underline"> Creſſentia</hi></persName> mit groſʒem frew
+               <lb facs="#facs_14_r_3_tl_12" n="N012"/>den <hi rend="highlight">¶</hi> Darnach do ſaget die
+               <lb facs="#facs_14_r_3_tl_13" n="N013"/><persName key="Crescentia">ſelig keiſerin <hi rend="underline">Creſſentia</hi></persName> dem
+               <lb facs="#facs_14_r_3_tl_14" n="N014"/><persName key="Kaiser_Dietrich">keiſer</persName> vnd allen<persName key="Gefolgschaft" ref="https://www.wikidata.org/wiki/Q2747456"> furſten</persName> die gro
+               <lb facs="#facs_14_r_3_tl_15" n="N015"/>ſen wundercʒeichen die <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> du
+               <lb facs="#facs_14_r_3_tl_16" n="N016"/>rch <persName ref="https://www.wikidata.org/wiki/Q345">ſein liebe muͦter die Iungk
+               <lb facs="#facs_14_r_3_tl_17" n="N017"/>frawen <hi rend="underline">maria</hi></persName> gewurcket het
+               <lb facs="#facs_14_r_3_tl_18" n="N018"/>vnd wie ſieſʒ cʒu ʒweyen maln̅
+               <lb facs="#facs_14_r_3_tl_19" n="N019"/>ernert vnd auſʒ dem mer ge
+               <lb facs="#facs_14_r_3_tl_20" n="N020"/>furt het vnd do ſie In alle ding
+               <lb facs="#facs_14_r_3_tl_21" n="N021"/>geſacht vnd geoffenpart het
+               <lb facs="#facs_14_r_3_tl_22" n="N022"/>wie es ir in der cʒeit ergange̅
+               <lb facs="#facs_14_r_3_tl_23" n="N023"/>het do kart ſie ſich gar demu
+               <lb facs="#facs_14_r_3_tl_24" n="N024"/>tiglichen̅ gen dem <persName key="Kaiser_Dietrich">keiſer</persName> vnd
+               <lb facs="#facs_14_r_3_tl_25" n="N025"/>ſprach cʒu Im alſo <hi rend="highlight">¶</hi> Aller lip
+               <lb facs="#facs_14_r_3_tl_26" n="N026"/>ſter vnd getrewſter herre ſo
+               <lb facs="#facs_14_r_3_tl_27" n="N027"/>nu̅ <persName ref="https://www.wikidata.org/wiki/Q190">got der allmechtig </persName>ſullich
+               <lb facs="#facs_14_r_3_tl_28" n="N028"/>groſʒ ſeuchen vnd cranckheit
+               <lb facs="#facs_14_r_3_tl_29" n="N029"/>vnd groſʒ angſt vnd not uber
+               <lb facs="#facs_14_r_3_tl_30" n="N030"/>euch vnd mich verhengt hat
+               <lb facs="#facs_14_r_3_tl_31" n="N031"/>vnd <persName ref="https://www.wikidata.org/wiki/Q345">vnſer liebe fraw ſein gebe
+               <lb facs="#facs_14_r_3_tl_32" n="N032"/>nedigt muter</persName> vns cʒu hilff iſt
+               <lb facs="#facs_14_r_3_tl_33" n="N033"/>kumen In vnſern noten vmb
+               <lb facs="#facs_14_r_3_tl_34" n="N034"/>peſſerug willen vnſers lebens
+               <lb facs="#facs_14_r_3_tl_35" n="N035"/>Darvmb ſo bit ich vnd beger
+               <lb facs="#facs_14_r_3_tl_36" n="N036"/>von ewern gnaden vmb der
+               <lb facs="#facs_14_r_3_tl_37" n="N037"/>wort willen die ir mir ver
+               <lb facs="#facs_14_r_3_tl_38" n="N038"/>ſprochen habt warvmb ich euch
+               <lb facs="#facs_14_r_3_tl_39" n="N039"/>pit das ir das wolt volpring
+               <lb facs="#facs_14_r_3_tl_40" n="N040"/>en das wir <persName ref="https://www.wikidata.org/wiki/Q190">got</persName> vnd <persName ref="https://www.wikidata.org/wiki/Q345">ſeiner lie
+                  <lb facs="#facs_14_r_3_tl_41" n="N041"/>ben muͦter der Iunckfraw <hi rend="underline">maria</hi></persName>
+            </ab>
+            <ab facs="#facs_14_r_4" >
+               <lb facs="#facs_14_r_4_tl_1" n="N001"/>aller gnaden wollen da̅ck
+               <lb facs="#facs_14_r_4_tl_2" n="N002"/>en die ſie an vns leiden bega̅
+               <lb facs="#facs_14_r_4_tl_3" n="N003"/>gen vnd gelegt haben vnd
+               <lb facs="#facs_14_r_4_tl_4" n="N004"/>wollen die kurcʒen frewde vn̅
+               <lb facs="#facs_14_r_4_tl_5" n="N005"/>woluſt diſer werlt verſmehe̅
+               <lb facs="#facs_14_r_4_tl_6" n="N006"/>vnd wollen furbas mer ein
+               <lb facs="#facs_14_r_4_tl_7" n="N007"/>abgeſcheiden leben furn in rey
+               <lb facs="#facs_14_r_4_tl_8" n="N008"/>nigkeit vnſers leibes vmb iren
+               <lb facs="#facs_14_r_4_tl_9" n="N009"/>willen <hi rend="highlight">¶</hi> Do antwurt ir der
+               <lb facs="#facs_14_r_4_tl_10" n="N010"/><persName key="Kaiser_Dietrich">keiſer</persName> gar gutlichen vnd ſprach
+               <lb facs="#facs_14_r_4_tl_11" n="N011"/>alſo <persName key="Crescentia">aller lieſpter gemahel <hi rend="underline"></hi></persName><hi rend="underline"></hi>
+               <lb facs="#facs_14_r_4_tl_12" n="N012"/><hi rend="underline"><persName key="Crescentia">ſentia </persName></hi>ewerm heilſamen rat
+               <lb facs="#facs_14_r_4_tl_13" n="N013"/>dem wil ich gern nach volge̅
+               <lb facs="#facs_14_r_4_tl_14" n="N014"/>Darvmb ſo nemt für euch
+               <lb facs="#facs_14_r_4_tl_15" n="N015"/>was vns das nucʒeſt ſei nach
+               <lb facs="#facs_14_r_4_tl_16" n="N016"/>vnſer ſel ſeligkeit des will ich
+               <lb facs="#facs_14_r_4_tl_17" n="N017"/>euch gern vervolgen Do die
+               <lb facs="#facs_14_r_4_tl_18" n="N018"/><persName key="Crescentia">edel keiſerin die ſelig <hi rend="underline">Creſſen</hi></persName>
+               <lb facs="#facs_14_r_4_tl_19" n="N019"/><persName key="Crescentia"><hi rend="underline">tia</hi></persName> vernam den guten willen
+               <lb facs="#facs_14_r_4_tl_20" n="N020"/><persName key="Kaiser_Dietrich">irs lieben herren</persName> do wart ſie
+               <lb facs="#facs_14_r_4_tl_21" n="N021"/>gar fro vnd ſie ſtifftet gar ey̅
+               <lb facs="#facs_14_r_4_tl_22" n="N022"/>wirdiges frawen cloſter cʒu
+               <lb facs="#facs_14_r_4_tl_23" n="N023"/><placeName ref="https://www.wikidata.org/wiki/Q220"><hi rend="underline">Rom</hi></placeName> in der ere <persName ref="https://www.wikidata.org/wiki/Q345">vnſer lieben fra
+               <lb facs="#facs_14_r_4_tl_24" n="N024"/>wen </persName>darein lieſʒ ſie ſich ſegen
+               <lb facs="#facs_14_r_4_tl_25" n="N025"/>mit xxx • Iunckfrawen vnd fra
+               <lb facs="#facs_14_r_4_tl_26" n="N026"/>wen dar Innen furt ſie ein vol
+               <lb facs="#facs_14_r_4_tl_27" n="N027"/>kumens ſeligs abeſcheides le
+               <lb facs="#facs_14_r_4_tl_28" n="N028"/>ben piſʒ an ir ende <hi rend="highlight">¶</hi> Darnach 
+               <lb facs="#facs_14_r_4_tl_29" n="N029"/>do <unclear>gabe</unclear> der <persName key="Kaiser_Dietrich">keiſer</persName> ſ<persName key="Herzog_Dietrich">einem pru</persName>
+               <lb facs="#facs_14_r_4_tl_30" n="N030"/><persName key="Herzog_Dietrich">der </persName>das<placeName ref="https://www.wikidata.org/wiki/Q220"> Romiſch reich</placeName> auf vn
+               <lb facs="#facs_14_r_4_tl_31" n="N031"/>verſmeht allen cʒeitlichen ge
+               <lb facs="#facs_14_r_4_tl_32" n="N032"/>walt vnd reichtum diſer werlt
+               <lb facs="#facs_14_r_4_tl_33" n="N033"/>vnd kam In ein cloſter vnd wart
+               <lb facs="#facs_14_r_4_tl_34" n="N034"/>ein begeben man vnd dynet
+               <lb facs="#facs_14_r_4_tl_35" n="N035"/><persName ref="https://www.wikidata.org/wiki/Q190">got</persName> in groſer heiligkeit furbas
+               <lb facs="#facs_14_r_4_tl_36" n="N036"/>bis an ſein ende Do nu der
+               <lb facs="#facs_14_r_4_tl_37" n="N037"/><persName key="Herzog_Dietrich">hercʒog des keiſers pruder</persName> er
+               <lb facs="#facs_14_r_4_tl_38" n="N038"/>kant das <persName key="Kaiser_Dietrich">ſein pruder der ke</persName>i
+               <lb facs="#facs_14_r_4_tl_39" n="N039"/><persName key="Kaiser_Dietrich">ſer</persName> vnd die keiſerin <add>di</add> der werlt
+               <lb facs="#facs_14_r_4_tl_40" n="N040"/>heten verſweht vnd furten ein
+               <lb facs="#facs_14_r_4_tl_41" n="N041"/>abgeſcheiden ſeligs leben Do
+            </ab>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <ab facs="#facs_15_r_1" >
+               <lb facs="#facs_15_r_1_tl_1" n="N001"/>bechant er ſich in ſeinen ſunde̅
+               <lb facs="#facs_15_r_1_tl_2" n="N002"/>vnd gab das <placeName ref="https://www.wikidata.org/wiki/Q220">Romiſche reiche</placeName>
+               <lb facs="#facs_15_r_1_tl_3" n="N003"/>wider auf vnd puſet ſein ſund
+               <lb facs="#facs_15_r_1_tl_4" n="N004"/>vnd fur ein ſtreng keuſchs le
+               <lb facs="#facs_15_r_1_tl_5" n="N005"/>ben furbas bis an ſein ende ―
+               <lb facs="#facs_15_r_1_tl_6" n="N006"/>Collerta · <persName ref="https://www.wikidata.org/wiki/Q190">Almehtiger got</persName> der
+               <lb facs="#facs_15_r_1_tl_7" n="N007"/>du nach allen deinem vermu
+               <lb facs="#facs_15_r_1_tl_8" n="N008"/>gen deinen fleiſʒ dar an legen
+               <lb facs="#facs_15_r_1_tl_9" n="N009"/>wolſt das dem <persName ref="https://www.wikidata.org/wiki/Q345">gepererin die
+               <lb facs="#facs_15_r_1_tl_10" n="N010"/>Iunckfraw <hi rend="underline">maria</hi></persName> das aller
+               <lb facs="#facs_15_r_1_tl_11" n="N011"/>edelſt menſch ſolt werden in
+               <lb facs="#facs_15_r_1_tl_12" n="N012"/>menſchlicher natur das in di
+               <lb facs="#facs_15_r_1_tl_13" n="N013"/>ſe werlt ye geporn wart noch
+               <lb facs="#facs_15_r_1_tl_14" n="N014"/>nymer nie geporn̅ wirt wir
+               <lb facs="#facs_15_r_1_tl_15" n="N015"/>biten dich wenn die ſelbe dem
+               <lb facs="#facs_15_r_1_tl_16" n="N016"/><persName ref="https://www.wikidata.org/wiki/Q345">gepere͛in die Iuncfraw <hi rend="underline">maria</hi></persName>
+               <lb facs="#facs_15_r_1_tl_17" n="N017"/>dich wirt fur vns biten das
+               <lb facs="#facs_15_r_1_tl_18" n="N018"/>wir durch irs gepetʒ willen
+               <lb facs="#facs_15_r_1_tl_19" n="N019"/>kumen in die <placeName key="Himmel, Paradies">hymeliſchen reich</placeName>
+               <lb facs="#facs_15_r_1_tl_20" n="N020"/>amen Das verleib vns durch
+               <lb facs="#facs_15_r_1_tl_21" n="N021"/><persName  ref="https://www.wikidata.org/wiki/Q37090">deinenn eingepornen Sun vn
+               <lb facs="#facs_15_r_1_tl_22" n="N022"/>ſern herren <hi rend="underline">iheſum criſtum</hi>
+               <lb facs="#facs_15_r_1_tl_23" n="N023"/>der mit dir <hi rend="strikethrough">lebt</hi> vnd herſcht
+               <lb facs="#facs_15_r_1_tl_24" n="N024"/>in einigkeit des heiligen gei
+               <lb facs="#facs_15_r_1_tl_25" n="N025"/>ſtes </persName> <persName ref="https://www.wikidata.org/wiki/Q190">Got </persName>ymmer in ewigkeit
+               <lb facs="#facs_15_r_1_tl_26" n="N026"/>der ewigkeit dinen
+             
+            </ab>
+         </div>
+      </body>
+   </text> 
+</TEI>
